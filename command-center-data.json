@@ -1,8 +1,8 @@
 {
   "dataDate": "2026-11-07",
-  "version": 4,
+  "version": 5,
   "updatedBy": "Brain",
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread, sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "youtube": {
     "channel": "Let Me Address This TV",
     "handle": "@letmeaddressthis",
@@ -166,23 +166,11 @@
     "tomorrow": "Day 5 - Ocean & Culture"
   },
   "gmail": {
-    "unreadCount": 201,
+    "unreadCount": 1,
     "items": [
       {
         "from": "Google",
-        "subject": "Shared data with GitHub"
-      },
-      {
-        "from": "vidIQ",
-        "subject": "Sort videos by this column"
-      },
-      {
-        "from": "PayPro",
-        "subject": "Publer Business renewed"
-      },
-      {
-        "from": "OpusClip",
-        "subject": "Resize video 1 click"
+        "subject": "Security alert"
       }
     ]
   },
