@@ -2,17 +2,20 @@
   "dataDate": "2026-11-07",
   "version": 4,
   "updatedBy": "Brain",
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh — NVDA/SPCX/VOO are NOT pinned; they appear only when they are moving. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread, sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "youtube": {
     "channel": "Let Me Address This TV",
-    "deadline": "Feb 1, 2027",
     "handle": "@letmeaddressthis",
-    "hoursGap": 3540.5,
     "started": "Oct 23, 2026",
-    "subsGained365d": 60,
-    "subsGap": 940,
-    "subscriberGoal": 1000,
     "subscribers": 60,
+    "subscriberGoal": 1000,
+    "subsGap": 940,
+    "subsGained365d": 60,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000,
+    "hoursGap": 3540.5,
+    "views365d": 42203,
+    "viewsLast48h": 1168,
     "top48h": [
       {
         "title": "She Spoils Her Man...",
@@ -27,83 +30,80 @@
         "views": 120
       }
     ],
-    "views365d": 42203,
-    "viewsLast48h": 1168,
-    "watchHours": 459.5,
-    "watchHoursGoal": 4000
+    "deadline": "Feb 1, 2027"
   },
   "facebook": {
-    "followers": 29,
-    "nonFollowersShare": "99.5%",
-    "oneMinuteViews": 12,
     "page": "Let Me Address This TV",
     "period": "Oct 10 - Nov 6, 2026",
-    "reelsShare": "99.9%",
+    "views28d": 16788,
     "threeSecondViews": 7600,
-    "views28d": 16788
+    "oneMinuteViews": 12,
+    "reelsShare": "99.9%",
+    "nonFollowersShare": "99.5%",
+    "followers": 29
   },
   "tiktok": {
-    "comments": 83,
-    "followers": null,
-    "forYouShare": "98.6%",
     "handle": "@showtimelv26",
-    "likes": 455,
+    "videoViews60d": "17.4K",
     "profileViews": 65,
-    "rewards": "$0.00",
+    "likes": 455,
+    "comments": 83,
     "shares": 8,
-    "videoViews60d": "17.4K"
+    "forYouShare": "98.6%",
+    "rewards": "$0.00",
+    "followers": null
   },
   "stocks": {
     "asOf": "Fri Nov 6 close",
     "items": [
       {
-        "catalyst": "earnings beat, cloud growth",
-        "change": "+35.3%",
+        "symbol": "FROG",
         "name": "JFrog",
         "price": 100.98,
-        "symbol": "FROG"
+        "change": "+35.3%",
+        "catalyst": "earnings beat, cloud growth"
       },
       {
-        "catalyst": "space rebound",
-        "change": "+15.4%",
+        "symbol": "RKLB",
         "name": "Rocket Lab",
         "price": 53.67,
-        "symbol": "RKLB"
+        "change": "+15.4%",
+        "catalyst": "space rebound"
       },
       {
-        "catalyst": "EPS beat + buyback",
-        "change": "+11.67%",
+        "symbol": "ABNB",
         "name": "Airbnb",
         "price": 189.99,
-        "symbol": "ABNB"
+        "change": "+11.67%",
+        "catalyst": "EPS beat + buyback"
       },
       {
-        "catalyst": "chip recovery",
-        "change": "+11.04%",
+        "symbol": "AMD",
         "name": "Advanced Micro Devices",
         "price": 449.04,
-        "symbol": "AMD"
+        "change": "+11.04%",
+        "catalyst": "chip recovery"
       },
       {
-        "catalyst": "EPS beat",
-        "change": "+10.55%",
+        "symbol": "VST",
         "name": "Vistra",
         "price": 124.8,
-        "symbol": "VST"
+        "change": "+10.55%",
+        "catalyst": "EPS beat"
       },
       {
-        "catalyst": "space rebound",
-        "change": "+8.62%",
+        "symbol": "SPCX",
         "name": "Space Expl...",
         "price": 134.27,
-        "symbol": "SPCX"
+        "change": "+8.62%",
+        "catalyst": "space rebound"
       },
       {
-        "catalyst": "$25B buyback",
-        "change": "+8.23%",
+        "symbol": "LRCX",
         "name": "Lam Research",
         "price": 200.44,
-        "symbol": "LRCX"
+        "change": "+8.23%",
+        "catalyst": "$25B buyback"
       }
     ]
   },
@@ -112,5 +112,87 @@
     "2. Cut 3-5 Shorts",
     "3. Answer new comments",
     "4. Sunday scorecard"
-  ]
+  ],
+  "ideas": {
+    "asOf": "Nov 7, 2026",
+    "items": [
+      {
+        "title": "Ramayana EPIC REACTION!",
+        "views": "304K",
+        "source": "Latino Slant"
+      },
+      {
+        "title": "JISOO ADDICTED MV reaction",
+        "views": "160K",
+        "source": "Differently Alike"
+      },
+      {
+        "title": "GATE Ep 15-16 REACTION!",
+        "views": "10K",
+        "source": "Neel Desai"
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": "how to make reaction videos",
+        "short": "make reaction videos",
+        "volume": "27K/mo",
+        "growth": "+39%"
+      },
+      {
+        "keyword": "how to record reaction videos",
+        "short": "record reaction vids",
+        "volume": "3.8K/mo",
+        "growth": ""
+      }
+    ]
+  },
+  "calendar": {
+    "date": "Sat Nov 7, 2026",
+    "items": [
+      {
+        "time": "11:15 AM",
+        "title": "Swap Meet ($2 cash)"
+      },
+      {
+        "time": "1:45 PM",
+        "title": "Pearl Harbor (free)"
+      },
+      {
+        "time": "3:30 PM",
+        "title": "Restaurant 604 lunch"
+      }
+    ],
+    "tomorrow": "Day 5 - Ocean & Culture"
+  },
+  "gmail": {
+    "unreadCount": 201,
+    "items": [
+      {
+        "from": "Google",
+        "subject": "Shared data with GitHub"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "Sort videos by this column"
+      },
+      {
+        "from": "PayPro",
+        "subject": "Publer Business renewed"
+      },
+      {
+        "from": "OpusClip",
+        "subject": "Resize video 1 click"
+      }
+    ]
+  },
+  "assistant": {
+    "status": "Editor hiring: 15 applicants",
+    "tasks": [
+      "1. Review 15 applicants",
+      "2. Pick editor, send 1st task",
+      "3. First job: cut 3-5 Shorts"
+    ],
+    "note": "OnlineJobs.ph post at cap"
+  }
 }
