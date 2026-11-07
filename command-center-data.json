@@ -1,21 +1,18 @@
 {
   "dataDate": "2026-11-07",
-  "version": 3,
+  "version": 4,
   "updatedBy": "Brain",
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh \u2014 NVDA/SPCX/VOO are NOT pinned; they appear only when they are moving. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh — NVDA/SPCX/VOO are NOT pinned; they appear only when they are moving. Do not invent numbers — leave a field as null / '?' if unknown.",
   "youtube": {
     "channel": "Let Me Address This TV",
+    "deadline": "Feb 1, 2027",
     "handle": "@letmeaddressthis",
-    "started": "Oct 23, 2026",
-    "subscribers": 60,
-    "subscriberGoal": 1000,
-    "subsGap": 940,
-    "subsGained365d": 60,
-    "watchHours": 459.5,
-    "watchHoursGoal": 4000,
     "hoursGap": 3540.5,
-    "views365d": 42203,
-    "viewsLast48h": 1168,
+    "started": "Oct 23, 2026",
+    "subsGained365d": 60,
+    "subsGap": 940,
+    "subscriberGoal": 1000,
+    "subscribers": 60,
     "top48h": [
       {
         "title": "She Spoils Her Man...",
@@ -30,80 +27,83 @@
         "views": 120
       }
     ],
-    "deadline": "Feb 1, 2027"
+    "views365d": 42203,
+    "viewsLast48h": 1168,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000
   },
   "facebook": {
+    "followers": 29,
+    "nonFollowersShare": "99.5%",
+    "oneMinuteViews": 12,
     "page": "Let Me Address This TV",
     "period": "Oct 10 - Nov 6, 2026",
-    "views28d": 16788,
-    "threeSecondViews": 7600,
-    "oneMinuteViews": 12,
     "reelsShare": "99.9%",
-    "nonFollowersShare": "99.5%",
-    "followers": 29
+    "threeSecondViews": 7600,
+    "views28d": 16788
   },
   "tiktok": {
-    "handle": "@showtimelv26",
-    "videoViews60d": "17.4K",
-    "profileViews": 65,
-    "likes": 455,
     "comments": 83,
-    "shares": 8,
+    "followers": null,
     "forYouShare": "98.6%",
+    "handle": "@showtimelv26",
+    "likes": 455,
+    "profileViews": 65,
     "rewards": "$0.00",
-    "followers": null
+    "shares": 8,
+    "videoViews60d": "17.4K"
   },
   "stocks": {
     "asOf": "Fri Nov 6 close",
     "items": [
       {
-        "symbol": "FROG",
+        "catalyst": "earnings beat, cloud growth",
+        "change": "+35.3%",
         "name": "JFrog",
         "price": 100.98,
-        "change": "+35.3%",
-        "catalyst": "earnings beat, cloud growth"
+        "symbol": "FROG"
       },
       {
-        "symbol": "RKLB",
+        "catalyst": "space rebound",
+        "change": "+15.4%",
         "name": "Rocket Lab",
         "price": 53.67,
-        "change": "+15.4%",
-        "catalyst": "space rebound"
+        "symbol": "RKLB"
       },
       {
-        "symbol": "ABNB",
+        "catalyst": "EPS beat + buyback",
+        "change": "+11.67%",
         "name": "Airbnb",
         "price": 189.99,
-        "change": "+11.67%",
-        "catalyst": "EPS beat + buyback"
+        "symbol": "ABNB"
       },
       {
-        "symbol": "AMD",
+        "catalyst": "chip recovery",
+        "change": "+11.04%",
         "name": "Advanced Micro Devices",
         "price": 449.04,
-        "change": "+11.04%",
-        "catalyst": "chip recovery"
+        "symbol": "AMD"
       },
       {
-        "symbol": "VST",
+        "catalyst": "EPS beat",
+        "change": "+10.55%",
         "name": "Vistra",
         "price": 124.8,
-        "change": "+10.55%",
-        "catalyst": "EPS beat"
+        "symbol": "VST"
       },
       {
-        "symbol": "SPCX",
+        "catalyst": "space rebound",
+        "change": "+8.62%",
         "name": "Space Expl...",
         "price": 134.27,
-        "change": "+8.62%",
-        "catalyst": "space rebound"
+        "symbol": "SPCX"
       },
       {
-        "symbol": "LRCX",
+        "catalyst": "$25B buyback",
+        "change": "+8.23%",
         "name": "Lam Research",
         "price": 200.44,
-        "change": "+8.23%",
-        "catalyst": "$25B buyback"
+        "symbol": "LRCX"
       }
     ]
   },
