@@ -1,1 +1,61 @@
-{"dataDate":"2026-11-07","facebook":{"followers":28,"nonFollowersShare":"99.5%","oneMinuteViews":12,"page":"Let Me Address This TV","period":"Oct 10 - Nov 6, 2026","reelsShare":"99.9%","threeSecondViews":7600,"views28d":16788},"note":"LMAT Command Center data feed. Brain updates this file (YouTube via vidIQ, Facebook via the Page connector, TikTok from King's screenshots, stocks from live quotes). The v2 plugin fetches this file on open and on double-tap refresh, and falls back to its embedded Nov 7 numbers if the fetch fails. Do not invent numbers here — leave a field as null / '?' if it is unknown.","stocks":{"asOf":"Nov 6 close","items":[{"change":"+2.78%","name":"Nvidia Corp","price":186.64,"symbol":"NVDA"},{"change":"+8.62%","name":"Space Expl...","price":134.27,"symbol":"SPCX"},{"change":"+0.30%","name":"Vanguard ...","price":675.99,"symbol":"VOO"}]},"tiktok":{"comments":83,"followers":null,"forYouShare":"98.6%","handle":"@showtimelv26","likes":455,"profileViews":65,"rewards":"$0.00","shares":8,"videoViews60d":"17.4K"},"today":["1. Film long-form, original source","2. Cut 3-5 Shorts","3. Answer new comments","4. Sunday scorecard"],"updatedBy":"Brain","version":1,"youtube":{"channel":"Let Me Address This TV","deadline":"Feb 1, 2027","handle":"@letmeaddressthis","hoursGap":3530.3,"started":"Oct 23, 2026","subsGained365d":59,"subsGap":940,"subscriberGoal":1000,"subscribers":60,"top48h":[{"title":"She Spoils Her Man...","views":244},{"title":"Eboni K. Williams Says...","views":135},{"title":"Woman Gets HUMBLED...","views":120}],"views365d":42792,"viewsLast48h":1168,"watchHours":469.7,"watchHoursGoal":4000}}
+{
+  "dataDate": "2026-11-07",
+  "version": 2,
+  "updatedBy": "Brain",
+  "note": "LMAT Command Center data feed. YouTube totals from vidIQ (pulled Nov 7, 2026) — vidIQ reads a little lower than YouTube Studio and lags ~1 day (42,203 views / 459.5 hrs vs Studio's 42,792 / 469.7 hrs on Nov 7); it is the auto-updatable source, so the feed tracks it consistently from here. 48h detail still from YouTube Studio screenshots Nov 7 (vidIQ has no Nov 6-7 data yet). Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks Nov 6 close — markets closed Sat Nov 7. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "youtube": {
+    "channel": "Let Me Address This TV",
+    "handle": "@letmeaddressthis",
+    "started": "Oct 23, 2026",
+    "subscribers": 60,
+    "subscriberGoal": 1000,
+    "subsGap": 940,
+    "subsGained365d": 60,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000,
+    "hoursGap": 3540.5,
+    "views365d": 42203,
+    "viewsLast48h": 1168,
+    "top48h": [
+      {"title": "She Spoils Her Man...", "views": 244},
+      {"title": "Eboni K. Williams Says...", "views": 135},
+      {"title": "Woman Gets HUMBLED...", "views": 120}
+    ],
+    "deadline": "Feb 1, 2027"
+  },
+  "facebook": {
+    "page": "Let Me Address This TV",
+    "period": "Oct 10 - Nov 6, 2026",
+    "views28d": 16788,
+    "threeSecondViews": 7600,
+    "oneMinuteViews": 12,
+    "reelsShare": "99.9%",
+    "nonFollowersShare": "99.5%",
+    "followers": 29
+  },
+  "tiktok": {
+    "handle": "@showtimelv26",
+    "videoViews60d": "17.4K",
+    "profileViews": 65,
+    "likes": 455,
+    "comments": 83,
+    "shares": 8,
+    "forYouShare": "98.6%",
+    "rewards": "$0.00",
+    "followers": null
+  },
+  "stocks": {
+    "asOf": "Nov 6 close",
+    "items": [
+      {"symbol": "NVDA", "name": "Nvidia Corp", "price": 186.64, "change": "+2.78%"},
+      {"symbol": "SPCX", "name": "Space Expl...", "price": 134.27, "change": "+8.62%"},
+      {"symbol": "VOO", "name": "Vanguard ...", "price": 675.99, "change": "+0.30%"}
+    ]
+  },
+  "today": [
+    "1. Film long-form, original source",
+    "2. Cut 3-5 Shorts",
+    "3. Answer new comments",
+    "4. Sunday scorecard"
+  ]
+}
