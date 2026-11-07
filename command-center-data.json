@@ -1,8 +1,8 @@
 {
   "dataDate": "2026-11-07",
-  "version": 2,
+  "version": 3,
   "updatedBy": "Brain",
-  "note": "LMAT Command Center data feed. YouTube totals from vidIQ (pulled Nov 7, 2026) — vidIQ reads a little lower than YouTube Studio and lags ~1 day (42,203 views / 459.5 hrs vs Studio's 42,792 / 469.7 hrs on Nov 7); it is the auto-updatable source, so the feed tracks it consistently from here. 48h detail still from YouTube Studio screenshots Nov 7 (vidIQ has no Nov 6-7 data yet). Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks Nov 6 close — markets closed Sat Nov 7. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh \u2014 NVDA/SPCX/VOO are NOT pinned; they appear only when they are moving. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "youtube": {
     "channel": "Let Me Address This TV",
     "handle": "@letmeaddressthis",
@@ -17,9 +17,18 @@
     "views365d": 42203,
     "viewsLast48h": 1168,
     "top48h": [
-      {"title": "She Spoils Her Man...", "views": 244},
-      {"title": "Eboni K. Williams Says...", "views": 135},
-      {"title": "Woman Gets HUMBLED...", "views": 120}
+      {
+        "title": "She Spoils Her Man...",
+        "views": 244
+      },
+      {
+        "title": "Eboni K. Williams Says...",
+        "views": 135
+      },
+      {
+        "title": "Woman Gets HUMBLED...",
+        "views": 120
+      }
     ],
     "deadline": "Feb 1, 2027"
   },
@@ -45,11 +54,57 @@
     "followers": null
   },
   "stocks": {
-    "asOf": "Nov 6 close",
+    "asOf": "Fri Nov 6 close",
     "items": [
-      {"symbol": "NVDA", "name": "Nvidia Corp", "price": 186.64, "change": "+2.78%"},
-      {"symbol": "SPCX", "name": "Space Expl...", "price": 134.27, "change": "+8.62%"},
-      {"symbol": "VOO", "name": "Vanguard ...", "price": 675.99, "change": "+0.30%"}
+      {
+        "symbol": "FROG",
+        "name": "JFrog",
+        "price": 100.98,
+        "change": "+35.3%",
+        "catalyst": "earnings beat, cloud growth"
+      },
+      {
+        "symbol": "RKLB",
+        "name": "Rocket Lab",
+        "price": 53.67,
+        "change": "+15.4%",
+        "catalyst": "space rebound"
+      },
+      {
+        "symbol": "ABNB",
+        "name": "Airbnb",
+        "price": 189.99,
+        "change": "+11.67%",
+        "catalyst": "EPS beat + buyback"
+      },
+      {
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices",
+        "price": 449.04,
+        "change": "+11.04%",
+        "catalyst": "chip recovery"
+      },
+      {
+        "symbol": "VST",
+        "name": "Vistra",
+        "price": 124.8,
+        "change": "+10.55%",
+        "catalyst": "EPS beat"
+      },
+      {
+        "symbol": "SPCX",
+        "name": "Space Expl...",
+        "price": 134.27,
+        "change": "+8.62%",
+        "catalyst": "space rebound"
+      },
+      {
+        "symbol": "LRCX",
+        "name": "Lam Research",
+        "price": 200.44,
+        "change": "+8.23%",
+        "catalyst": "$25B buyback"
+      }
     ]
   },
   "today": [
