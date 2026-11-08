@@ -42,11 +42,19 @@
   "gmail": {
     "items": [
       {
+        "from": "vidIQ",
+        "subject": "You were on a roll until your AI credits ran out"
+      },
+      {
+        "from": "Publer",
+        "subject": "Sign Your Social Media Content with Publer!"
+      },
+      {
         "from": "Google",
         "subject": "Security alert"
       }
     ],
-    "unreadCount": 1
+    "unreadCount": 3
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -149,13 +157,13 @@
     "videoViews60d": "17.4K"
   },
   "today": [
-    "1. Film long-form, original source",
-    "2. Cut 3-5 Shorts",
-    "3. Answer new comments",
+    "1. Walmart: chairs, water shoes, towel",
+    "2. Bring head umbrellas",
+    "3. Ko Olina Lagoon with Angela",
     "4. Sunday scorecard"
   ],
   "updatedBy": "Brain",
-  "version": 8,
+  "version": 9,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
