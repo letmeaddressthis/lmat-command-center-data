@@ -24,20 +24,20 @@
         "title": "Restaurant 604 lunch"
       }
     ],
-    "tomorrow": "Day 5 - Ocean & Culture"
+    "tomorrow": "Day 5 - Ko Olina Lagoon"
   },
   "dataDate": "2026-11-07",
   "facebook": {
     "engagement": 170,
     "followers": 29,
-    "follows28d": 28,
+    "follows28d": 29,
     "nonFollowersShare": "99.5%",
     "oneMinuteViews": 12,
     "page": "Let Me Address This TV",
     "period": "Oct 10 - Nov 6, 2026",
     "reelsShare": "99.9%",
     "threeSecondViews": 7600,
-    "views28d": 16788
+    "views28d": 17312
   },
   "gmail": {
     "items": [
@@ -90,7 +90,7 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 7. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
     "asOf": "Fri Nov 6 close",
     "items": [
@@ -163,7 +163,7 @@
     "4. Sunday scorecard"
   ],
   "updatedBy": "Brain",
-  "version": 9,
+  "version": 10,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
