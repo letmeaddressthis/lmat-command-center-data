@@ -1,1 +1,192 @@
-eyJhc3Npc3RhbnQiOnsibm90ZSI6Ik9ubGluZUpvYnMucGggcG9zdCBhdCBjYXAiLCJzdGF0dXMiOiJFZGl0b3IgaGlyaW5nOiAxNSBhcHBsaWNhbnRzIiwidGFza3MiOlsiMS4gUmV2aWV3IDE1IGFwcGxpY2FudHMiLCIyLiBQaWNrIGVkaXRvciwgc2VuZCAxc3QgdGFzayIsIjMuIEZpcnN0IGpvYjogY3V0IDMtNSBTaG9ydHMiXX0sImNhbGVuZGFyIjp7ImRhdGUiOiJTdW4gTm92IDgsIDIwMjYiLCJpdGVtcyI6W3sidGltZSI6IkFsbCBkYXkiLCJ0aXRsZSI6IktvIE9saW5hIExhZ29vbiJ9XSwidG9tb3Jyb3ciOiJEYXkgNiAtIEp1c3QgVXMgKFJvbWFudGljIERheSkifSwiZGF0YURhdGUiOiIyMDI2LTExLTA4IiwiZmFjZWJvb2siOnsiZW5nYWdlbWVudCI6MTcwLCJmb2xsb3dlcnMiOjMxLCJmb2xsb3dzMjhkIjoyOSwibm9uRm9sbG93ZXJzU2hhcmUiOiI5OS41JSIsIm9uZU1pbnV0ZVZpZXdzIjoxMiwicGFnZSI6IkxldCBNZSBBZGRyZXNzIFRoaXMgVFYiLCJwZXJpb2QiOiJPY3QgMTEgLSBOb3YgNywgMjAyNiIsInJlZWxzU2hhcmUiOiI5OS45JSIsInRocmVlU2Vjb25kVmlld3MiOjc2MDAsInZpZXdzMjhkIjoxNzMxM30sImdtYWlsIjp7Iml0ZW1zIjpbeyJmcm9tIjoidmlkSVEiLCJzdWJqZWN0IjoiVGhlIGJlc3QgJDIsMDAwIEkgZXZlciBzcGVudCAoSSBhbG1vc3QgZGlkbid0KSJ9LHsiZnJvbSI6InZpZElRIiwic3ViamVjdCI6IllvdSB3ZXJlIG9uIGEgcm9sbCB1bnRpbCB5b3VyIEFJIGNyZWRpdHMgcmFuIG91dCJ9LHsiZnJvbSI6IlB1YmxlciIsInN1YmplY3QiOiJTaWduIFlvdXIgU29jaWFsIE1lZGlhIENvbnRlbnQgd2l0aCBQdWJsZXIhIn0seyJmcm9tIjoiR29vZ2xlIiwic3ViamVjdCI6IlNlY3VyaXR5IGFsZXJ0In1dLCJ1bnJlYWRDb3VudCI6NH0sImlkZWFzIjp7ImFzT2YiOiJOb3YgNywgMjAyNiIsIml0ZW1zIjpbeyJzb3VyY2UiOiJMYXRpbm8gU2xhbnQiLCJ0aXRsZSI6IlJhbWF5YW5hIEVQSUMgUkVBQ1RJT04hIiwidmlld3MiOiIzMDhLIn0seyJzb3VyY2UiOiJLJkogUmVhY3QiLCJ0aXRsZSI6IlhHIERFUEVORFMgTVYgUmVhY3Rpb24iLCJ2aWV3cyI6IjMxSyJ9LHsic291cmNlIjoiTmVlbCBEZXNhaSIsInRpdGxlIjoiR0FURSBFcCAxNS0xNiBSRUFDVElPTiEiLCJ2aWV3cyI6IjE4SyJ9XSwia2V5d29yZHMiOlt7Imdyb3d0aCI6IiszOSUiLCJrZXl3b3JkIjoiaG93IHRvIG1ha2UgcmVhY3Rpb24gdmlkZW9zIiwic2hvcnQiOiJtYWtlIHJlYWN0aW9uIHZpZGVvcyIsInZvbHVtZSI6IjI3Sy9tbyJ9LHsiZ3Jvd3RoIjoiIiwia2V5d29yZCI6ImhvdyB0byByZWNvcmQgcmVhY3Rpb24gdmlkZW9zIiwic2hvcnQiOiJyZWNvcmQgcmVhY3Rpb24gdmlkcyIsInZvbHVtZSI6IjMuOEsvbW8ifV19LCJub3RlIjoiTE1BVCBDb21tYW5kIENlbnRlciBkYXRhIGZlZWQuIFJlZnJlc2hlZCBldmVyeSAzMCBtaW4gKDcgQU0tMTAgUE0gSFNUKS4gWW91VHViZSB0b3RhbHMgZnJvbSB2aWRJUSAocmVhZHMgYSBsaXR0bGUgbG93ZXIgdGhhbiBZb3VUdWJlIFN0dWRpbywgbGFncyB+MSBkYXkpLiA0OGggZGV0YWlsIGZyb20gWW91VHViZSBTdHVkaW8gc2NyZWVuc2hvdHMgTm92IDcuIEZhY2Vib29rIGZyb20gdGhlIFBhZ2UgY29ubmVjdG9yIE5vdiA4LiBUaWtUb2sgZnJvbSBLaW5nJ3Mgc2NyZWVuc2hvdHMgb25seS4gU3RvY2tzOiB0b3AgNyBtb3ZlcnMgd2l0aCBhIHJlYWwgY2F0YWx5c3QsIHBpY2tlZCBmcmVzaCBlYWNoIHJlZnJlc2guIElkZWFzOiB2aWRJUSB0cmVuZGluZyByZWFjdGlvbnMgKyBrZXl3b3JkIHJlc2VhcmNoLiBDYWxlbmRhcjogR29vZ2xlIENhbGVuZGFyIHRvZGF5LiBHbWFpbDogbmV3ZXN0IHVucmVhZCBmaXJzdCBmcm9tIGhpcmluZyAoT25saW5lSm9icy5waCksIEV2ZW4gUmVhbGl0aWVzLCBhbmQgY3JlYXRvciB0b29scyAodmlkSVEsIFB1YmxlciwgT3B1c0NsaXAsIERlc2NyaXB0KSwgc2VuZGVyICsgc3ViamVjdCBPTkxZIOKAlCBuZXZlciBpbmNsdWRlIHZlcmlmaWNhdGlvbiBjb2RlcywgcGFzc3dvcmQgcmVzZXRzLCBmaW5hbmNpYWwgb3IgcGVyc29uYWwgbWFpbCwgYW5kIG5ldmVyIGluY2x1ZGUgbWVzc2FnZSBib2RpZXMuIEFzc2lzdGFudDogZWRpdG9yIGhpcmluZyBzdGF0dXMgKyB0YXNrIGJvYXJkLCB1cGRhdGVkIG9ubHkgZnJvbSBLaW5nJ3MgaW5zdHJ1Y3Rpb25zLiBEbyBub3QgaW52ZW50IG51bWJlcnMg4oCUIGxlYXZlIGEgZmllbGQgYXMgbnVsbCAvICc/JyBpZiB1bmtub3duLiIsInN0b2NrcyI6eyJhc09mIjoiRnJpIE5vdiA2IGNsb3NlIiwiaXRlbXMiOlt7ImNhdGFseXN0IjoiZWFybmluZ3MgYmVhdCwgY2xvdWQgZ3Jvd3RoIiwiY2hhbmdlIjoiKzM1LjMlIiwibmFtZSI6IkpGcm9nIiwicHJpY2UiOjEwMC45OCwic3ltYm9sIjoiRlJPRyJ9LHsiY2F0YWx5c3QiOiJzcGFjZSByZWJvdW5kIiwiY2hhbmdlIjoiKzE1LjQlIiwibmFtZSI6IlJvY2tldCBMYWIiLCJwcmljZSI6NTMuNjcsInN5bWJvbCI6IlJLTEIifSx7ImNhdGFseXN0IjoiRVBTIGJlYXQgKyBidXliYWNrIiwiY2hhbmdlIjoiKzExLjY3JSIsIm5hbWUiOiJBaXJibmIiLCJwcmljZSI6MTg5Ljk5LCJzeW1ib2wiOiJBQk5CIn0seyJjYXRhbHlzdCI6ImNoaXAgcmVjb3ZlcnkiLCJjaGFuZ2UiOiIrMTEuMDQlIiwibmFtZSI6IkFkdmFuY2VkIE1pY3JvIERldmljZXMiLCJwcmljZSI6NDQ5LjA0LCJzeW1ib2wiOiJBTUQifSx7ImNhdGFseXN0IjoiRVBTIGJlYXQiLCJjaGFuZ2UiOiIrMTAuNTUlIiwibmFtZSI6IlZpc3RyYSIsInByaWNlIjoxMjQuOCwic3ltYm9sIjoiVlNUIn0seyJjYXRhbHlzdCI6InNwYWNlIHJlYm91bmQiLCJjaGFuZ2UiOiIrOC42MiUiLCJuYW1lIjoiU3BhY2UgRXhwbC4uLiIsInByaWNlIjoxMzQuMjcsInN5bWJvbCI6IlNQQ1gifSx7ImNhdGFseXN0IjoiJDI1QiBidXliYWNrIiwiY2hhbmdlIjoiKzguMjMlIiwibmFtZSI6IkxhbSBSZXNlYXJjaCIsInByaWNlIjoyMDAuNDQsInN5bWJvbCI6IkxSQ1gifV19LCJ0aWt0b2siOnsiY29tbWVudHMiOjgzLCJmb2xsb3dlcnMiOm51bGwsImZvcllvdVNoYXJlIjoiOTcuNyUiLCJoYW5kbGUiOiJAc2hvd3RpbWVsdjI2IiwibGlrZXMiOjQ1NSwicHJvZmlsZVZpZXdzIjo2NSwicmV3YXJkcyI6IiQwLjAwIiwic2hhcmVzIjo4LCJ2aWRlb1ZpZXdzNjBkIjoiMTcuNEsifSwidG9kYXkiOlsiMS4gV2FsbWFydDogY2hhaXJzLCB3YXRlciBzaG9lcywgdG93ZWwiLCIyLiBCcmluZyBoZWFkIHVtYnJlbGxhcyIsIjMuIEtvIE9saW5hIExhZ29vbiB3aXRoIEFuZ2VsYSIsIjQuIFN1bmRheSBzY29yZWNhcmQiXSwidXBkYXRlZEJ5IjoiQnJhaW4iLCJ2ZXJzaW9uIjoxNCwieW91dHViZSI6eyJjaGFubmVsIjoiTGV0IE1lIEFkZHJlc3MgVGhpcyBUViIsImRlYWRsaW5lIjoiRmViIDEsIDIwMjciLCJoYW5kbGUiOiJAbGV0bWVhZGRyZXNzdGhpcyIsImhvdXJzR2FwIjozNTQwLjUsInN0YXJ0ZWQiOiJPY3QgMjMsIDIwMjYiLCJzdWJzR2FpbmVkMzY1ZCI6NjAsInN1YnNHYXAiOjkzNywic3Vic2NyaWJlckdvYWwiOjEwMDAsInN1YnNjcmliZXJzIjo2MywidG9wNDhoIjpbeyJ0aXRsZSI6IlNoZSBTcG9pbHMgSGVyIE1hbi4uLiIsInZpZXdzIjoyNDR9LHsidGl0bGUiOiJFYm9uaSBLLiBXaWxsaWFtcyBTYXlzLi4uIiwidmlld3MiOjEzNX0seyJ0aXRsZSI6IldvbWFuIEdldHMgSFVNQkxFRC4uLiIsInZpZXdzIjoxMjB9XSwidmlld3MzNjVkIjo0MjIwMywidmlld3NMYXN0NDhoIjoxMTY4LCJ3YXRjaEhvdXJzIjo0NTkuNSwid2F0Y2hIb3Vyc0dvYWwiOjQwMDB9fQo=
+{
+  "assistant": {
+    "note": "OnlineJobs.ph post at cap",
+    "status": "Editor hiring: 15 applicants",
+    "tasks": [
+      "1. Review 15 applicants",
+      "2. Pick editor, send 1st task",
+      "3. First job: cut 3-5 Shorts"
+    ]
+  },
+  "calendar": {
+    "date": "Mon Nov 9, 2026",
+    "items": [
+      {
+        "time": "All day",
+        "title": "Day 6 - Just Us (Romantic Day)"
+      }
+    ],
+    "tomorrow": "Day 7 - Final Day & Move Hotels"
+  },
+  "dataDate": "2026-11-09",
+  "facebook": {
+    "engagement": 170,
+    "followers": 33,
+    "follows28d": 33,
+    "nonFollowersShare": "99.5%",
+    "oneMinuteViews": 12,
+    "page": "Let Me Address This TV",
+    "period": "Oct 12 - Nov 8, 2026",
+    "reelsShare": "99.9%",
+    "threeSecondViews": 7600,
+    "views28d": 18332
+  },
+  "gmail": {
+    "unreadCount": 7,
+    "items": [
+      {
+        "from": "OnlineJobs.ph",
+        "subject": "You didn't hire an OFS. Why not?"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "The audit, the plan, and what it costs"
+      },
+      {
+        "from": "Publer",
+        "subject": "Analytics PDF reports for Nov 2, 2026 - Nov 8, 2026"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "The best $2,000 I ever spent (I almost didn't)"
+      }
+    ]
+  },
+  "ideas": {
+    "asOf": "Nov 7, 2026",
+    "items": [
+      {
+        "source": "Latino Slant",
+        "title": "Ramayana EPIC REACTION!",
+        "views": "308K"
+      },
+      {
+        "source": "K&J React",
+        "title": "XG DEPENDS MV Reaction",
+        "views": "31K"
+      },
+      {
+        "source": "Neel Desai",
+        "title": "GATE Ep 15-16 REACTION!",
+        "views": "18K"
+      }
+    ],
+    "keywords": [
+      {
+        "growth": "+39%",
+        "keyword": "how to make reaction videos",
+        "short": "make reaction videos",
+        "volume": "27K/mo"
+      },
+      {
+        "growth": "",
+        "keyword": "how to record reaction videos",
+        "short": "record reaction vids",
+        "volume": "3.8K/mo"
+      }
+    ]
+  },
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 8. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "stocks": {
+    "asOf": "Mon Nov 9 intraday",
+    "items": [
+      {
+        "symbol": "TLS",
+        "name": "Telos",
+        "price": 6.82,
+        "change": "+41.50%",
+        "catalyst": "earnings beat, raised guidance"
+      },
+      {
+        "symbol": "IAM",
+        "name": "Iambic Therapeutics",
+        "price": 13.07,
+        "change": "+28.50%",
+        "catalyst": "JPM initiates Overweight"
+      },
+      {
+        "symbol": "DCTH",
+        "name": "Delcath Systems",
+        "price": 19.1,
+        "change": "+27.93%",
+        "catalyst": "earnings beat, raised guidance"
+      },
+      {
+        "symbol": "CECO",
+        "name": "CECO Environmental",
+        "price": 53.56,
+        "change": "+22.52%",
+        "catalyst": "earnings beat"
+      },
+      {
+        "symbol": "WRBY",
+        "name": "Warby Parker",
+        "price": 31.02,
+        "change": "+21.74%",
+        "catalyst": "UBS raises target to $32"
+      },
+      {
+        "symbol": "QXO",
+        "name": "QXO",
+        "price": 13.82,
+        "change": "+19.52%",
+        "catalyst": "Q3 results (8-K)"
+      },
+      {
+        "symbol": "TMCI",
+        "name": "Treace Medical",
+        "price": 4.78,
+        "change": "+18.49%",
+        "catalyst": "earnings beat"
+      }
+    ]
+  },
+  "tiktok": {
+    "comments": 83,
+    "followers": null,
+    "forYouShare": "97.7%",
+    "handle": "@showtimelv26",
+    "likes": 455,
+    "profileViews": 65,
+    "rewards": "$0.00",
+    "shares": 8,
+    "videoViews60d": "17.4K"
+  },
+  "today": [
+    "1. Breakfast at hotel",
+    "2. Couples spa (optional)",
+    "3. Luxury beach day at Ko Olina",
+    "4. Romantic dinner + beach walk"
+  ],
+  "updatedBy": "Brain",
+  "version": 15,
+  "youtube": {
+    "channel": "Let Me Address This TV",
+    "deadline": "Feb 1, 2027",
+    "handle": "@letmeaddressthis",
+    "hoursGap": 3540.5,
+    "started": "Oct 23, 2026",
+    "subsGained365d": 60,
+    "subsGap": 937,
+    "subscriberGoal": 1000,
+    "subscribers": 63,
+    "top48h": [
+      {
+        "title": "She Spoils Her Man...",
+        "views": 244
+      },
+      {
+        "title": "Eboni K. Williams Says...",
+        "views": 135
+      },
+      {
+        "title": "Woman Gets HUMBLED...",
+        "views": 120
+      }
+    ],
+    "views365d": 42203,
+    "viewsLast48h": 1168,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000
+  }
+}
