@@ -32,11 +32,15 @@
     "views28d": 18332
   },
   "gmail": {
-    "unreadCount": 7,
+    "unreadCount": 8,
     "items": [
       {
         "from": "OnlineJobs.ph",
         "subject": "You didn't hire an OFS. Why not?"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "You're in the top 25% of Creators!"
       },
       {
         "from": "vidIQ",
@@ -45,10 +49,6 @@
       {
         "from": "Publer",
         "subject": "Analytics PDF reports for Nov 2, 2026 - Nov 8, 2026"
-      },
-      {
-        "from": "vidIQ",
-        "subject": "The best $2,000 I ever spent (I almost didn't)"
       }
     ]
   },
@@ -86,58 +86,58 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 8. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 9. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Mon Nov 9 intraday",
+    "asOf": "Mon Nov 9 close",
     "items": [
       {
-        "symbol": "TLS",
-        "name": "Telos",
-        "price": 6.82,
-        "change": "+41.50%",
-        "catalyst": "earnings beat, raised guidance"
-      },
-      {
-        "symbol": "IAM",
-        "name": "Iambic Therapeutics",
-        "price": 13.07,
-        "change": "+28.50%",
-        "catalyst": "JPM initiates Overweight"
-      },
-      {
-        "symbol": "DCTH",
-        "name": "Delcath Systems",
-        "price": 19.1,
-        "change": "+27.93%",
-        "catalyst": "earnings beat, raised guidance"
-      },
-      {
-        "symbol": "CECO",
-        "name": "CECO Environmental",
-        "price": 53.56,
-        "change": "+22.52%",
-        "catalyst": "earnings beat"
-      },
-      {
-        "symbol": "WRBY",
-        "name": "Warby Parker",
-        "price": 31.02,
-        "change": "+21.74%",
-        "catalyst": "UBS raises target to $32"
+        "symbol": "PRAX",
+        "name": "Praxis Precision",
+        "price": 332.97,
+        "change": "+19.94%",
+        "catalyst": "EPS beat + FDA dates intact"
       },
       {
         "symbol": "QXO",
         "name": "QXO",
-        "price": 13.82,
-        "change": "+19.52%",
-        "catalyst": "Q3 results (8-K)"
+        "price": 13.78,
+        "change": "+19.20%",
+        "catalyst": "Prelim Q3 revenue beat +79%"
       },
       {
-        "symbol": "TMCI",
-        "name": "Treace Medical",
-        "price": 4.78,
-        "change": "+18.49%",
-        "catalyst": "earnings beat"
+        "symbol": "WRBY",
+        "name": "Warby Parker",
+        "price": 30.21,
+        "change": "+18.56%",
+        "catalyst": "Citizens JMP target raise to $40"
+      },
+      {
+        "symbol": "FLY",
+        "name": "Firefly Aerospace",
+        "price": 24.31,
+        "change": "+17.10%",
+        "catalyst": "$1.3B ASTS engine deal"
+      },
+      {
+        "symbol": "COHR",
+        "name": "Coherent",
+        "price": 225.19,
+        "change": "+16.79%",
+        "catalyst": "AI chip rally"
+      },
+      {
+        "symbol": "MPWR",
+        "name": "Monolithic Power",
+        "price": 1388.05,
+        "change": "+16.60%",
+        "catalyst": "AI chip rally"
+      },
+      {
+        "symbol": "TTD",
+        "name": "The Trade Desk",
+        "price": 14.93,
+        "change": "+15.47%",
+        "catalyst": "Q3 earnings beat"
       }
     ]
   },
@@ -159,7 +159,7 @@
     "4. Romantic dinner + beach walk"
   ],
   "updatedBy": "Brain",
-  "version": 15,
+  "version": 16,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
@@ -167,9 +167,9 @@
     "hoursGap": 3540.5,
     "started": "Oct 23, 2026",
     "subsGained365d": 60,
-    "subsGap": 937,
+    "subsGap": 936,
     "subscriberGoal": 1000,
-    "subscribers": 63,
+    "subscribers": 64,
     "top48h": [
       {
         "title": "She Spoils Her Man...",
