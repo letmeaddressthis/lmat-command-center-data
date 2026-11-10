@@ -40,7 +40,7 @@
   "views28d": 19318
  },
  "gmail": {
-  "unreadCount": 9,
+  "unreadCount": 10,
   "items": [
    {
     "from": "OnlineJobs.ph",
@@ -52,11 +52,11 @@
    },
    {
     "from": "vidIQ",
-    "subject": "You're in the top 25% of Creators!"
+    "subject": "Too small. Too weird. Too late."
    },
    {
     "from": "vidIQ",
-    "subject": "The audit, the plan, and what it costs"
+    "subject": "You're in the top 25% of Creators!"
    }
   ]
  },
@@ -101,51 +101,51 @@
    {
     "symbol": "PEPG",
     "name": "PepGen",
-    "price": 6.21,
-    "change": "+159.82%",
-    "catalyst": "Phase 2 trial data"
+    "price": 4.96,
+    "change": "+107.67%",
+    "catalyst": "Q3 results (8-K)"
    },
    {
     "symbol": "ZIP",
     "name": "ZipRecruiter",
-    "price": 5.7,
-    "change": "+32.87%",
+    "price": 6.18,
+    "change": "+44.06%",
     "catalyst": "Q3 EPS beat"
    },
    {
     "symbol": "SECZ",
     "name": "Securitize",
-    "price": 9.21,
-    "change": "+32.08%",
-    "catalyst": "Q3 results, revenue beat"
-   },
-   {
-    "symbol": "SENS",
-    "name": "Senseonics",
-    "price": 12.72,
-    "change": "+29.80%",
-    "catalyst": "Q3 EPS + revenue beat"
-   },
-   {
-    "symbol": "PXLW",
-    "name": "Pixelworks",
-    "price": 6.72,
-    "change": "+29%",
-    "catalyst": "Meta certification deal"
+    "price": 8.52,
+    "change": "+22.24%",
+    "catalyst": "Q3 revenue beat"
    },
    {
     "symbol": "AAON",
     "name": "AAON",
-    "price": 76.76,
-    "change": "+22.09%",
+    "price": 75.99,
+    "change": "+20.87%",
     "catalyst": "Q3 beat + guidance raise"
    },
    {
-    "symbol": "RXT",
-    "name": "Rackspace Technology",
-    "price": 3.04,
-    "change": "+11.77%",
-    "catalyst": "Q3 beat + guidance raise"
+    "symbol": "AMRC",
+    "name": "Ameresco",
+    "price": 26.96,
+    "change": "+20.16%",
+    "catalyst": "Q3 EPS beat"
+   },
+   {
+    "symbol": "CSQR",
+    "name": "Csquare",
+    "price": 18.04,
+    "change": "+18.14%",
+    "catalyst": "Q3 revenue beat"
+   },
+   {
+    "symbol": "BW",
+    "name": "Babcock & Wilcox",
+    "price": 4.45,
+    "change": "+17.28%",
+    "catalyst": "Q3 revenue beat"
    }
   ]
  },
@@ -167,7 +167,7 @@
   "4. Early night - Bronco return 6:00 AM"
  ],
  "updatedBy": "Brain",
- "version": 21,
+ "version": 22,
  "youtube": {
   "channel": "Let Me Address This TV",
   "deadline": "Feb 1, 2027",
