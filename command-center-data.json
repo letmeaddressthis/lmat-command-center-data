@@ -1,1 +1,200 @@
-{"assistant":{"note":"OnlineJobs.ph post at cap","status":"Editor hiring: 15 applicants","tasks":["1. Review 15 applicants","2. Pick editor, send 1st task","3. First job: cut 3-5 Shorts"]},"calendar":{"date":"Wed Nov 11, 2026","items":[{"time":"6:00 AM","title":"Return Ford Bronco"},{"time":"8:00 AM","title":"Flight home: HNL to Las Vegas - Flight 2748"},{"time":"All day","title":"Day 8 - Fly Home"}],"tomorrow":""},"dataDate":"2026-11-11","facebook":{"engagement":170,"followers":35,"follows28d":35,"nonFollowersShare":"99.5%","oneMinuteViews":12,"page":"Let Me Address This TV","period":"Oct 14 - Nov 10, 2026","reelsShare":"99.9%","threeSecondViews":7600,"views28d":20719},"gmail":{"items":[{"from":"OnlineJobs.ph","subject":"You didn't hire an OFS. Why not?"},{"from":"Even Realities","subject":"Shop Even G2 With the Option to Pay Over Time"},{"from":"Even Realities","subject":"Now, Build Your Own Knowledge Base with Even G2"},{"from":"vidIQ","subject":"You reached 45,000 views"}],"unreadCount":14},"ideas":{"asOf":"Nov 7, 2026","items":[{"source":"Latino Slant","title":"Ramayana EPIC REACTION!","views":"308K"},{"source":"K&J React","title":"XG DEPENDS MV Reaction","views":"31K"},{"source":"Neel Desai","title":"GATE Ep 15-16 REACTION!","views":"18K"}],"keywords":[{"growth":"+39%","keyword":"how to make reaction videos","short":"make reaction videos","volume":"27K/mo"},{"growth":"","keyword":"how to record reaction videos","short":"record reaction vids","volume":"3.8K/mo"}]},"note":"LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 11. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.","stocks":{"asOf":"Wed Nov 11 close","items":[{"catalyst":"Q3 EPS beat + guidance raise","change":"+37.97%","name":"B&G Foods","price":3.67,"symbol":"BGS"},{"catalyst":"Record revenue, back to profit","change":"+30.90%","name":"Gevo","price":1.82,"symbol":"GEVO"},{"catalyst":"Swung to profit, raised outlook","change":"+26.70%","name":"Fossil Group","price":9.97,"symbol":"FOSL"},{"catalyst":"Revenue beat + raised outlook","change":"+24.70%","name":"CoreWeave","price":60.77,"symbol":"CRWV"},{"catalyst":"Revenue +41%, raised outlook","change":"+22.29%","name":"Riskified","price":10.37,"symbol":"RSKD"},{"catalyst":"Memory rally, AI trade","change":"+13.70%","name":"Sandisk","price":977.69,"symbol":"SNDK"},{"catalyst":"Memory rally, AI trade","change":"+11.90%","name":"Micron","price":811.3,"symbol":"MU"}]},"tiktok":{"comments":83,"followers":null,"forYouShare":"97.7%","handle":"@showtimelv26","likes":455,"profileViews":65,"rewards":"$0.00","shares":8,"videoViews60d":"17.4K"},"today":["1. Return Ford Bronco (6:00 AM)","2. Flight 2748 home (8:00 AM)","3. Arrive Las Vegas (4:00 PM PT)","4. Home in Las Vegas - rest up"],"updatedBy":"Brain","version":25,"youtube":{"channel":"Let Me Address This TV","deadline":"Feb 1, 2027","handle":"@letmeaddressthis","hoursGap":3540.5,"started":"Oct 23, 2026","subsGained365d":60,"subsGap":934,"subscriberGoal":1000,"subscribers":66,"top48h":[{"title":"She Spoils Her Man...","views":244},{"title":"Eboni K. Williams Says...","views":135},{"title":"Woman Gets HUMBLED...","views":120}],"views365d":42203,"viewsLast48h":1168,"watchHours":459.5,"watchHoursGoal":4000}}
+{
+ "assistant": {
+  "note": "OnlineJobs.ph post at cap",
+  "status": "Editor hiring: 15 applicants",
+  "tasks": [
+   "1. Review 15 applicants",
+   "2. Pick editor, send 1st task",
+   "3. First job: cut 3-5 Shorts"
+  ]
+ },
+ "calendar": {
+  "date": "Wed Nov 11, 2026",
+  "items": [
+   {
+    "time": "6:00 AM",
+    "title": "Return Ford Bronco"
+   },
+   {
+    "time": "8:00 AM",
+    "title": "Flight home: HNL to Las Vegas - Flight 2748"
+   },
+   {
+    "time": "All day",
+    "title": "Day 8 - Fly Home"
+   }
+  ],
+  "tomorrow": ""
+ },
+ "dataDate": "2026-11-11",
+ "facebook": {
+  "engagement": 170,
+  "followers": 35,
+  "follows28d": 35,
+  "nonFollowersShare": "99.5%",
+  "oneMinuteViews": 12,
+  "page": "Let Me Address This TV",
+  "period": "Oct 14 - Nov 10, 2026",
+  "reelsShare": "99.9%",
+  "threeSecondViews": 7600,
+  "views28d": 20719
+ },
+ "gmail": {
+  "items": [
+   {
+    "from": "OnlineJobs.ph",
+    "subject": "You didn't hire an OFS. Why not?"
+   },
+   {
+    "from": "Even Realities",
+    "subject": "Shop Even G2 With the Option to Pay Over Time"
+   },
+   {
+    "from": "Even Realities",
+    "subject": "Now, Build Your Own Knowledge Base with Even G2"
+   },
+   {
+    "from": "vidIQ",
+    "subject": "You reached 45,000 views"
+   }
+  ],
+  "unreadCount": 14
+ },
+ "ideas": {
+  "asOf": "Nov 7, 2026",
+  "items": [
+   {
+    "source": "Latino Slant",
+    "title": "Ramayana EPIC REACTION!",
+    "views": "308K"
+   },
+   {
+    "source": "K&J React",
+    "title": "XG DEPENDS MV Reaction",
+    "views": "31K"
+   },
+   {
+    "source": "Neel Desai",
+    "title": "GATE Ep 15-16 REACTION!",
+    "views": "18K"
+   }
+  ],
+  "keywords": [
+   {
+    "growth": "+39%",
+    "keyword": "how to make reaction videos",
+    "short": "make reaction videos",
+    "volume": "27K/mo"
+   },
+   {
+    "growth": "",
+    "keyword": "how to record reaction videos",
+    "short": "record reaction vids",
+    "volume": "3.8K/mo"
+   }
+  ]
+ },
+ "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 11. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+ "stocks": {
+  "asOf": "Wed Nov 11 close",
+  "items": [
+   {
+    "catalyst": "Q3 EPS beat + guidance raise",
+    "change": "+37.97%",
+    "name": "B&G Foods",
+    "price": 3.67,
+    "symbol": "BGS"
+   },
+   {
+    "catalyst": "Record revenue, back to profit",
+    "change": "+30.90%",
+    "name": "Gevo",
+    "price": 1.82,
+    "symbol": "GEVO"
+   },
+   {
+    "catalyst": "Swung to profit, raised outlook",
+    "change": "+26.70%",
+    "name": "Fossil Group",
+    "price": 9.97,
+    "symbol": "FOSL"
+   },
+   {
+    "catalyst": "Revenue beat + raised outlook",
+    "change": "+24.70%",
+    "name": "CoreWeave",
+    "price": 60.77,
+    "symbol": "CRWV"
+   },
+   {
+    "catalyst": "Revenue +41%, raised outlook",
+    "change": "+22.29%",
+    "name": "Riskified",
+    "price": 10.37,
+    "symbol": "RSKD"
+   },
+   {
+    "catalyst": "Memory rally, AI trade",
+    "change": "+13.70%",
+    "name": "Sandisk",
+    "price": 977.69,
+    "symbol": "SNDK"
+   },
+   {
+    "catalyst": "Memory rally, AI trade",
+    "change": "+11.90%",
+    "name": "Micron",
+    "price": 811.3,
+    "symbol": "MU"
+   }
+  ]
+ },
+ "tiktok": {
+  "comments": 83,
+  "followers": null,
+  "forYouShare": "97.7%",
+  "handle": "@showtimelv26",
+  "likes": 455,
+  "profileViews": 65,
+  "rewards": "$0.00",
+  "shares": 8,
+  "videoViews60d": "17.4K"
+ },
+ "today": [
+  "1. Return Ford Bronco (6:00 AM)",
+  "2. Flight 2748 home (8:00 AM)",
+  "3. Arrive Las Vegas (4:00 PM PT)",
+  "4. Home in Las Vegas - rest up"
+ ],
+ "updatedBy": "Brain",
+ "version": 26,
+ "youtube": {
+  "channel": "Let Me Address This TV",
+  "deadline": "Feb 1, 2027",
+  "handle": "@letmeaddressthis",
+  "hoursGap": 3540.5,
+  "started": "Oct 23, 2026",
+  "subsGained365d": 60,
+  "subsGap": 934,
+  "subscriberGoal": 1000,
+  "subscribers": 66,
+  "top48h": [
+   {
+    "title": "She Spoils Her Man...",
+    "views": 244
+   },
+   {
+    "title": "Eboni K. Williams Says...",
+    "views": 135
+   },
+   {
+    "title": "Woman Gets HUMBLED...",
+    "views": 120
+   }
+  ],
+  "views365d": 42203,
+  "viewsLast48h": 1168,
+  "watchHours": 459.5,
+  "watchHoursGoal": 4000
+ }
+}
