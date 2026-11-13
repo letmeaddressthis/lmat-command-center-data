@@ -1,1 +1,185 @@
-ewogICJhc3Npc3RhbnQiOiB7CiAgICAibm90ZSI6ICJPbmxpbmVKb2JzLnBoIHBvc3QgYXQgY2FwIiwKICAgICJzdGF0dXMiOiAiRWRpdG9yIGhpcmluZzogMTUgYXBwbGljYW50cyIsCiAgICAidGFza3MiOiBbCiAgICAgICIxLiBSZXZpZXcgMTUgYXBwbGljYW50cyIsCiAgICAgICIyLiBQaWNrIGVkaXRvciwgc2VuZCAxc3QgdGFzayIsCiAgICAgICIzLiBGaXJzdCBqb2I6IGN1dCAzLTUgU2hvcnRzIgogICAgXQogIH0sCiAgImNhbGVuZGFyIjogewogICAgImRhdGUiOiAiRnJpIE5vdiAxMywgMjAyNiIsCiAgICAiaXRlbXMiOiBbXSwKICAgICJ0b21vcnJvdyI6ICIiCiAgfSwKICAiZGF0YURhdGUiOiAiMjAyNi0xMS0xMyIsCiAgImZhY2Vib29rIjogewogICAgImVuZ2FnZW1lbnQiOiAxNzAsCiAgICAiZm9sbG93ZXJzIjogMzcsCiAgICAiZm9sbG93czI4ZCI6IDM1LAogICAgIm5vbkZvbGxvd2Vyc1NoYXJlIjogIjk5LjUlIiwKICAgICJvbmVNaW51dGVWaWV3cyI6IDEyLAogICAgInBhZ2UiOiAiTGV0IE1lIEFkZHJlc3MgVGhpcyBUViIsCiAgICAicGVyaW9kIjogIk9jdCAxNiAtIE5vdiAxMiwgMjAyNiIsCiAgICAicmVlbHNTaGFyZSI6ICI5OS45JSIsCiAgICAidGhyZWVTZWNvbmRWaWV3cyI6IDc2MDAsCiAgICAidmlld3MyOGQiOiAyMzI0NAogIH0sCiAgImdtYWlsIjogewogICAgIml0ZW1zIjogWwogICAgICB7CiAgICAgICAgImZyb20iOiAiRXZlbiBSZWFsaXRpZXMiLAogICAgICAgICJzdWJqZWN0IjogIlNob3AgRXZlbiBHMiBXaXRoIHRoZSBPcHRpb24gdG8gUGF5IE92ZXIgVGltZSIKICAgICAgfSwKICAgICAgewogICAgICAgICJmcm9tIjogIkV2ZW4gUmVhbGl0aWVzIiwKICAgICAgICAic3ViamVjdCI6ICJOb3csIEJ1aWxkIFlvdXIgT3duIEtub3dsZWRnZSBCYXNlIHdpdGggRXZlbiBHMiIKICAgICAgfSwKICAgICAgewogICAgICAgICJmcm9tIjogInZpZElRIiwKICAgICAgICAic3ViamVjdCI6ICJUaGUgZmFjZWxlc3MgbmljaGVzIEknZCBzdGFydCB0b2RheSIKICAgICAgfSwKICAgICAgewogICAgICAgICJmcm9tIjogIlB1YmxlciIsCiAgICAgICAgInN1YmplY3QiOiAiSmFtZXMsIEFyZSBZb3UgTWFraW5nIHRoZSBNb3N0IG9mIFB1YmxlcidzIFdvcmtzcGFjZXM/IPCfpJQiCiAgICAgIH0KICAgIF0sCiAgICAidW5yZWFkQ291bnQiOiAyMDEKICB9LAogICJpZGVhcyI6IHsKICAgICJhc09mIjogIk5vdiA3LCAyMDI2IiwKICAgICJpdGVtcyI6IFsKICAgICAgewogICAgICAgICJzb3VyY2UiOiAiTGF0aW5vIFNsYW50IiwKICAgICAgICAidGl0bGUiOiAiUmFtYXlhbmEgRVBJQyBSRUFDVElPTiEiLAogICAgICAgICJ2aWV3cyI6ICIzMDhLIgogICAgICB9LAogICAgICB7CiAgICAgICAgInNvdXJjZSI6ICJLJkogUmVhY3QiLAogICAgICAgICJ0aXRsZSI6ICJYRyBERVBFTkRTIE1WIFJlYWN0aW9uIiwKICAgICAgICAidmlld3MiOiAiMzFLIgogICAgICB9LAogICAgICB7CiAgICAgICAgInNvdXJjZSI6ICJOZWVsIERlc2FpIiwKICAgICAgICAidGl0bGUiOiAiR0FURSBFcCAxNS0xNiBSRUFDVElPTiEiLAogICAgICAgICJ2aWV3cyI6ICIxOEsiCiAgICAgIH0KICAgIF0sCiAgICAia2V5d29yZHMiOiBbCiAgICAgIHsKICAgICAgICAiZ3Jvd3RoIjogIiszOSUiLAogICAgICAgICJrZXl3b3JkIjogImhvdyB0byBtYWtlIHJlYWN0aW9uIHZpZGVvcyIsCiAgICAgICAgInNob3J0IjogIm1ha2UgcmVhY3Rpb24gdmlkZW9zIiwKICAgICAgICAidm9sdW1lIjogIjI3Sy9tbyIKICAgICAgfSwKICAgICAgewogICAgICAgICJncm93dGgiOiAiIiwKICAgICAgICAia2V5d29yZCI6ICJob3cgdG8gcmVjb3JkIHJlYWN0aW9uIHZpZGVvcyIsCiAgICAgICAgInNob3J0IjogInJlY29yZCByZWFjdGlvbiB2aWRzIiwKICAgICAgICAidm9sdW1lIjogIjMuOEsvbW8iCiAgICAgIH0KICAgIF0KICB9LAogICJub3RlIjogIkxNQVQgQ29tbWFuZCBDZW50ZXIgZGF0YSBmZWVkLiBSZWZyZXNoZWQgZXZlcnkgMzAgbWluICg3IEFNLTEwIFBNIEhTVCkuIFlvdVR1YmUgdG90YWxzIGZyb20gdmlkSVEgKHJlYWRzIGEgbGl0dGxlIGxvd2VyIHRoYW4gWW91VHViZSBTdHVkaW8sIGxhZ3MgfjEgZGF5KS4gNDhoIGRldGFpbCBmcm9tIFlvdVR1YmUgU3R1ZGlvIHNjcmVlbnNob3RzIE5vdiA3LiBGYWNlYm9vayBmcm9tIHRoZSBQYWdlIGNvbm5lY3RvciBOb3YgMTMuIFRpa1RvayBmcm9tIEtpbmcncyBzY3JlZW5zaG90cyBvbmx5LiBTdG9ja3M6IHRvcCA3IG1vdmVycyB3aXRoIGEgcmVhbCBjYXRhbHlzdCwgcGlja2VkIGZyZXNoIGVhY2ggcmVmcmVzaC4gSWRlYXM6IHZpZElRIHRyZW5kaW5nIHJlYWN0aW9ucyArIGtleXdvcmQgcmVzZWFyY2ggKGZyb3plbiAtIDAgdmlkSVEgY3JlZGl0cyB1bnRpbCBEZWMgNSkuIFlvdVR1YmUgd2F0Y2ggaG91cnMgYWxzbyBmcm96ZW4gdW50aWwgRGVjIDUuIENhbGVuZGFyOiBHb29nbGUgQ2FsZW5kYXIgdG9kYXkuIEdtYWlsOiBuZXdlc3QgdW5yZWFkIGZpcnN0IGZyb20gaGlyaW5nIChPbmxpbmVKb2JzLnBoKSwgRXZlbiBSZWFsaXRpZXMsIGFuZCBjcmVhdG9yIHRvb2xzICh2aWRJUSwgUHVibGVyLCBPcHVzQ2xpcCwgRGVzY3JpcHQpLCBzZW5kZXIgKyBzdWJqZWN0IE9OTFkg4oCUIG5ldmVyIGluY2x1ZGUgdmVyaWZpY2F0aW9uIGNvZGVzLCBwYXNzd29yZCByZXNldHMsIGZpbmFuY2lhbCBvciBwZXJzb25hbCBtYWlsLCBhbmQgbmV2ZXIgaW5jbHVkZSBtZXNzYWdlIGJvZGllcy4gQXNzaXN0YW50OiBlZGl0b3IgaGlyaW5nIHN0YXR1cyArIHRhc2sgYm9hcmQsIHVwZGF0ZWQgb25seSBmcm9tIEtpbmcncyBpbnN0cnVjdGlvbnMuIERvIG5vdCBpbnZlbnQgbnVtYmVycyDigJQgbGVhdmUgYSBmaWVsZCBhcyBudWxsIC8gJz8nIGlmIHVua25vd24uIiwKICAic3RvY2tzIjogewogICAgImFzT2YiOiAiRnJpIE5vdiAxMyBjbG9zZSIsCiAgICAiaXRlbXMiOiBbCiAgICAgIHsKICAgICAgICAic3ltYm9sIjogIlNMU04iLAogICAgICAgICJuYW1lIjogIlNvbGVzZW5jZSIsCiAgICAgICAgInByaWNlIjogMS41MSwKICAgICAgICAiY2hhbmdlIjogIis2Ni4xJSIsCiAgICAgICAgImNhdGFseXN0IjogIlEzIHJlc3VsdHMgZmlsZWQiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAic3ltYm9sIjogIlZUU0kiLAogICAgICAgICJuYW1lIjogIlZpclRyYSIsCiAgICAgICAgInByaWNlIjogNC4xNSwKICAgICAgICAiY2hhbmdlIjogIis1OC40JSIsCiAgICAgICAgImNhdGFseXN0IjogIlEzIGVhcm5pbmdzIGJlYXQsIHJlY29yZCBiYWNrbG9nIgogICAgICB9LAogICAgICB7CiAgICAgICAgInN5bWJvbCI6ICJTQkMiLAogICAgICAgICJuYW1lIjogIlNCQyBNZWRpY2FsIEdyb3VwIiwKICAgICAgICAicHJpY2UiOiA3LjM1LAogICAgICAgICJjaGFuZ2UiOiAiKzM3LjYlIiwKICAgICAgICAiY2F0YWx5c3QiOiAiUTMgcmVzdWx0cyBmaWxlZCIKICAgICAgfSwKICAgICAgewogICAgICAgICJzeW1ib2wiOiAiU0hJTSIsCiAgICAgICAgIm5hbWUiOiAiU2hpbW1pY2siLAogICAgICAgICJwcmljZSI6IDMuMTYsCiAgICAgICAgImNoYW5nZSI6ICIrMzUuMCUiLAogICAgICAgICJjYXRhbHlzdCI6ICJRMyBlYXJuaW5ncyBiZWF0IgogICAgICB9LAogICAgICB7CiAgICAgICAgInN5bWJvbCI6ICJMRk1EIiwKICAgICAgICAibmFtZSI6ICJMaWZlTUQiLAogICAgICAgICJwcmljZSI6IDIuMiwKICAgICAgICAiY2hhbmdlIjogIiszMi42JSIsCiAgICAgICAgImNhdGFseXN0IjogIlEzIGVhcm5pbmdzIHJlcG9ydCIKICAgICAgfSwKICAgICAgewogICAgICAgICJzeW1ib2wiOiAiTk1BWCIsCiAgICAgICAgIm5hbWUiOiAiTmV3c21heCIsCiAgICAgICAgInByaWNlIjogOS41OCwKICAgICAgICAiY2hhbmdlIjogIiszMS40JSIsCiAgICAgICAgImNhdGFseXN0IjogIlEzIHJlc3VsdHMgZmlsZWQiCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAic3ltYm9sIjogIkxGVE8iLAogICAgICAgICJuYW1lIjogIkxpZnRvZmYgTW9iaWxlIiwKICAgICAgICAicHJpY2UiOiAyNC4zNCwKICAgICAgICAiY2hhbmdlIjogIiszMC4xJSIsCiAgICAgICAgImNhdGFseXN0IjogIkVQUyBiZWF0ICsgcmFpc2VkIGd1aWRhbmNlIgogICAgICB9CiAgICBdCiAgfSwKICAidGlrdG9rIjogewogICAgImNvbW1lbnRzIjogODMsCiAgICAiZm9sbG93ZXJzIjogbnVsbCwKICAgICJmb3JZb3VTaGFyZSI6ICI5Ny43JSIsCiAgICAiaGFuZGxlIjogIkBzaG93dGltZWx2MjYiLAogICAgImxpa2VzIjogNDU1LAogICAgInByb2ZpbGVWaWV3cyI6IDY1LAogICAgInJld2FyZHMiOiAiJDAuMDAiLAogICAgInNoYXJlcyI6IDgsCiAgICAidmlkZW9WaWV3czYwZCI6ICIxNy40SyIKICB9LAogICJ0b2RheSI6IFsKICAgICIxLiBIb21lIGluIExhcyBWZWdhcyIsCiAgICAiMi4gTm8gZXZlbnRzIHNjaGVkdWxlZCB0b2RheSIKICBdLAogICJ1cGRhdGVkQnkiOiAiQnJhaW4iLAogICJ2ZXJzaW9uIjogMzIsCiAgInlvdXR1YmUiOiB7CiAgICAiY2hhbm5lbCI6ICJMZXQgTWUgQWRkcmVzcyBUaGlzIFRWIiwKICAgICJkZWFkbGluZSI6ICJGZWIgMSwgMjAyNyIsCiAgICAiaGFuZGxlIjogIkBsZXRtZWFkZHJlc3N0aGlzIiwKICAgICJob3Vyc0dhcCI6IDM1NDAuNSwKICAgICJzdGFydGVkIjogIk9jdCAyMywgMjAyNiIsCiAgICAic3Vic0dhaW5lZDM2NWQiOiA2MCwKICAgICJzdWJzR2FwIjogOTM0LAogICAgInN1YnNjcmliZXJHb2FsIjogMTAwMCwKICAgICJzdWJzY3JpYmVycyI6IDY2LAogICAgInRvcDQ4aCI6IFsKICAgICAgewogICAgICAgICJ0aXRsZSI6ICJTaGUgU3BvaWxzIEhlciBNYW4uLi4iLAogICAgICAgICJ2aWV3cyI6IDI0NAogICAgICB9LAogICAgICB7CiAgICAgICAgInRpdGxlIjogIkVib25pIEsuIFdpbGxpYW1zIFNheXMuLi4iLAogICAgICAgICJ2aWV3cyI6IDEzNQogICAgICB9LAogICAgICB7CiAgICAgICAgInRpdGxlIjogIldvbWFuIEdldHMgSFVNQkxFRC4uLiIsCiAgICAgICAgInZpZXdzIjogMTIwCiAgICAgIH0KICAgIF0sCiAgICAidmlld3MzNjVkIjogNDIyMDMsCiAgICAidmlld3NMYXN0NDhoIjogMTE2OCwKICAgICJ3YXRjaEhvdXJzIjogNDU5LjUsCiAgICAid2F0Y2hIb3Vyc0dvYWwiOiA0MDAwCiAgfQp9Cg==
+{
+  "assistant": {
+    "note": "OnlineJobs.ph post at cap",
+    "status": "Editor hiring: 15 applicants",
+    "tasks": [
+      "1. Review 15 applicants",
+      "2. Pick editor, send 1st task",
+      "3. First job: cut 3-5 Shorts"
+    ]
+  },
+  "calendar": {
+    "date": "Fri Nov 13, 2026",
+    "items": [],
+    "tomorrow": ""
+  },
+  "dataDate": "2026-11-13",
+  "facebook": {
+    "engagement": 170,
+    "followers": 37,
+    "follows28d": 35,
+    "nonFollowersShare": "99.5%",
+    "oneMinuteViews": 12,
+    "page": "Let Me Address This TV",
+    "period": "Oct 16 - Nov 12, 2026",
+    "reelsShare": "99.9%",
+    "threeSecondViews": 7600,
+    "views28d": 23244
+  },
+  "gmail": {
+    "items": [
+      {
+        "from": "Even Realities",
+        "subject": "Shop Even G2 With the Option to Pay Over Time"
+      },
+      {
+        "from": "Even Realities",
+        "subject": "Now, Build Your Own Knowledge Base with Even G2"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "The faceless niches I'd start today"
+      },
+      {
+        "from": "Publer",
+        "subject": "James, Are You Making the Most of Publer's Workspaces? 🤔"
+      }
+    ],
+    "unreadCount": 201
+  },
+  "ideas": {
+    "asOf": "Nov 7, 2026",
+    "items": [
+      {
+        "source": "Latino Slant",
+        "title": "Ramayana EPIC REACTION!",
+        "views": "308K"
+      },
+      {
+        "source": "K&J React",
+        "title": "XG DEPENDS MV Reaction",
+        "views": "31K"
+      },
+      {
+        "source": "Neel Desai",
+        "title": "GATE Ep 15-16 REACTION!",
+        "views": "18K"
+      }
+    ],
+    "keywords": [
+      {
+        "growth": "+39%",
+        "keyword": "how to make reaction videos",
+        "short": "make reaction videos",
+        "volume": "27K/mo"
+      },
+      {
+        "growth": "",
+        "keyword": "how to record reaction videos",
+        "short": "record reaction vids",
+        "volume": "3.8K/mo"
+      }
+    ]
+  },
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "stocks": {
+    "asOf": "Fri Nov 13 close",
+    "items": [
+      {
+        "symbol": "SLSN",
+        "name": "Solesence",
+        "price": 1.51,
+        "change": "+66.1%",
+        "catalyst": "Q3 results filed"
+      },
+      {
+        "symbol": "VTSI",
+        "name": "VirTra",
+        "price": 4.15,
+        "change": "+58.4%",
+        "catalyst": "Q3 earnings beat, record backlog"
+      },
+      {
+        "symbol": "SBC",
+        "name": "SBC Medical Group",
+        "price": 7.35,
+        "change": "+37.6%",
+        "catalyst": "Q3 results filed"
+      },
+      {
+        "symbol": "SHIM",
+        "name": "Shimmick",
+        "price": 3.16,
+        "change": "+35.0%",
+        "catalyst": "Q3 earnings beat"
+      },
+      {
+        "symbol": "LFMD",
+        "name": "LifeMD",
+        "price": 2.2,
+        "change": "+32.6%",
+        "catalyst": "Q3 earnings report"
+      },
+      {
+        "symbol": "NMAX",
+        "name": "Newsmax",
+        "price": 9.58,
+        "change": "+31.4%",
+        "catalyst": "Q3 results filed"
+      },
+      {
+        "symbol": "LFTO",
+        "name": "Liftoff Mobile",
+        "price": 24.34,
+        "change": "+30.1%",
+        "catalyst": "EPS beat + raised guidance"
+      }
+    ]
+  },
+  "tiktok": {
+    "comments": 83,
+    "followers": null,
+    "forYouShare": "97.7%",
+    "handle": "@showtimelv26",
+    "likes": 455,
+    "profileViews": 65,
+    "rewards": "$0.00",
+    "shares": 8,
+    "videoViews60d": "17.4K"
+  },
+  "today": [
+    "1. Home in Las Vegas",
+    "2. No events scheduled today"
+  ],
+  "updatedBy": "Brain",
+  "version": 32,
+  "youtube": {
+    "channel": "Let Me Address This TV",
+    "deadline": "Feb 1, 2027",
+    "handle": "@letmeaddressthis",
+    "hoursGap": 3540.5,
+    "started": "Oct 23, 2026",
+    "subsGained365d": 60,
+    "subsGap": 934,
+    "subscriberGoal": 1000,
+    "subscribers": 66,
+    "top48h": [
+      {
+        "title": "She Spoils Her Man...",
+        "views": 244
+      },
+      {
+        "title": "Eboni K. Williams Says...",
+        "views": 135
+      },
+      {
+        "title": "Woman Gets HUMBLED...",
+        "views": 120
+      }
+    ],
+    "views365d": 42203,
+    "viewsLast48h": 1168,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000
+  }
+}
