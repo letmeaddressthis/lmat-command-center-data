@@ -1,11 +1,11 @@
 {
   "assistant": {
-    "note": "Pro active; test invites sent Nov 14",
-    "status": "Editor test: Top 5 invited",
+    "note": "Pro active; Janice first I'M IN Nov 14",
+    "status": "Editor test: Janice I'M IN (1/5)",
     "tasks": [
-      "1. Top 5 sent $25 test invite",
-      "2. Await I'M IN replies",
-      "3. Send recording, 48h deadline"
+      "1. Janice replied I'M IN Nov 14",
+      "2. Send Janice test recording",
+      "3. Await other 4 replies, 48h test"
     ]
   },
   "calendar": {
@@ -81,7 +81,7 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "stocks": {
     "asOf": "Fri Nov 13 close",
     "items": [
@@ -152,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 49,
+  "version": 50,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
@@ -160,9 +160,9 @@
     "hoursGap": 3540.5,
     "started": "Oct 23, 2026",
     "subsGained365d": 60,
-    "subsGap": 934,
+    "subsGap": 933,
     "subscriberGoal": 1000,
-    "subscribers": 66,
+    "subscribers": 67,
     "top48h": [
       {
         "title": "She Spoils Her Man...",
