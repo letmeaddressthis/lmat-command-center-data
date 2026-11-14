@@ -107,31 +107,31 @@
         "symbol": "SBC"
       },
       {
-        "catalyst": "Q3 earnings report",
+        "catalyst": "EPS beat $0.03",
         "change": "+32.6%",
         "name": "LifeMD",
         "price": 2.2,
         "symbol": "LFMD"
       },
       {
-        "catalyst": "Q3 results filed",
-        "change": "+31.7%",
+        "catalyst": "EPS beat, revenue +52%",
+        "change": "+31.4%",
         "name": "Newsmax",
-        "price": 9.6,
+        "price": 9.58,
         "symbol": "NMAX"
       },
       {
         "catalyst": "EPS beat + raised guidance",
-        "change": "+30.9%",
+        "change": "+30.6%",
         "name": "Liftoff Mobile",
-        "price": 24.49,
+        "price": 24.44,
         "symbol": "LFTO"
       },
       {
         "catalyst": "Samsung takeover talks",
-        "change": "+28.0%",
+        "change": "+27.9%",
         "name": "Modine Manufacturing",
-        "price": 135.84,
+        "price": 135.66,
         "symbol": "MOD"
       }
     ]
@@ -152,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 39,
+  "version": 40,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
