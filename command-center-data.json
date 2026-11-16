@@ -69,57 +69,57 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
     "asOf": "Mon Nov 16 intraday",
     "items": [
       {
         "symbol": "GMM",
         "name": "Global Mofy AI",
-        "price": 2.2,
-        "change": "+113%",
+        "price": 2.25,
+        "change": "+120%",
         "catalyst": "Indirect stake in Anthropic"
       },
       {
         "symbol": "HIHO",
         "name": "Highway Holdings",
-        "price": 1.2,
-        "change": "+48%",
+        "price": 1.22,
+        "change": "+55%",
         "catalyst": "Special dividend $0.43/sh"
       },
       {
         "symbol": "MNTK",
         "name": "Montauk Renewables",
-        "price": 1.23,
-        "change": "+29%",
+        "price": 1.19,
+        "change": "+25%",
         "catalyst": "Q3 results; going-concern avoided"
       },
       {
         "symbol": "CGON",
         "name": "CG Oncology",
-        "price": 85.2,
-        "change": "+14.52%",
+        "price": 86.77,
+        "change": "+17%",
         "catalyst": "Phase 3 win: recurrence -68%"
       },
       {
         "symbol": "LXEO",
         "name": "Lexeo Therapeutics",
-        "price": 3.25,
-        "change": "+13.07%",
+        "price": 3.2,
+        "change": "+11%",
         "catalyst": "LX2020 data + FDA path"
       },
       {
         "symbol": "HTHT",
         "name": "H World Group",
-        "price": 55.47,
-        "change": "+10.08%",
+        "price": 55.59,
+        "change": "+10.31%",
         "catalyst": "EPS beat $0.93 vs $0.80"
       },
       {
         "symbol": "TU",
         "name": "TELUS Corp",
-        "price": 9.34,
-        "change": "+9.5%",
+        "price": 9.25,
+        "change": "+8.38%",
         "catalyst": "Quebecor takeover proposal"
       }
     ]
@@ -140,7 +140,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 88,
+  "version": 89,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
