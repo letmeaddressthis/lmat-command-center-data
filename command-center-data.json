@@ -76,51 +76,51 @@
       {
         "symbol": "CGON",
         "name": "CG Oncology",
-        "price": 85.05,
-        "change": "+14.31%",
+        "price": 84.69,
+        "change": "+13.83%",
         "catalyst": "Phase 3 win: recurrence -68%"
       },
       {
         "symbol": "CLW",
         "name": "Clearwater Paper",
-        "price": 16.42,
-        "change": "+12.77%",
+        "price": 16.24,
+        "change": "+11.50%",
         "catalyst": "Reaffirms Q4 EBITDA guidance"
       },
       {
         "symbol": "TU",
         "name": "TELUS Corp",
-        "price": 9.45,
-        "change": "+10.73%",
+        "price": 9.48,
+        "change": "+11.14%",
         "catalyst": "Quebecor takeover proposal"
+      },
+      {
+        "symbol": "MOH",
+        "name": "Molina Healthcare",
+        "price": 229.5,
+        "change": "+9.55%",
+        "catalyst": "Medicaid work-rule delay"
       },
       {
         "symbol": "HTHT",
         "name": "H World Group",
-        "price": 54.77,
-        "change": "+8.69%",
-        "catalyst": "EPS beat, double beat"
+        "price": 54.89,
+        "change": "+8.93%",
+        "catalyst": "EPS beat + guidance raise"
       },
       {
         "symbol": "TSN",
         "name": "Tyson Foods",
-        "price": 62.59,
-        "change": "+6.41%",
-        "catalyst": "EPS beat $0.61 vs $0.60"
+        "price": 63.25,
+        "change": "+7.53%",
+        "catalyst": "EPS beat $0.61"
       },
       {
-        "symbol": "BEKE",
-        "name": "KE Holdings",
-        "price": 18.77,
-        "change": "+5.09%",
-        "catalyst": "EPS beat $0.35 vs $0.23"
-      },
-      {
-        "symbol": "XPEV",
-        "name": "XPeng",
-        "price": 9.8,
-        "change": "+4.54%",
-        "catalyst": "Revenue beat + Q4 forecast"
+        "symbol": "CNC",
+        "name": "Centene",
+        "price": 74.84,
+        "change": "+5.01%",
+        "catalyst": "Medicaid work-rule delay"
       }
     ]
   },
@@ -140,7 +140,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 93,
+  "version": 94,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
