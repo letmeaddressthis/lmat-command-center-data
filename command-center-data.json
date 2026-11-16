@@ -1,12 +1,12 @@
 {
   "assistant": {
+    "note": "Avenier confirmed receipt, editing started; Janice = hire if she passes",
     "status": "Editor test: 3 editing (Janice, Aezikiel, Avenier)",
     "tasks": [
       "1. Ayesha test sent to all 3 Nov 16",
       "2. Due Wed Nov 18 ~12:20 AM PT",
       "3. $25 each on delivery"
-    ],
-    "note": "Avenier confirmed receipt, editing started; Janice = hire if she passes"
+    ]
   },
   "calendar": {
     "date": "Mon Nov 16, 2026",
@@ -29,11 +29,15 @@
   "gmail": {
     "items": [
       {
+        "from": "vidIQ",
+        "subject": "You're in the top 25% of Creators!"
+      },
+      {
         "from": "Publer",
         "subject": "Analytics PDF reports for Nov 9, 2026 - Nov 15, 2026"
       }
     ],
-    "unreadCount": 1
+    "unreadCount": 2
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -71,56 +75,56 @@
   },
   "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Mon Nov 16 intraday",
+    "asOf": "Mon Nov 16 close",
     "items": [
       {
-        "symbol": "CGON",
+        "catalyst": "Phase 3 win: recurrence -68%",
+        "change": "+13.95%",
         "name": "CG Oncology",
-        "price": 84.69,
-        "change": "+13.83%",
-        "catalyst": "Phase 3 win: recurrence -68%"
+        "price": 84.78,
+        "symbol": "CGON"
       },
       {
-        "symbol": "CLW",
-        "name": "Clearwater Paper",
-        "price": 16.24,
-        "change": "+11.50%",
-        "catalyst": "Reaffirms Q4 EBITDA guidance"
-      },
-      {
-        "symbol": "TU",
+        "catalyst": "Quebecor takeover proposal",
+        "change": "+12.19%",
         "name": "TELUS Corp",
-        "price": 9.48,
-        "change": "+11.14%",
-        "catalyst": "Quebecor takeover proposal"
+        "price": 9.57,
+        "symbol": "TU"
       },
       {
-        "symbol": "MOH",
+        "catalyst": "Reaffirms Q4 EBITDA guidance",
+        "change": "+11.88%",
+        "name": "Clearwater Paper",
+        "price": 16.29,
+        "symbol": "CLW"
+      },
+      {
+        "catalyst": "Medicaid work-rule delay",
+        "change": "+11.27%",
         "name": "Molina Healthcare",
-        "price": 229.5,
-        "change": "+9.55%",
-        "catalyst": "Medicaid work-rule delay"
+        "price": 233.09,
+        "symbol": "MOH"
       },
       {
-        "symbol": "HTHT",
+        "catalyst": "EPS beat + guidance raise",
+        "change": "+8.91%",
         "name": "H World Group",
-        "price": 54.89,
-        "change": "+8.93%",
-        "catalyst": "EPS beat + guidance raise"
+        "price": 54.88,
+        "symbol": "HTHT"
       },
       {
-        "symbol": "TSN",
+        "catalyst": "EPS beat $0.61",
+        "change": "+8.72%",
         "name": "Tyson Foods",
-        "price": 63.25,
-        "change": "+7.53%",
-        "catalyst": "EPS beat $0.61"
+        "price": 63.95,
+        "symbol": "TSN"
       },
       {
-        "symbol": "CNC",
+        "catalyst": "Medicaid work-rule delay",
+        "change": "+4.91%",
         "name": "Centene",
-        "price": 74.84,
-        "change": "+5.01%",
-        "catalyst": "Medicaid work-rule delay"
+        "price": 74.77,
+        "symbol": "CNC"
       }
     ]
   },
@@ -140,7 +144,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 94,
+  "version": 95,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
