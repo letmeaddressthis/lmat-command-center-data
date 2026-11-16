@@ -1,11 +1,11 @@
 {
   "assistant": {
-    "note": "Only Janice replied; other 4 silent Nov 15",
-    "status": "Editor test: Janice I'M IN (1/5)",
+    "note": "3 candidates await Ayesha file; Gion & Arlan silent",
+    "status": "Editor test: 3 in (Janice, Aezikiel, Avenier)",
     "tasks": [
-      "1. Janice replied I'M IN Nov 14",
-      "2. Messaged Janice Nov 15 - test by Mon AM",
-      "3. Send Ayesha test recording to Janice"
+      "1. Janice, Aezikiel, Avenier replied I'M IN",
+      "2. Replied to all 3 Nov 15 - test by Mon AM",
+      "3. Send Ayesha test recording to all 3"
     ]
   },
   "calendar": {
@@ -16,7 +16,7 @@
   "dataDate": "2026-11-15",
   "facebook": {
     "engagement": 170,
-    "followers": 61,
+    "followers": 63,
     "follows28d": 37,
     "nonFollowersShare": "99.5%",
     "oneMinuteViews": 12,
@@ -34,15 +34,15 @@
       },
       {
         "from": "OnlineJobs.ph",
-        "subject": "Video Editor Ready to Grow Into a Content Management Role"
+        "subject": "SHOWTIME LMAT \u2013 Junior YouTube Video Editor & Content Assistant \u2013 Avenier Arellano"
       },
       {
         "from": "OnlineJobs.ph",
-        "subject": "Reactivate Your Job Post Now"
+        "subject": "SHOWTIME LMAT \u2013 Junior YouTube Video Editor & Content Assistant \u2013 Avenier Arellano"
       },
       {
-        "from": "vidIQ",
-        "subject": "You reached 150 uploads"
+        "from": "OnlineJobs.ph",
+        "subject": "Reliable Video Editor ready to bring your vision to life!"
       }
     ],
     "unreadCount": 201
@@ -81,7 +81,7 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "stocks": {
     "asOf": "Fri Nov 13 close",
     "items": [
@@ -152,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 80,
+  "version": 81,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
