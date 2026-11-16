@@ -16,7 +16,7 @@
   "dataDate": "2026-11-16",
   "facebook": {
     "engagement": 170,
-    "followers": 83,
+    "followers": 84,
     "follows28d": 77,
     "nonFollowersShare": "99.5%",
     "oneMinuteViews": 12,
@@ -69,58 +69,58 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "stocks": {
     "asOf": "Mon Nov 16 intraday",
     "items": [
       {
         "symbol": "GMM",
         "name": "Global Mofy AI",
-        "price": 2.25,
-        "change": "+120%",
+        "price": 1.88,
+        "change": "+83%",
         "catalyst": "Indirect stake in Anthropic"
       },
       {
         "symbol": "HIHO",
         "name": "Highway Holdings",
-        "price": 1.22,
-        "change": "+55%",
+        "price": 1.18,
+        "change": "+50%",
         "catalyst": "Special dividend $0.43/sh"
       },
       {
         "symbol": "MNTK",
         "name": "Montauk Renewables",
-        "price": 1.19,
-        "change": "+25%",
+        "price": 1.2,
+        "change": "+25.24%",
         "catalyst": "Q3 results; going-concern avoided"
       },
       {
         "symbol": "CGON",
         "name": "CG Oncology",
-        "price": 86.77,
-        "change": "+17%",
+        "price": 85.07,
+        "change": "+14.34%",
         "catalyst": "Phase 3 win: recurrence -68%"
-      },
-      {
-        "symbol": "LXEO",
-        "name": "Lexeo Therapeutics",
-        "price": 3.2,
-        "change": "+11%",
-        "catalyst": "LX2020 data + FDA path"
       },
       {
         "symbol": "HTHT",
         "name": "H World Group",
-        "price": 55.59,
-        "change": "+10.31%",
+        "price": 55.14,
+        "change": "+9.43%",
         "catalyst": "EPS beat $0.93 vs $0.80"
       },
       {
         "symbol": "TU",
         "name": "TELUS Corp",
-        "price": 9.25,
-        "change": "+8.38%",
+        "price": 9.19,
+        "change": "+7.74%",
         "catalyst": "Quebecor takeover proposal"
+      },
+      {
+        "symbol": "LXEO",
+        "name": "Lexeo Therapeutics",
+        "price": 3.07,
+        "change": "+6.79%",
+        "catalyst": "LX2020 data + FDA path"
       }
     ]
   },
@@ -140,7 +140,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 89,
+  "version": 90,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
