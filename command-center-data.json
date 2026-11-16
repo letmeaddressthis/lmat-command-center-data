@@ -1,35 +1,39 @@
 {
   "assistant": {
-    "note": "3 candidates await Ayesha file; Gion & Arlan silent",
-    "status": "Editor test: 3 in (Janice, Aezikiel, Avenier)",
+    "status": "Editor test: 3 editing (Janice, Aezikiel, Avenier)",
     "tasks": [
-      "1. Janice, Aezikiel, Avenier replied I'M IN",
-      "2. Replied to all 3 Nov 15 - test by Mon AM",
-      "3. Send Ayesha test recording to all 3"
-    ]
+      "1. Ayesha test sent to all 3 Nov 16",
+      "2. Due Wed Nov 18 ~12:20 AM PT",
+      "3. $25 each on delivery"
+    ],
+    "note": "Avenier confirmed receipt, editing started; Janice = hire if she passes"
   },
   "calendar": {
-    "date": "Sun Nov 15, 2026",
+    "date": "Mon Nov 16, 2026",
     "items": [],
     "tomorrow": ""
   },
-  "dataDate": "2026-11-15",
+  "dataDate": "2026-11-16",
   "facebook": {
     "engagement": 170,
-    "followers": 77,
-    "follows28d": 37,
+    "followers": 83,
+    "follows28d": 77,
     "nonFollowersShare": "99.5%",
     "oneMinuteViews": 12,
     "page": "Let Me Address This TV",
-    "period": "Oct 19 - Nov 14, 2026",
+    "period": "Oct 19 - Nov 15, 2026",
     "reelsShare": "99.9%",
     "threeSecondViews": 7600,
-    "views28d": 26529
+    "views28d": 28590
   },
   "gmail": {
     "items": [
       {
         "from": "OnlineJobs.ph",
+        "subject": "SHOWTIME LMAT – Junior YouTube Video Editor & Content Assistant – Avenier Arellano"
+      },
+      {
+        "from": "OnlineJobs.ph",
         "subject": "Reliable Video Editor ready to bring your vision to life!"
       },
       {
@@ -39,10 +43,6 @@
       {
         "from": "OnlineJobs.ph",
         "subject": "SHOWTIME LMAT – Junior YouTube Video Editor & Content Assistant – Avenier Arellano"
-      },
-      {
-        "from": "OnlineJobs.ph",
-        "subject": "Reliable Video Editor ready to bring your vision to life!"
       }
     ],
     "unreadCount": 201
@@ -83,56 +83,56 @@
   },
   "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Fri Nov 13 close",
+    "asOf": "Mon Nov 16 intraday",
     "items": [
       {
-        "catalyst": "Short interest spike",
-        "change": "+103.2%",
-        "name": "Akanda Corp",
-        "price": 1.37,
-        "symbol": "AKAN"
+        "symbol": "GMM",
+        "name": "Global Mofy AI",
+        "price": 2.22,
+        "change": "+124.65%",
+        "catalyst": "Indirect stake in Anthropic"
       },
       {
-        "catalyst": "Q3 results, record profits",
-        "change": "+68.3%",
-        "name": "Solesence",
-        "price": 1.53,
-        "symbol": "SLSN"
+        "symbol": "HIHO",
+        "name": "Highway Holdings",
+        "price": 1.16,
+        "change": "+46.41%",
+        "catalyst": "Special dividend $0.43/sh"
       },
       {
-        "catalyst": "Q3 earnings beat, record backlog",
-        "change": "+61.6%",
-        "name": "VirTra",
-        "price": 4.24,
-        "symbol": "VTSI"
+        "symbol": "MNTK",
+        "name": "Montauk Renewables",
+        "price": 1.19,
+        "change": "+25.89%",
+        "catalyst": "Q3 results; going-concern avoided"
       },
       {
-        "catalyst": "Q3 results filed",
-        "change": "+37.9%",
-        "name": "SBC Medical Group",
-        "price": 7.37,
-        "symbol": "SBC"
+        "symbol": "LXEO",
+        "name": "Lexeo Therapeutics",
+        "price": 3.26,
+        "change": "+13.59%",
+        "catalyst": "LX2020 data + FDA path"
       },
       {
-        "catalyst": "EPS beat $0.03",
-        "change": "+32.6%",
-        "name": "LifeMD",
-        "price": 2.2,
-        "symbol": "LFMD"
+        "symbol": "CGON",
+        "name": "CG Oncology",
+        "price": 84.17,
+        "change": "+13.0%",
+        "catalyst": "Phase 3 win: recurrence -68%"
       },
       {
-        "catalyst": "EPS beat, revenue +52%",
-        "change": "+31.7%",
-        "name": "Newsmax",
-        "price": 9.6,
-        "symbol": "NMAX"
+        "symbol": "HTHT",
+        "name": "H World Group",
+        "price": 55.63,
+        "change": "+10.40%",
+        "catalyst": "EPS beat $0.93 vs $0.80"
       },
       {
-        "catalyst": "EPS beat + raised guidance",
-        "change": "+30.9%",
-        "name": "Liftoff Mobile",
-        "price": 24.49,
-        "symbol": "LFTO"
+        "symbol": "TU",
+        "name": "TELUS Corp",
+        "price": 9.41,
+        "change": "+10.34%",
+        "catalyst": "Quebecor takeover proposal"
       }
     ]
   },
@@ -152,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 86,
+  "version": 87,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
