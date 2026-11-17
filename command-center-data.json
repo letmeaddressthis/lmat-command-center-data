@@ -83,55 +83,55 @@
   },
   "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Tue Nov 17 intraday",
+    "asOf": "Tue Nov 17 close",
     "items": [
       {
         "catalyst": "Phase 3 win: death risk -41%",
-        "change": "+163.20%",
+        "change": "+156.36%",
         "name": "SELLAS Life Sciences",
-        "price": 19.66,
+        "price": 19.15,
         "symbol": "SLS"
       },
       {
         "catalyst": "EPS beat $0.13 vs $0.08",
-        "change": "+16.59%",
+        "change": "+16.48%",
         "name": "OneWater Marine",
-        "price": 10.61,
+        "price": 10.6,
         "symbol": "ONEW"
       },
       {
         "catalyst": "EPS beat + record $28B backlog",
-        "change": "+12.97%",
+        "change": "+11.08%",
         "name": "AECOM",
-        "price": 81.9,
+        "price": 80.53,
         "symbol": "ACM"
       },
       {
         "catalyst": "EPS beat $4.36 vs $3.65",
-        "change": "+5.36%",
+        "change": "+5.85%",
         "name": "Elbit Systems",
-        "price": 717.21,
+        "price": 720.53,
         "symbol": "ESLT"
       },
       {
-        "catalyst": "UBS upgrade to Neutral",
-        "change": "+4.16%",
-        "name": "Telefonica Brasil",
-        "price": 12.39,
-        "symbol": "VIV"
-      },
-      {
         "catalyst": "EPS beat + $400M buyback add",
-        "change": "+2.91%",
+        "change": "+4.79%",
         "name": "Griffon",
-        "price": 102.87,
+        "price": 104.75,
         "symbol": "GFF"
       },
       {
+        "catalyst": "UBS upgrade to Neutral",
+        "change": "+4.63%",
+        "name": "Telefonica Brasil",
+        "price": 12.44,
+        "symbol": "VIV"
+      },
+      {
         "catalyst": "EPS beat $1.89 vs $1.77",
-        "change": "+2.09%",
+        "change": "+2.99%",
         "name": "Franco-Nevada",
-        "price": 245.21,
+        "price": 247.38,
         "symbol": "FNV"
       }
     ]
@@ -152,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 115,
+  "version": 116,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
