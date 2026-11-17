@@ -9,11 +9,11 @@
     ]
   },
   "calendar": {
-    "date": "Mon Nov 16, 2026",
+    "date": "Tue Nov 17, 2026",
     "items": [],
     "tomorrow": ""
   },
-  "dataDate": "2026-11-16",
+  "dataDate": "2026-11-17",
   "facebook": {
     "engagement": 170,
     "followers": 85,
@@ -21,10 +21,10 @@
     "nonFollowersShare": "99.5%",
     "oneMinuteViews": 12,
     "page": "Let Me Address This TV",
-    "period": "Oct 19 - Nov 15, 2026",
+    "period": "Oct 20 - Nov 16, 2026",
     "reelsShare": "99.9%",
     "threeSecondViews": 7600,
-    "views28d": 28590
+    "views28d": 30169
   },
   "gmail": {
     "items": [
@@ -35,9 +35,13 @@
       {
         "from": "Publer",
         "subject": "Analytics PDF reports for Nov 9, 2026 - Nov 15, 2026"
+      },
+      {
+        "from": "Google",
+        "subject": "Welcome to Google on your Mac OS"
       }
     ],
-    "unreadCount": 3
+    "unreadCount": 6
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -73,58 +77,58 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Mon Nov 16 close",
+    "asOf": "Tue Nov 17 intraday",
     "items": [
       {
-        "catalyst": "Phase 3 win: recurrence -68%",
-        "change": "+13.95%",
-        "name": "CG Oncology",
-        "price": 84.78,
-        "symbol": "CGON"
+        "catalyst": "Phase 3 win: death risk -41%",
+        "change": "+166.00%",
+        "name": "SELLAS Life Sciences",
+        "price": 19.89,
+        "symbol": "SLS"
       },
       {
-        "catalyst": "Quebecor takeover proposal",
-        "change": "+12.19%",
-        "name": "TELUS Corp",
-        "price": 9.57,
-        "symbol": "TU"
+        "catalyst": "EPS beat $0.13 vs $0.08",
+        "change": "+20.66%",
+        "name": "OneWater Marine",
+        "price": 10.98,
+        "symbol": "ONEW"
       },
       {
-        "catalyst": "Reaffirms Q4 EBITDA guidance",
-        "change": "+11.88%",
-        "name": "Clearwater Paper",
-        "price": 16.29,
-        "symbol": "CLW"
+        "catalyst": "EPS beat + record $28B backlog",
+        "change": "+12.66%",
+        "name": "AECOM",
+        "price": 81.68,
+        "symbol": "ACM"
       },
       {
-        "catalyst": "Medicaid work-rule delay",
-        "change": "+11.27%",
-        "name": "Molina Healthcare",
-        "price": 233.09,
-        "symbol": "MOH"
+        "catalyst": "EPS beat $4.36 vs $3.65",
+        "change": "+6.71%",
+        "name": "Elbit Systems",
+        "price": 726.39,
+        "symbol": "ESLT"
       },
       {
-        "catalyst": "EPS beat + guidance raise",
-        "change": "+8.91%",
-        "name": "H World Group",
-        "price": 54.88,
-        "symbol": "HTHT"
+        "catalyst": "EPS beat + $400M buyback add",
+        "change": "+4.98%",
+        "name": "Griffon",
+        "price": 104.94,
+        "symbol": "GFF"
       },
       {
-        "catalyst": "EPS beat $0.61",
-        "change": "+8.72%",
-        "name": "Tyson Foods",
-        "price": 63.95,
-        "symbol": "TSN"
+        "catalyst": "UBS upgrade to Neutral",
+        "change": "+4.16%",
+        "name": "Telefonica Brasil",
+        "price": 12.39,
+        "symbol": "VIV"
       },
       {
-        "catalyst": "Medicaid work-rule delay",
-        "change": "+4.91%",
-        "name": "Centene",
-        "price": 74.77,
-        "symbol": "CNC"
+        "catalyst": "EPS beat $1.89 vs $1.77",
+        "change": "+2.77%",
+        "name": "Franco-Nevada",
+        "price": 246.85,
+        "symbol": "FNV"
       }
     ]
   },
@@ -144,7 +148,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 113,
+  "version": 114,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
