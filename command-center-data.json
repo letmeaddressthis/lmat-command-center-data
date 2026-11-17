@@ -39,6 +39,10 @@
       {
         "from": "Google",
         "subject": "Welcome to Google on your Mac OS"
+      },
+      {
+        "from": "Expedia.com",
+        "subject": "James, your $10 OneKeyCash welcome gift 🎁"
       }
     ],
     "unreadCount": 6
@@ -77,44 +81,37 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 30 min (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector Nov 13. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
     "asOf": "Tue Nov 17 intraday",
     "items": [
       {
         "catalyst": "Phase 3 win: death risk -41%",
-        "change": "+166.00%",
+        "change": "+163.20%",
         "name": "SELLAS Life Sciences",
-        "price": 19.89,
+        "price": 19.66,
         "symbol": "SLS"
       },
       {
         "catalyst": "EPS beat $0.13 vs $0.08",
-        "change": "+20.66%",
+        "change": "+16.59%",
         "name": "OneWater Marine",
-        "price": 10.98,
+        "price": 10.61,
         "symbol": "ONEW"
       },
       {
         "catalyst": "EPS beat + record $28B backlog",
-        "change": "+12.66%",
+        "change": "+12.97%",
         "name": "AECOM",
-        "price": 81.68,
+        "price": 81.9,
         "symbol": "ACM"
       },
       {
         "catalyst": "EPS beat $4.36 vs $3.65",
-        "change": "+6.71%",
+        "change": "+5.36%",
         "name": "Elbit Systems",
-        "price": 726.39,
+        "price": 717.21,
         "symbol": "ESLT"
-      },
-      {
-        "catalyst": "EPS beat + $400M buyback add",
-        "change": "+4.98%",
-        "name": "Griffon",
-        "price": 104.94,
-        "symbol": "GFF"
       },
       {
         "catalyst": "UBS upgrade to Neutral",
@@ -124,10 +121,17 @@
         "symbol": "VIV"
       },
       {
+        "catalyst": "EPS beat + $400M buyback add",
+        "change": "+2.91%",
+        "name": "Griffon",
+        "price": 102.87,
+        "symbol": "GFF"
+      },
+      {
         "catalyst": "EPS beat $1.89 vs $1.77",
-        "change": "+2.77%",
+        "change": "+2.09%",
         "name": "Franco-Nevada",
-        "price": 246.85,
+        "price": 245.21,
         "symbol": "FNV"
       }
     ]
@@ -148,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 114,
+  "version": 115,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
