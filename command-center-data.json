@@ -1,19 +1,19 @@
 {
   "assistant": {
-    "note": "Avenier confirmed receipt, editing started; Janice = hire if she passes",
-    "status": "Editor test: 3 editing (Janice, Aezikiel, Avenier)",
+    "note": "Round 1 (Janice, Aezikiel, Avenier): no delivery — time's up Nov 18, no $25 owed",
+    "status": "Editor test: Enrique & Carlo invited (round 2)",
     "tasks": [
-      "1. Ayesha test sent to all 3 Nov 16",
-      "2. Due Wed Nov 18 ~12:20 AM PT",
-      "3. $25 each on delivery"
+      "1. Enrique & Carlo invited Nov 18",
+      "2. Recording sent only on I'M IN reply",
+      "3. 48h deadline from send; $25 on delivery"
     ]
   },
   "calendar": {
-    "date": "Tue Nov 17, 2026",
+    "date": "Wed Nov 18, 2026",
     "items": [],
     "tomorrow": ""
   },
-  "dataDate": "2026-11-17",
+  "dataDate": "2026-11-18",
   "facebook": {
     "engagement": 170,
     "followers": 86,
@@ -24,7 +24,7 @@
     "period": "Oct 20 - Nov 16, 2026",
     "reelsShare": "99.9%",
     "threeSecondViews": 7600,
-    "views28d": 30169
+    "views28d": 30998
   },
   "gmail": {
     "items": [
@@ -33,19 +33,11 @@
         "subject": "My late \"Welcome to OnlineJobs.ph\""
       },
       {
-        "from": "Publer",
-        "subject": "Analytics PDF reports for Nov 9, 2026 - Nov 15, 2026"
-      },
-      {
-        "from": "Google",
-        "subject": "Welcome to Google on your Mac OS"
-      },
-      {
         "from": "Expedia.com",
         "subject": "James, your $10 OneKeyCash welcome gift 🎁"
       }
     ],
-    "unreadCount": 6
+    "unreadCount": 2
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -83,56 +75,56 @@
   },
   "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Tue Nov 17 close",
+    "asOf": "Wed Nov 18 close",
     "items": [
       {
-        "catalyst": "Phase 3 win: death risk -41%",
-        "change": "+156.36%",
-        "name": "SELLAS Life Sciences",
-        "price": 19.15,
-        "symbol": "SLS"
+        "catalyst": "Pre-earnings run + cyber demand",
+        "change": "+9.90%",
+        "name": "Palo Alto Networks",
+        "price": 339.92,
+        "symbol": "PANW"
       },
       {
-        "catalyst": "EPS beat $0.13 vs $0.08",
-        "change": "+16.48%",
-        "name": "OneWater Marine",
-        "price": 10.6,
-        "symbol": "ONEW"
+        "catalyst": "Azure Cosmos DB protection launch",
+        "change": "+9.26%",
+        "name": "Rubrik",
+        "price": 110.0,
+        "symbol": "RBRK"
       },
       {
-        "catalyst": "EPS beat + record $28B backlog",
-        "change": "+11.08%",
-        "name": "AECOM",
-        "price": 80.53,
-        "symbol": "ACM"
+        "catalyst": "Edge security expansion w/ Microsoft",
+        "change": "+8.34%",
+        "name": "Akamai Technologies",
+        "price": 91.7,
+        "symbol": "AKAM"
       },
       {
-        "catalyst": "Phase 3 TRANSCEND data positive",
-        "change": "+8.49%",
-        "name": "Rhythm Pharmaceuticals",
-        "price": 116.61,
-        "symbol": "RYTM"
+        "catalyst": "EPS beat $1.34 + raised guidance",
+        "change": "+8.05%",
+        "name": "TJX Companies",
+        "price": 140.3,
+        "symbol": "TJX"
       },
       {
-        "catalyst": "Analyst buy initiation",
-        "change": "+6.63%",
-        "name": "Twist Bioscience",
-        "price": 112.0,
-        "symbol": "TWST"
+        "catalyst": "Nvidia beat read-through + upgrades",
+        "change": "+7.95%",
+        "name": "CrowdStrike",
+        "price": 237.03,
+        "symbol": "CRWD"
       },
       {
-        "catalyst": "EPS beat $4.36 vs $3.65",
-        "change": "+5.85%",
-        "name": "Elbit Systems",
-        "price": 720.53,
-        "symbol": "ESLT"
+        "catalyst": "GTA VI rave reviews (10/10s)",
+        "change": "+6.22%",
+        "name": "Take-Two Interactive",
+        "price": 216.61,
+        "symbol": "TTWO"
       },
       {
-        "catalyst": "EPS beat + $400M buyback add",
-        "change": "+4.79%",
-        "name": "Griffon",
-        "price": 104.75,
-        "symbol": "GFF"
+        "catalyst": "Q3 EPS beat $2.65 vs $2.07",
+        "change": "+4.01%",
+        "name": "Target",
+        "price": 165.93,
+        "symbol": "TGT"
       }
     ]
   },
@@ -152,7 +144,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 120,
+  "version": 121,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
