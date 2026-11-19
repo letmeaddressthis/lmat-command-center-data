@@ -1,19 +1,19 @@
 {
   "assistant": {
     "note": "Round 1 (Janice, Aezikiel, Avenier): no delivery — time's up Nov 18, no $25 owed",
-    "status": "Editor test: Jaline in progress; Enrique & Carlo invited",
+    "status": "Editor test: Jaline & Carlo in progress; Enrique replied I'M IN",
     "tasks": [
       "1. Jaline test due Nov 20, 4:26 PM PT",
-      "2. Enrique & Carlo: recording sent only on I'M IN reply",
-      "3. 48h deadline from send; $25 on delivery"
+      "2. Carlo test due Nov 20, 9:15 PM PT",
+      "3. Enrique: send Step 2 test — 48h from send; $25 on delivery"
     ]
   },
   "calendar": {
-    "date": "Wed Nov 18, 2026",
+    "date": "Thu Nov 19, 2026",
     "items": [],
     "tomorrow": ""
   },
-  "dataDate": "2026-11-18",
+  "dataDate": "2026-11-19",
   "facebook": {
     "engagement": 170,
     "followers": 86,
@@ -21,13 +21,17 @@
     "nonFollowersShare": "99.5%",
     "oneMinuteViews": 12,
     "page": "Let Me Address This TV",
-    "period": "Oct 20 - Nov 16, 2026",
+    "period": "Oct 22 - Nov 18, 2026",
     "reelsShare": "99.9%",
     "threeSecondViews": 7600,
-    "views28d": 30998
+    "views28d": 31628
   },
   "gmail": {
     "items": [
+      {
+        "from": "OnlineJobs.ph",
+        "subject": "Junior YouTube Video Editor & Content Assistant"
+      },
       {
         "from": "John Jonas",
         "subject": "What should you hand off first?"
@@ -38,10 +42,10 @@
       },
       {
         "from": "Even Realities",
-        "subject": "Even AI 2.0: Smarter, More in Tune with You"
+        "subject": "Get Even G2, Save $120 — Your Black Friday Deal Is Here"
       }
     ],
-    "unreadCount": 4
+    "unreadCount": 7
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -79,56 +83,56 @@
   },
   "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Wed Nov 18 close",
+    "asOf": "Thu Nov 19 intraday",
     "items": [
       {
-        "catalyst": "Q4 sales beat + FY27 outlook",
-        "change": "+24.07%",
-        "name": "BellRing Brands",
-        "price": 13.66,
-        "symbol": "BRBR"
+        "catalyst": "PANW beat cyber sympathy",
+        "change": "+7.66%",
+        "name": "Netskope",
+        "price": 25.31,
+        "symbol": "NTSK"
       },
       {
-        "catalyst": "Cognizant mROC alliance",
-        "change": "+12.92%",
-        "name": "Qualys",
-        "price": 197.24,
-        "symbol": "QLYS"
+        "catalyst": "PANW beat cyber sympathy",
+        "change": "+6.48%",
+        "name": "Okta",
+        "price": 208.29,
+        "symbol": "OKTA"
       },
       {
-        "catalyst": "Comcast delivery partnership",
-        "change": "+12.58%",
-        "name": "Fastly",
-        "price": 17.9,
-        "symbol": "FSLY"
-      },
-      {
-        "catalyst": "1Kosmos alliance partnership",
-        "change": "+10.26%",
-        "name": "SailPoint",
-        "price": 22.25,
-        "symbol": "SAIL"
-      },
-      {
-        "catalyst": "Pre-earnings run + cyber demand",
-        "change": "+9.90%",
+        "catalyst": "EPS beat + raised outlook",
+        "change": "+5.90%",
         "name": "Palo Alto Networks",
-        "price": 339.92,
+        "price": 359.98,
         "symbol": "PANW"
       },
       {
-        "catalyst": "PWRmicro won Best in Show award",
-        "change": "+9.87%",
-        "name": "Generac Holdings",
-        "price": 205.45,
-        "symbol": "GNRC"
+        "catalyst": "PANW beat cyber sympathy",
+        "change": "+5.49%",
+        "name": "Zscaler",
+        "price": 208.69,
+        "symbol": "ZS"
       },
       {
-        "catalyst": "Azure Cosmos DB protection launch",
-        "change": "+9.26%",
-        "name": "Rubrik",
-        "price": 110.0,
-        "symbol": "RBRK"
+        "catalyst": "PANW beat cyber sympathy",
+        "change": "+4.46%",
+        "name": "SentinelOne",
+        "price": 24.38,
+        "symbol": "S"
+      },
+      {
+        "catalyst": "PANW beat cyber sympathy",
+        "change": "+3.85%",
+        "name": "CrowdStrike",
+        "price": 246.15,
+        "symbol": "CRWD"
+      },
+      {
+        "catalyst": "B. Riley upgrade to Buy",
+        "change": "+2.86%",
+        "name": "AST SpaceMobile",
+        "price": 26.22,
+        "symbol": "ASTS"
       }
     ]
   },
@@ -148,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 125,
+  "version": 126,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
@@ -156,9 +160,9 @@
     "hoursGap": 3540.5,
     "started": "Oct 23, 2026",
     "subsGained365d": 60,
-    "subsGap": 932,
+    "subsGap": 929,
     "subscriberGoal": 1000,
-    "subscribers": 68,
+    "subscribers": 71,
     "top48h": [
       {
         "title": "She Spoils Her Man...",
