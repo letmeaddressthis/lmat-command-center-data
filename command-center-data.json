@@ -29,6 +29,10 @@
   "gmail": {
     "items": [
       {
+        "from": "OnlineJobs.ph",
+        "subject": "SHOWTIME LMAT"
+      },
+      {
         "from": "John Jonas",
         "subject": "What should you hand off first?"
       },
@@ -37,11 +41,11 @@
         "subject": "My late \"Welcome to OnlineJobs.ph\""
       },
       {
-        "from": "Expedia.com",
-        "subject": "James, your $10 OneKeyCash welcome gift 🎁"
+        "from": "Even Realities",
+        "subject": "Even AI 2.0: Smarter, More in Tune with You"
       }
     ],
-    "unreadCount": 3
+    "unreadCount": 6
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -82,6 +86,27 @@
     "asOf": "Wed Nov 18 close",
     "items": [
       {
+        "catalyst": "Q4 sales beat + FY27 outlook",
+        "change": "+24.07%",
+        "name": "BellRing Brands",
+        "price": 13.66,
+        "symbol": "BRBR"
+      },
+      {
+        "catalyst": "Cognizant mROC alliance",
+        "change": "+12.92%",
+        "name": "Qualys",
+        "price": 197.24,
+        "symbol": "QLYS"
+      },
+      {
+        "catalyst": "Comcast delivery partnership",
+        "change": "+12.58%",
+        "name": "Fastly",
+        "price": 17.9,
+        "symbol": "FSLY"
+      },
+      {
         "catalyst": "1Kosmos alliance partnership",
         "change": "+10.26%",
         "name": "SailPoint",
@@ -108,27 +133,6 @@
         "name": "Rubrik",
         "price": 110.0,
         "symbol": "RBRK"
-      },
-      {
-        "catalyst": "Edge security expansion w/ Microsoft",
-        "change": "+8.34%",
-        "name": "Akamai Technologies",
-        "price": 91.7,
-        "symbol": "AKAM"
-      },
-      {
-        "catalyst": "EPS beat $1.34 + raised guidance",
-        "change": "+8.05%",
-        "name": "TJX Companies",
-        "price": 140.3,
-        "symbol": "TJX"
-      },
-      {
-        "catalyst": "Nvidia beat read-through + upgrades",
-        "change": "+7.95%",
-        "name": "CrowdStrike",
-        "price": 237.03,
-        "symbol": "CRWD"
       }
     ]
   },
@@ -148,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 123,
+  "version": 124,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
