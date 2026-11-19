@@ -30,6 +30,10 @@
     "items": [
       {
         "from": "OnlineJobs.ph",
+        "subject": "SHOWTIME LMAT"
+      },
+      {
+        "from": "John Jonas",
         "subject": "My late \"Welcome to OnlineJobs.ph\""
       },
       {
@@ -37,7 +41,7 @@
         "subject": "James, your $10 OneKeyCash welcome gift 🎁"
       }
     ],
-    "unreadCount": 2
+    "unreadCount": 3
   },
   "ideas": {
     "asOf": "Nov 7, 2026",
@@ -78,11 +82,25 @@
     "asOf": "Wed Nov 18 close",
     "items": [
       {
+        "catalyst": "1Kosmos alliance partnership",
+        "change": "+10.26%",
+        "name": "SailPoint",
+        "price": 22.25,
+        "symbol": "SAIL"
+      },
+      {
         "catalyst": "Pre-earnings run + cyber demand",
         "change": "+9.90%",
         "name": "Palo Alto Networks",
         "price": 339.92,
         "symbol": "PANW"
+      },
+      {
+        "catalyst": "PWRmicro won Best in Show award",
+        "change": "+9.87%",
+        "name": "Generac Holdings",
+        "price": 205.45,
+        "symbol": "GNRC"
       },
       {
         "catalyst": "Azure Cosmos DB protection launch",
@@ -111,20 +129,6 @@
         "name": "CrowdStrike",
         "price": 237.03,
         "symbol": "CRWD"
-      },
-      {
-        "catalyst": "GTA VI rave reviews (10/10s)",
-        "change": "+6.22%",
-        "name": "Take-Two Interactive",
-        "price": 216.61,
-        "symbol": "TTWO"
-      },
-      {
-        "catalyst": "Q3 EPS beat $2.65 vs $2.07",
-        "change": "+4.01%",
-        "name": "Target",
-        "price": 165.93,
-        "symbol": "TGT"
       }
     ]
   },
@@ -144,7 +148,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 121,
+  "version": 122,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
