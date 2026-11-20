@@ -93,6 +93,20 @@
         "symbol": "INSM"
       },
       {
+        "catalyst": "BCE/Quebecor deal talks + upgrade",
+        "change": "+13.35%",
+        "name": "Telus",
+        "price": 10.78,
+        "symbol": "TU"
+      },
+      {
+        "catalyst": "Q3 EPS beat",
+        "change": "+11.04%",
+        "name": "PDD Holdings",
+        "price": 86.0,
+        "symbol": "PDD"
+      },
+      {
         "catalyst": "Q4 sales beat + guidance",
         "change": "+10.61%",
         "name": "BellRing Brands",
@@ -100,39 +114,25 @@
         "symbol": "BRBR"
       },
       {
-        "catalyst": "EPS beat + $4.5B deal",
-        "change": "+6.42%",
-        "name": "Palo Alto Networks",
-        "price": 361.73,
-        "symbol": "PANW"
+        "catalyst": "Q4 earnings + $500M buyback",
+        "change": "+10.40%",
+        "name": "Valvoline",
+        "price": 36.84,
+        "symbol": "VVV"
       },
       {
-        "catalyst": "PANW beat cyber sympathy",
-        "change": "+5.75%",
-        "name": "Okta",
-        "price": 206.85,
-        "symbol": "OKTA"
+        "catalyst": "Q3 earnings, net income +49%",
+        "change": "+8.11%",
+        "name": "Full Truck Alliance",
+        "price": 9.06,
+        "symbol": "YMM"
       },
       {
-        "catalyst": "PANW beat cyber sympathy",
-        "change": "+5.51%",
-        "name": "Netskope",
-        "price": 24.8,
-        "symbol": "NTSK"
-      },
-      {
-        "catalyst": "Earnings beat",
-        "change": "+5.22%",
-        "name": "Woodward",
-        "price": 335.72,
-        "symbol": "WWD"
-      },
-      {
-        "catalyst": "FDA approval demand",
-        "change": "+4.94%",
-        "name": "Scholar Rock",
-        "price": 50.37,
-        "symbol": "SRRK"
+        "catalyst": "NXP takeover report",
+        "change": "+7.85%",
+        "name": "Ambarella",
+        "price": 58.93,
+        "symbol": "AMBA"
       }
     ]
   },
@@ -152,7 +152,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 129,
+  "version": 130,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
