@@ -28,11 +28,11 @@
     "items": [
       {
         "from": "John Jonas",
-        "subject": "Want better applicants? Start with a better job post."
+        "subject": "Why employers pay before contacting candidates"
       },
       {
-        "from": "OnlineJobs.ph",
-        "subject": "Junior YouTube Video Editor & Content Assistant"
+        "from": "John Jonas",
+        "subject": "Want better applicants? Start with a better job post."
       },
       {
         "from": "Even Realities",
@@ -150,7 +150,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 142,
+  "version": 143,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
@@ -158,9 +158,9 @@
     "hoursGap": 3540.5,
     "started": "Oct 23, 2026",
     "subsGained365d": 60,
-    "subsGap": 928,
+    "subsGap": 927,
     "subscriberGoal": 1000,
-    "subscribers": 72,
+    "subscribers": 73,
     "top48h": [
       {
         "title": "She Spoils Her Man...",
