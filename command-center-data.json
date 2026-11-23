@@ -1,9 +1,9 @@
 {
   "assistant": {
-    "note": "Jaline scored 14/30 \u2014 fix round due Nov 23; $25 owed on her delivery",
-    "status": "Editor: Jaline fix round \u2014 Carlo & Enrique closed",
+    "note": "$250/mo offer sent; $25 payout Tue Nov 24 via Western Union - awaiting receiver details",
+    "status": "Editor: Jaline Ramos",
     "tasks": [
-      "1. Jaline fix round due Nov 23, 9:00 AM PT"
+      "1. $25 payout Tue Nov 24 via Western Union - awaiting her details"
     ]
   },
   "calendar": {
@@ -84,17 +84,31 @@
     "asOf": "Mon Nov 23 intraday",
     "items": [
       {
+        "catalyst": "Verlinvest buys China Resources stake",
+        "change": "+103.00%",
+        "name": "Oatly Group",
+        "price": 13.99,
+        "symbol": "OTLY"
+      },
+      {
+        "catalyst": "Q3 EPS beat",
+        "change": "+70.00%",
+        "name": "Brand Engagement Network",
+        "price": 5.78,
+        "symbol": "BNAI"
+      },
+      {
         "catalyst": "Eczema pill trial met goals",
-        "change": "+33.00%",
+        "change": "+34.00%",
         "name": "Kymera Therapeutics",
-        "price": 153.82,
+        "price": 154.11,
         "symbol": "KYMR"
       },
       {
         "catalyst": "CEO Jensen Huang reinstated",
-        "change": "+31.00%",
+        "change": "+32.00%",
         "name": "NVIDIA",
-        "price": 164.46,
+        "price": 165.21,
         "symbol": "NVDA"
       },
       {
@@ -117,20 +131,6 @@
         "name": "Dell Technologies",
         "price": 340.71,
         "symbol": "DELL"
-      },
-      {
-        "catalyst": "5 GW expansion upside",
-        "change": "+19.98%",
-        "name": "Bloom Energy",
-        "price": 170.91,
-        "symbol": "BE"
-      },
-      {
-        "catalyst": "Citi bullish on memory",
-        "change": "+19.40%",
-        "name": "Micron Technology",
-        "price": 709.87,
-        "symbol": "MU"
       }
     ]
   },
@@ -150,7 +150,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 152,
+  "version": 153,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
