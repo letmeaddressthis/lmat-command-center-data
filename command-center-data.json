@@ -79,58 +79,58 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Mon Nov 23 intraday",
+    "asOf": "Mon Nov 23 close",
     "items": [
       {
-        "catalyst": "Verlinvest buys China Resources stake",
-        "change": "+103.00%",
-        "name": "Oatly Group",
-        "price": 13.99,
-        "symbol": "OTLY"
-      },
-      {
         "catalyst": "Q3 EPS beat",
-        "change": "+70.00%",
+        "change": "+117.86%",
         "name": "Brand Engagement Network",
-        "price": 5.78,
+        "price": 7.32,
         "symbol": "BNAI"
       },
       {
-        "catalyst": "Eczema pill trial met goals",
-        "change": "+34.00%",
-        "name": "Kymera Therapeutics",
-        "price": 154.11,
-        "symbol": "KYMR"
+        "catalyst": "Verlinvest buys China Resources stake",
+        "change": "+109.08%",
+        "name": "Oatly Group",
+        "price": 14.5,
+        "symbol": "OTLY"
       },
       {
         "catalyst": "CEO Jensen Huang reinstated",
-        "change": "+32.00%",
+        "change": "+31.48%",
         "name": "NVIDIA",
-        "price": 165.21,
+        "price": 165.05,
         "symbol": "NVDA"
       },
       {
-        "catalyst": "$5.4B hyperscaler lease deal",
-        "change": "+23.76%",
-        "name": "Applied Digital",
-        "price": 14.22,
-        "symbol": "APLD"
+        "catalyst": "Eczema pill trial met goals",
+        "change": "+30.41%",
+        "name": "Kymera Therapeutics",
+        "price": 150.37,
+        "symbol": "KYMR"
       },
       {
         "catalyst": "AI data-center rebound",
-        "change": "+23.21%",
+        "change": "+22.32%",
         "name": "CoreWeave",
-        "price": 48.68,
+        "price": 48.33,
         "symbol": "CRWV"
       },
       {
         "catalyst": "AI server demand pre-earnings",
-        "change": "+22.55%",
+        "change": "+20.46%",
         "name": "Dell Technologies",
-        "price": 340.71,
+        "price": 334.91,
         "symbol": "DELL"
+      },
+      {
+        "catalyst": "$5.4B hyperscaler lease deal",
+        "change": "+20.28%",
+        "name": "Applied Digital",
+        "price": 13.82,
+        "symbol": "APLD"
       }
     ]
   },
@@ -150,7 +150,7 @@
     "2. No events scheduled today"
   ],
   "updatedBy": "Brain",
-  "version": 153,
+  "version": 154,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
