@@ -88,58 +88,58 @@
       }
     ]
   },
-  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Tue Nov 24 intraday",
+    "asOf": "Tue Nov 24 close",
     "items": [
       {
         "catalyst": "Q4 EPS beat $0.72 vs $0.28",
-        "change": "+41.51%",
+        "change": "+40.64%",
         "name": "Embecta",
-        "price": 8.13,
+        "price": 8.08,
         "symbol": "EMBC"
       },
       {
+        "catalyst": "EPS beat + $500M buyback",
+        "change": "+20.10%",
+        "name": "Amentum",
+        "price": 24.8,
+        "symbol": "AMTM"
+      },
+      {
         "catalyst": "Q3 EPS beat + raised guidance",
-        "change": "+25.06%",
+        "change": "+19.69%",
         "name": "Abercrombie & Fitch",
-        "price": 175.64,
+        "price": 168.1,
         "symbol": "ANF"
       },
       {
         "catalyst": "Raised FY26 sales guidance",
-        "change": "+18.02%",
+        "change": "+19.48%",
         "name": "Kohl's",
-        "price": 25.02,
+        "price": 25.33,
         "symbol": "KSS"
       },
       {
         "catalyst": "FDA approval",
-        "change": "+17.93%",
+        "change": "+17.43%",
         "name": "Cogent Biosciences",
-        "price": 33.15,
+        "price": 33.01,
         "symbol": "COGT"
       },
       {
         "catalyst": "Q3 EPS beat + raised guidance",
-        "change": "+14.36%",
+        "change": "+14.59%",
         "name": "Dick's Sporting Goods",
-        "price": 152.87,
+        "price": 153.17,
         "symbol": "DKS"
       },
       {
         "catalyst": "Sanofi $41B buyout at $175/sh",
-        "change": "+14.35%",
+        "change": "+14.13%",
         "name": "Insmed",
-        "price": 170.49,
+        "price": 170.15,
         "symbol": "INSM"
-      },
-      {
-        "catalyst": "EPS beat + raised guidance",
-        "change": "+9.40%",
-        "name": "Dollar Tree",
-        "price": 152.18,
-        "symbol": "DLTR"
       }
     ]
   },
@@ -159,7 +159,7 @@
     "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
   ],
   "updatedBy": "Brain",
-  "version": 160,
+  "version": 161,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
