@@ -1,17 +1,26 @@
 {
   "assistant": {
-    "note": "$250/mo offer sent; $25 payout Tue Nov 24 via Western Union - awaiting receiver details",
+    "note": "$250/mo hire confirmed; Jaline sent Western Union receiver details Nov 23 - $25 test payout ready for King to send Tue Nov 24",
     "status": "Editor: Jaline Ramos",
     "tasks": [
-      "1. $25 payout Tue Nov 24 via Western Union - awaiting her details"
+      "1. King to send $25 payout Tue Nov 24 via Western Union - receiver details received"
     ]
   },
   "calendar": {
-    "date": "Mon Nov 23, 2026",
-    "items": [],
+    "date": "Tue Nov 24, 2026",
+    "items": [
+      {
+        "time": "10:00 AM",
+        "title": "LMAT Shoot: Video 1 + Video 2 (office)"
+      },
+      {
+        "time": "7:00 PM",
+        "title": "LMAT Home: Descript edit + YouTube upload"
+      }
+    ],
     "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
   },
-  "dataDate": "2026-11-23",
+  "dataDate": "2026-11-24",
   "facebook": {
     "engagement": 170,
     "followers": 92,
@@ -22,7 +31,7 @@
     "period": "Oct 22 - Nov 18, 2026",
     "reelsShare": "99.9%",
     "threeSecondViews": 7600,
-    "views28d": 33239
+    "views28d": 33248
   },
   "gmail": {
     "items": [
@@ -36,11 +45,11 @@
       },
       {
         "from": "vidIQ",
-        "subject": "You reached 60,000 views"
+        "subject": "100 TV plays can count as 140 views"
       },
       {
-        "from": "Publer",
-        "subject": "Your post didn't get published"
+        "from": "vidIQ",
+        "subject": "You reached 60,000 views"
       }
     ],
     "unreadCount": 201
@@ -81,56 +90,56 @@
   },
   "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
   "stocks": {
-    "asOf": "Mon Nov 23 close",
+    "asOf": "Tue Nov 24 intraday",
     "items": [
       {
-        "catalyst": "Q3 EPS beat",
-        "change": "+117.86%",
-        "name": "Brand Engagement Network",
-        "price": 7.32,
-        "symbol": "BNAI"
+        "catalyst": "Q4 EPS beat $0.72 vs $0.28",
+        "change": "+41.51%",
+        "name": "Embecta",
+        "price": 8.13,
+        "symbol": "EMBC"
       },
       {
-        "catalyst": "Verlinvest buys China Resources stake",
-        "change": "+109.08%",
-        "name": "Oatly Group",
-        "price": 14.5,
-        "symbol": "OTLY"
+        "catalyst": "Q3 EPS beat + raised guidance",
+        "change": "+25.06%",
+        "name": "Abercrombie & Fitch",
+        "price": 175.64,
+        "symbol": "ANF"
       },
       {
-        "catalyst": "CEO Jensen Huang reinstated",
-        "change": "+31.48%",
-        "name": "NVIDIA",
-        "price": 165.05,
-        "symbol": "NVDA"
+        "catalyst": "Raised FY26 sales guidance",
+        "change": "+18.02%",
+        "name": "Kohl's",
+        "price": 25.02,
+        "symbol": "KSS"
       },
       {
-        "catalyst": "Eczema pill trial met goals",
-        "change": "+30.41%",
-        "name": "Kymera Therapeutics",
-        "price": 150.37,
-        "symbol": "KYMR"
+        "catalyst": "FDA approval",
+        "change": "+17.93%",
+        "name": "Cogent Biosciences",
+        "price": 33.15,
+        "symbol": "COGT"
       },
       {
-        "catalyst": "AI data-center rebound",
-        "change": "+22.32%",
-        "name": "CoreWeave",
-        "price": 48.33,
-        "symbol": "CRWV"
+        "catalyst": "Q3 EPS beat + raised guidance",
+        "change": "+14.36%",
+        "name": "Dick's Sporting Goods",
+        "price": 152.87,
+        "symbol": "DKS"
       },
       {
-        "catalyst": "AI server demand pre-earnings",
-        "change": "+20.46%",
-        "name": "Dell Technologies",
-        "price": 334.91,
-        "symbol": "DELL"
+        "catalyst": "Sanofi $41B buyout at $175/sh",
+        "change": "+14.35%",
+        "name": "Insmed",
+        "price": 170.49,
+        "symbol": "INSM"
       },
       {
-        "catalyst": "$5.4B hyperscaler lease deal",
-        "change": "+20.28%",
-        "name": "Applied Digital",
-        "price": 13.82,
-        "symbol": "APLD"
+        "catalyst": "EPS beat + raised guidance",
+        "change": "+9.40%",
+        "name": "Dollar Tree",
+        "price": 152.18,
+        "symbol": "DLTR"
       }
     ]
   },
@@ -146,11 +155,11 @@
     "videoViews60d": "27K"
   },
   "today": [
-    "1. Home in Las Vegas",
-    "2. No events scheduled today"
+    "1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM",
+    "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
   ],
   "updatedBy": "Brain",
-  "version": 159,
+  "version": 160,
   "youtube": {
     "channel": "Let Me Address This TV",
     "deadline": "Feb 1, 2027",
