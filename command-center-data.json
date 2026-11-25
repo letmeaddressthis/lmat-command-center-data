@@ -1,1 +1,192 @@
-{"assistant":{"note":"$250/mo hire confirmed; Jaline sent Western Union receiver details Nov 23 - $25 test payout ready for King to send Tue Nov 24","status":"Editor: Jaline Ramos","tasks":["1. King to send $25 payout Tue Nov 24 via Western Union - receiver details received"]},"calendar":{"date":"Tue Nov 24, 2026","items":[{"time":"10:00 AM","title":"LMAT Shoot: Video 1 + Video 2 (office)"},{"time":"7:00 PM","title":"LMAT Home: Descript edit + YouTube upload"}],"tomorrow":"LMAT Shoot: Video 1 + Video 2 (office)"},"dataDate":"2026-11-24","facebook":{"engagement":170,"followers":93,"follows28d":77,"nonFollowersShare":"99.5%","oneMinuteViews":12,"page":"Let Me Address This TV","period":"Oct 22 - Nov 18, 2026","reelsShare":"99.9%","threeSecondViews":7600,"views28d":33250},"gmail":{"items":[{"from":"OnlineJobs.ph","subject":"7 interview questions that quickly separate strong candidates"},{"from":"OnlineJobs.ph","subject":"SHOWTIME LMAT"},{"from":"OnlineJobs.ph","subject":"AI Matching helps you get to the right people faster"},{"from":"Publer","subject":"Your post didn't get published"}],"unreadCount":201},"ideas":{"asOf":"Nov 7, 2026","items":[{"source":"Latino Slant","title":"Ramayana EPIC REACTION!","views":"308K"},{"source":"K&J React","title":"XG DEPENDS MV Reaction","views":"31K"},{"source":"Neel Desai","title":"GATE Ep 15-16 REACTION!","views":"18K"}],"keywords":[{"growth":"+39%","keyword":"how to make reaction videos","short":"make reaction videos","volume":"27K/mo"},{"growth":"","keyword":"how to record reaction videos","short":"record reaction vids","volume":"3.8K/mo"}]},"note":"LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.","stocks":{"asOf":"Tue Nov 24 close","items":[{"catalyst":"Q4 EPS beat $0.72 vs $0.28","change":"+40.64%","name":"Embecta","price":8.08,"symbol":"EMBC"},{"catalyst":"EPS beat + $500M buyback","change":"+20.10%","name":"Amentum","price":24.8,"symbol":"AMTM"},{"catalyst":"Q3 EPS beat + raised guidance","change":"+19.69%","name":"Abercrombie & Fitch","price":168.1,"symbol":"ANF"},{"catalyst":"Raised FY26 sales guidance","change":"+19.48%","name":"Kohl's","price":25.33,"symbol":"KSS"},{"catalyst":"FDA approval","change":"+17.43%","name":"Cogent Biosciences","price":33.01,"symbol":"COGT"},{"catalyst":"Q3 EPS beat + raised guidance","change":"+14.59%","name":"Dick's Sporting Goods","price":153.17,"symbol":"DKS"},{"catalyst":"Sanofi $41B buyout at $175/sh","change":"+14.13%","name":"Insmed","price":170.15,"symbol":"INSM"}]},"tiktok":{"comments":115,"followers":20,"forYouShare":"97.8%","handle":"@showtimelv26","likes":664,"profileViews":134,"rewards":"$0.00","shares":17,"videoViews60d":"27K"},"today":["1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM","2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"],"updatedBy":"Brain","version":163,"youtube":{"channel":"Let Me Address This TV","deadline":"Feb 1, 2027","handle":"@letmeaddressthis","hoursGap":3540.5,"started":"Oct 23, 2026","subsGained365d":60,"subsGap":925,"subscriberGoal":1000,"subscribers":75,"top48h":[{"title":"She Spoils Her Man...","views":244},{"title":"Eboni K. Williams Says...","views":135},{"title":"Woman Gets HUMBLED...","views":120}],"views365d":42203,"viewsLast48h":1168,"watchHours":459.5,"watchHoursGoal":4000}}
+{
+  "assistant": {
+    "note": "$250/mo hire confirmed; Jaline sent Western Union receiver details Nov 23 - $25 test payout ready for King to send Tue Nov 24",
+    "status": "Editor: Jaline Ramos",
+    "tasks": [
+      "1. King to send $25 payout Tue Nov 24 via Western Union - receiver details received"
+    ]
+  },
+  "calendar": {
+    "date": "Tue Nov 24, 2026",
+    "items": [
+      {
+        "time": "10:00 AM",
+        "title": "LMAT Shoot: Video 1 + Video 2 (office)"
+      },
+      {
+        "time": "7:00 PM",
+        "title": "LMAT Home: Descript edit + YouTube upload"
+      }
+    ],
+    "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
+  },
+  "dataDate": "2026-11-24",
+  "facebook": {
+    "engagement": 170,
+    "followers": 93,
+    "follows28d": 77,
+    "nonFollowersShare": "99.5%",
+    "oneMinuteViews": 12,
+    "page": "Let Me Address This TV",
+    "period": "Oct 22 - Nov 18, 2026",
+    "reelsShare": "99.9%",
+    "threeSecondViews": 7600,
+    "views28d": 33250
+  },
+  "gmail": {
+    "items": [
+      {
+        "from": "OnlineJobs.ph",
+        "subject": "7 interview questions that quickly separate strong candidates"
+      },
+      {
+        "from": "OnlineJobs.ph",
+        "subject": "SHOWTIME LMAT"
+      },
+      {
+        "from": "OnlineJobs.ph",
+        "subject": "AI Matching helps you get to the right people faster"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "You reached 75 subscribers"
+      }
+    ],
+    "unreadCount": 201
+  },
+  "ideas": {
+    "asOf": "Nov 7, 2026",
+    "items": [
+      {
+        "source": "Latino Slant",
+        "title": "Ramayana EPIC REACTION!",
+        "views": "308K"
+      },
+      {
+        "source": "K&J React",
+        "title": "XG DEPENDS MV Reaction",
+        "views": "31K"
+      },
+      {
+        "source": "Neel Desai",
+        "title": "GATE Ep 15-16 REACTION!",
+        "views": "18K"
+      }
+    ],
+    "keywords": [
+      {
+        "growth": "+39%",
+        "keyword": "how to make reaction videos",
+        "short": "make reaction videos",
+        "volume": "27K/mo"
+      },
+      {
+        "growth": "",
+        "keyword": "how to record reaction videos",
+        "short": "record reaction vids",
+        "volume": "3.8K/mo"
+      }
+    ]
+  },
+  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+  "stocks": {
+    "asOf": "Tue Nov 24 close",
+    "items": [
+      {
+        "catalyst": "Q4 EPS beat $0.72 vs $0.28",
+        "change": "+40.64%",
+        "name": "Embecta",
+        "price": 8.08,
+        "symbol": "EMBC"
+      },
+      {
+        "catalyst": "EPS beat + $500M buyback",
+        "change": "+20.10%",
+        "name": "Amentum",
+        "price": 24.8,
+        "symbol": "AMTM"
+      },
+      {
+        "catalyst": "Q3 EPS beat + raised guidance",
+        "change": "+19.69%",
+        "name": "Abercrombie & Fitch",
+        "price": 168.1,
+        "symbol": "ANF"
+      },
+      {
+        "catalyst": "Raised FY26 sales guidance",
+        "change": "+19.48%",
+        "name": "Kohl's",
+        "price": 25.33,
+        "symbol": "KSS"
+      },
+      {
+        "catalyst": "FDA approval",
+        "change": "+17.43%",
+        "name": "Cogent Biosciences",
+        "price": 33.01,
+        "symbol": "COGT"
+      },
+      {
+        "catalyst": "Q3 EPS beat + raised guidance",
+        "change": "+14.59%",
+        "name": "Dick's Sporting Goods",
+        "price": 153.17,
+        "symbol": "DKS"
+      },
+      {
+        "catalyst": "Sanofi $41B buyout at $175/sh",
+        "change": "+14.13%",
+        "name": "Insmed",
+        "price": 170.15,
+        "symbol": "INSM"
+      }
+    ]
+  },
+  "tiktok": {
+    "comments": 115,
+    "followers": 20,
+    "forYouShare": "97.8%",
+    "handle": "@showtimelv26",
+    "likes": 664,
+    "profileViews": 134,
+    "rewards": "$0.00",
+    "shares": 17,
+    "videoViews60d": "27K"
+  },
+  "today": [
+    "1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM",
+    "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
+  ],
+  "updatedBy": "Brain",
+  "version": 164,
+  "youtube": {
+    "channel": "Let Me Address This TV",
+    "deadline": "Feb 1, 2027",
+    "handle": "@letmeaddressthis",
+    "hoursGap": 3540.5,
+    "started": "Oct 23, 2026",
+    "subsGained365d": 60,
+    "subsGap": 925,
+    "subscriberGoal": 1000,
+    "subscribers": 75,
+    "top48h": [
+      {
+        "title": "She Spoils Her Man...",
+        "views": 244
+      },
+      {
+        "title": "Eboni K. Williams Says...",
+        "views": 135
+      },
+      {
+        "title": "Woman Gets HUMBLED...",
+        "views": 120
+      }
+    ],
+    "views365d": 42203,
+    "viewsLast48h": 1168,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000
+  }
+}
