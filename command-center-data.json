@@ -88,12 +88,12 @@
             }
         ]
     },
-    "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+    "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
     "stocks": {
         "asOf": "Wed Nov 25 close",
         "items": [
             {
-                "catalyst": "Q3 EPS beat $0.35 vs $0.32",
+                "catalyst": "Q3 EPS beat + $500M buyback",
                 "change": "+12.56%",
                 "name": "Kanzhun",
                 "price": 14.34,
@@ -114,6 +114,13 @@
                 "symbol": "LI"
             },
             {
+                "catalyst": "Director $1M+ insider buy",
+                "change": "+10.25%",
+                "name": "AST SpaceMobile",
+                "price": 26.02,
+                "symbol": "ASTS"
+            },
+            {
                 "catalyst": "FDA approval for EKITNA",
                 "change": "+9.30%",
                 "name": "Cogent Biosciences",
@@ -121,25 +128,18 @@
                 "symbol": "COGT"
             },
             {
-                "catalyst": "Q3 EPS beat + raised guidance",
-                "change": "+5.41%",
-                "name": "Kohl's",
-                "price": 26.7,
-                "symbol": "KSS"
+                "catalyst": "Q3 EPS beat $1.17 vs $1.13",
+                "change": "+7.48%",
+                "name": "Semtech",
+                "price": 92.93,
+                "symbol": "SMTC"
             },
             {
-                "catalyst": "Q3 EPS beat + raised guidance",
-                "change": "+5.27%",
-                "name": "Abercrombie & Fitch",
-                "price": 176.96,
-                "symbol": "ANF"
-            },
-            {
-                "catalyst": "Q3 EPS beat + raised guidance",
-                "change": "+3.54%",
-                "name": "Dick's Sporting Goods",
-                "price": 158.59,
-                "symbol": "DKS"
+                "catalyst": "Police partnership + earnings momentum",
+                "change": "+7.43%",
+                "name": "Axon Enterprise",
+                "price": 343.05,
+                "symbol": "AXON"
             }
         ]
     },
@@ -159,7 +159,7 @@
         "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
     ],
     "updatedBy": "Brain",
-    "version": 168,
+    "version": 169,
     "youtube": {
         "channel": "Let Me Address This TV",
         "deadline": "Feb 1, 2027",
