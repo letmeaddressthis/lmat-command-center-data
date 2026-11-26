@@ -7,7 +7,7 @@
         ]
     },
     "calendar": {
-        "date": "Wed Nov 25, 2026",
+        "date": "Thu Nov 26, 2026",
         "items": [
             {
                 "time": "10:00 AM",
@@ -20,7 +20,7 @@
         ],
         "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
     },
-    "dataDate": "2026-11-25",
+    "dataDate": "2026-11-26",
     "facebook": {
         "engagement": 170,
         "followers": 93,
@@ -31,7 +31,7 @@
         "period": "Oct 22 - Nov 18, 2026",
         "reelsShare": "99.9%",
         "threeSecondViews": 7600,
-        "views28d": 32746
+        "views28d": 32967
     },
     "gmail": {
         "items": [
@@ -48,8 +48,8 @@
                 "subject": "Own Your Look This Season with Even G2 New Frame"
             },
             {
-                "from": "vidIQ",
-                "subject": "You reached 75 subscribers"
+                "from": "Publer",
+                "subject": "Your post didn't get published"
             }
         ],
         "unreadCount": 201
@@ -159,7 +159,7 @@
         "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
     ],
     "updatedBy": "Brain",
-    "version": 171,
+    "version": 172,
     "youtube": {
         "channel": "Let Me Address This TV",
         "deadline": "Feb 1, 2027",
