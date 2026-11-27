@@ -1,825 +1,842 @@
 {
-  "assistant": {
-    "note": "$25 test payout sent Nov 24 via Western Union; MTCN relayed to Jaline Nov 25 - King to contact her after Thanksgiving to start",
-    "status": "Editor: Jaline Ramos",
-    "tasks": [
-      "1. King to contact Jaline after Thanksgiving to start work"
-    ]
+ "assistant": {
+  "note": "$25 test payout sent Nov 24 via Western Union; MTCN relayed to Jaline Nov 25 - King to contact her after Thanksgiving to start",
+  "status": "Editor: Jaline Ramos",
+  "tasks": [
+   "1. King to contact Jaline after Thanksgiving to start work"
+  ]
+ },
+ "briefings": [
+  {
+   "video": "Jubilee - Blaire White",
+   "runtime": "70:00",
+   "debate": "Should trans women compete in women's sports? Medical transition for minors? Predatory behavior / locker rooms?",
+   "inside": [
+    "Built - film FIRST today (Video 1)",
+    "Claim 1: Trans women in women's sports",
+    "Claim 2: Medical transition for minors",
+    "Claim 4: Predatory behavior / locker rooms",
+    "Claims 3 + Guest Claim left out whole",
+    "Morgan & Morgan sponsor read removed"
+   ],
+   "poll": "Should trans women compete in women's sports?",
+   "traction": "1,985,129 views Nov 27 ~1 AM, ~+170K/day on day 5, 15,000 comments",
+   "source": {
+    "channel": "Jubilee",
+    "title": "1 Conservative Trans Woman vs 20 Trans Activists (ft. Blaire White) | Surrounded",
+    "url": "https://www.youtube.com/watch?v=fcVVJxv4M00"
+   }
   },
-  "briefings": [
-    {
-      "video": "Jubilee - Blaire White",
-      "runtime": "70:00",
-      "debate": "Should trans women compete in women's sports? Medical transition for minors? Predatory behavior / locker rooms?",
-      "inside": [
-        "Built - film FIRST today (Video 1)",
-        "Claim 1: Trans women in women's sports",
-        "Claim 2: Medical transition for minors",
-        "Claim 4: Predatory behavior / locker rooms",
-        "Claims 3 + Guest Claim left out whole",
-        "Morgan & Morgan sponsor read removed"
-      ],
-      "poll": "Should trans women compete in women's sports?",
-      "traction": "1,985,129 views Nov 27 ~1 AM, ~+170K/day on day 5, 15,000 comments",
-      "source": {
-        "channel": "Jubilee",
-        "title": "1 Conservative Trans Woman vs 20 Trans Activists (ft. Blaire White) | Surrounded",
-        "url": "https://www.youtube.com/watch?v=fcVVJxv4M00"
-      }
-    },
-    {
-      "video": "It's Complicated",
-      "runtime": "61:25",
-      "debate": "If she's drunk it's rape - if he's drunk, was he raped or did he cheat?",
-      "inside": [
-        "Built - film today (Video 2)",
-        "DRUNK SEX - viral exchange ~05:33",
-        "WHAT IS CONSENT?",
-        "BELIEVE ALL WOMEN",
-        "NOT ALL MEN",
-        "Cross-promo: Cornell 7"
-      ],
-      "poll": "If he's drunk, is it rape or cheating?",
-      "traction": "Drunk Sex clip ~5M views on X week of Nov 14; still reposting Nov 22-23",
-      "source": {
-        "channel": "It's Complicated",
-        "title": "Was He Raped or Did He Cheat? (4 original interviews)",
-        "url": "https://www.youtube.com/watch?v=6tPOpRwW-Po"
-      }
-    }
-  ],
-  "calendar": {
-    "date": "Fri Nov 27, 2026",
-    "items": [
-      {
-        "time": "10:00 AM",
-        "title": "LMAT Shoot: Video 1 + Video 2 (office)"
-      },
-      {
-        "time": "11:00 AM",
-        "title": "Profile share ⏳ pending"
-      },
-      {
-        "time": "7:00 PM",
-        "title": "LMAT Home: Descript edit + YouTube upload"
-      }
-    ],
-    "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
-  },
-  "checklist": [
-    "## KING",
-    "Film Jubilee - Blaire White",
-    "Film It's Complicated",
-    "Upload recordings to Descript",
-    "Edit + upload to YouTube",
-    "Approve thumbnails",
-    "## ASSISTANT",
-    "Start call Sun Nov 29, 5 PM",
-    "Phase 1: Descript edits",
-    "Daily tracker updates",
-    "## BRAIN",
-    "1 AM builds + prep packs",
-    "Packaging after upload",
-    "Publer + IG distribution",
-    "Glasses feed refresh",
-    "Check Jaline's finished work"
-  ],
-  "countdowns": [
-    {
-      "date": "2027-02-01",
-      "label": "Race Day - bar doubles"
-    },
-    {
-      "date": "2026-12-31",
-      "label": "Apply-early target"
-    },
-    {
-      "date": "2026-11-29",
-      "label": "Jaline start call"
-    },
-    {
-      "date": "2026-12-01",
-      "label": "Shorts pace-trial review"
-    },
-    {
-      "date": "2026-12-26",
-      "label": "OpusClip payment"
-    },
-    {
-      "date": "2027-11-07",
-      "label": "Publer renewal"
-    }
-  ],
-  "dataDate": "2026-11-27",
-  "digest": [
-    "Jubilee + It's Complicated builds ready today",
-    "Pearl vs Shannon published Nov 27 — full stack done",
-    "Keith Lee clips rolling on all 4 platforms",
-    "Instagram captions repaired on 24 Reels",
-    "Daily profile share is now automatic (11 AM)"
-  ],
-  "distribution": {
-    "facebook": 7,
-    "failed": 0,
-    "instagram": 3,
-    "pinsOwed": 34,
-    "tiktok": 7,
-    "youtube": 5
-  },
-  "facebook": {
-    "engagement": 170,
-    "followers": 93,
-    "follows28d": 70,
-    "nonFollowersShare": "99.5%",
-    "oneMinuteViews": 12,
-    "page": "Let Me Address This TV",
-    "period": "Oct 22 - Nov 18, 2026",
-    "reelsShare": "99.9%",
-    "threeSecondViews": 7600,
-    "views28d": 32645
-  },
-  "gmail": {
-    "items": [
-      {
-        "from": "OnlineJobs.ph",
-        "subject": "How to Revolutionize Hiring with Small Paid Tests"
-      },
-      {
-        "from": "Even Realities",
-        "subject": "Black Friday is Here — Our Biggest Sale of the Year"
-      },
-      {
-        "from": "vidIQ",
-        "subject": "How a $20 GTA 6 question got 196K views"
-      },
-      {
-        "from": "Publer",
-        "subject": "Your post didn't get published"
-      }
-    ],
-    "unreadCount": 201
-  },
-  "heatSeek": [
-    {
-      "age": "Nov 24-27",
-      "signal": "Thanksgiving call + TMZ/Kick spread in 48h; no long-form source yet",
-      "story": "Chrisean / Blueface - new developments"
-    },
-    {
-      "age": "Nov 24-27",
-      "signal": "228 comments on 9.6K views; FB clip 17K likes - family court",
-      "source": "Digital Social Hour",
-      "story": "Pearl Davis vs Madeline - Family Court"
-    },
-    {
-      "age": "Nov 23",
-      "signal": "236K views, growth slowed ~300/hr; cooling",
-      "source": "Whatever Podcast",
-      "story": "Whatever Podcast Dating Talk 322"
-    },
-    {
-      "age": "Nov 24-25",
-      "signal": "No new development Nov 27; cooling - segment/Short only",
-      "story": "Cooking with Kya pregnancy reveal"
-    }
-  ],
-  "ideas": {
-    "asOf": "Nov 7, 2026",
-    "items": [
-      {
-        "source": "Latino Slant",
-        "title": "Ramayana EPIC REACTION!",
-        "views": "308K"
-      },
-      {
-        "source": "K&J React",
-        "title": "XG DEPENDS MV Reaction",
-        "views": "31K"
-      },
-      {
-        "source": "Neel Desai",
-        "title": "GATE Ep 15-16 REACTION!",
-        "views": "18K"
-      }
-    ],
-    "keywords": [
-      {
-        "growth": "+39%",
-        "keyword": "how to make reaction videos",
-        "short": "make reaction videos",
-        "volume": "27K/mo"
-      },
-      {
-        "growth": "",
-        "keyword": "how to record reaction videos",
-        "short": "record reaction vids",
-        "volume": "3.8K/mo"
-      }
-    ]
-  },
-  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
-  "opsWallet": {
-    "lines": [
-      "OpusClip Pro: $87/mo",
-      "Credits: 548",
-      "Next payment: Dec 26, 2026",
-      "Publer Business: Active",
-      "Publer renews: Nov 7, 2027",
-      "Drive free: ~11 GB"
-    ]
-  },
-  "pipeline": [
-    {
-      "video": "Jubilee - Blaire White",
-      "stage": "Built",
-      "note": "Film today - Video 1"
-    },
-    {
-      "video": "It's Complicated",
-      "stage": "Built",
-      "note": "Film today - Video 2"
-    },
-    {
-      "note": "Nov 27, 2026",
-      "stage": "Published",
-      "video": "Pearl vs Shannon"
-    },
-    {
-      "note": "Awaiting filming",
-      "stage": "Built",
-      "video": "Cornell 7"
-    },
-    {
-      "stage": "Built",
-      "video": "Pop The Balloon Ep 131"
-    },
-    {
-      "note": "Clips rolling",
-      "stage": "Done",
-      "video": "Keith Lee vs 2 Chainz"
-    },
-    {
-      "note": "Clips rolling",
-      "stage": "Done",
-      "video": "Kevin Langue"
-    }
-  ],
-  "scripts": [
-    {
-      "video": "Jubilee - Blaire White",
-      "runtime": "70:00",
-      "lines": [
-        "INTRO (before the video starts)",
-        "Welcome back to Let Me Address This TV. It's",
-        "your man Showtime, and today — oh, today we",
-        "got a FIGHT. Jubilee sat ONE trans woman",
-        "down in a circle with TWENTY trans",
-        "activists, and told everybody: defend your",
-        "position. Blaire White — conservative,",
-        "trans, and she did NOT come to make friends.",
-        "Her first claim? Trans women should NOT",
-        "compete in women's sports. Twenty people who",
-        "disagree with everything she stands for, one",
-        "chair, and a red flag system where the room",
-        "can vote you out when they're tired of you.",
-        "Two million people have watched this in five",
-        "days and the comments are a WAR. So we're",
-        "gonna watch the three biggest claims —",
-        "sports, kids and medical transition, and the",
-        "locker room fight that broke the internet —",
-        "and I'm gonna tell you who actually won.",
-        "Let's get into it.",
-        "",
-        "BEAT 1 — Claim 1: Sports (cut 0:00–24:06)",
-        "[Watch the Blossom exchange fully, then",
-        "pause after the \"evidence\" fight]",
-        "Stop right there. Did y'all catch that?",
-        "Blaire came with studies — printed out, in",
-        "her hand — and the answer she kept getting",
-        "was 'I need data.' She GOT data in her lap!",
-        "Now look, I'm not saying every number she",
-        "quotes is gospel, but in a DEBATE, the",
-        "person asking for receipts can't refuse to",
-        "read the receipts when they show up. That's",
-        "round one energy right there.",
-        "[After the NCAA \"less than 10 athletes\"",
-        "exchange, ~cut 21:00]",
-        "Now THAT was a point for the room. Less than",
-        "ten trans athletes in the whole NCAA —",
-        "Blaire's answer is 'sports is bigger than",
-        "college,' and she's right that it is, but if",
-        "we're keeping score, the room landed that",
-        "one. Write it down: room 1, Blaire 1. This",
-        "is a real fight, that's why two million",
-        "people watched it.",
-        "[After the claim closes]",
-        "Claim one is in the books. And notice —",
-        "nobody got voted out for being boring. Every",
-        "single person in that chair came with smoke.",
-        "Claim two is where it gets PERSONAL. Medical",
-        "transition for minors. Watch what happens",
-        "when the person sitting across from Blaire…",
-        "is living proof of her argument.",
-        "",
-        "BEAT 2 — Claim 2: Minors & medical",
-        "transition (cut 24:06–43:20)",
-        "[After Maebe's puberty-blocker defense]",
-        "So Maebe's argument is: blockers are",
-        "reversible, they're a pause button. Blaire's",
-        "argument is the Cass Review — the biggest",
-        "review ever done on this — said the evidence",
-        "is WEAK. Two people, two completely",
-        "different relationships with the word",
-        "'evidence.' Y'all tell me in the comments",
-        "which standard we're using, because we can't",
-        "use both.",
-        "[The detransitioner exchange, cut ~34:00 —",
-        "let it play COMPLETELY, then:]",
-        "…Wow. Did y'all just see what I saw? Blaire",
-        "tells the room most kids with gender",
-        "dysphoria grow out of it if you leave them",
-        "alone — and the person arguing with her says",
-        "'that didn't happen to me'… while sitting",
-        "there NOT on hormones, NOT identifying as",
-        "trans anymore. The host had to step in",
-        "because the room felt it. She proved",
-        "Blaire's point BY ACCIDENT, in real time, on",
-        "camera. That's the moment this whole video",
-        "is gonna be remembered for. I don't care",
-        "what side you're on — that's incredible",
-        "television and an incredible argument",
-        "moment.",
-        "[Claim close]",
-        "Two claims down. Now the one that produced",
-        "the clip your cousin already sent you.",
-        "Locker rooms. Predatory behavior. And a",
-        "nineteen-year-old who says the words 'it's",
-        "just a penis' to a room full of adults. Roll",
-        "it.",
-        "",
-        "BEAT 3 — Claim 4: Predatory behavior &",
-        "locker rooms (cut 43:20–70:00)",
-        "[After \"I'm a trans woman, I'm MALE,\" cut",
-        "~46:36]",
-        "THAT'S the line. A trans woman, on Jubilee,",
-        "telling twenty activists 'trans women are",
-        "MALE, I am male' — and meaning it as a",
-        "BIOLOGY statement, not an identity one. Half",
-        "the room's whole argument depends on NOT",
-        "saying that sentence. She just said it in",
-        "the first three minutes of the claim. Watch",
-        "their faces.",
-        "[Locker-room exchange, cut ~64:19 — let it",
-        "play COMPLETELY, then:]",
-        "'It's just a penis.' 'NO ONE IS TALKING",
-        "ABOUT YOUR GRANDMA!' [laugh] Y'all. Y'all.",
-        "The activist's argument is 'it doesn't",
-        "bother ME' — Blaire's argument is 'you don't",
-        "get to decide what every woman in that",
-        "locker room has to accept.' That's the whole",
-        "debate in one exchange: is the standard the",
-        "person who's comfortable, or the person who",
-        "ISN'T? Put your answer in the comments, and",
-        "be honest, because your daughter, your mama,",
-        "your grandma uses that locker room too.",
-        "[Final moments]",
-        "And that is how it ends. Twenty activists,",
-        "one Blaire, and I gotta keep it a buck with",
-        "y'all…",
-        "",
-        "OUTRO / CTA",
-        "My verdict: Blaire White won the sports",
-        "claim on evidence, she won the minors claim",
-        "on that detransitioner moment, and the",
-        "locker room claim wasn't even close. The",
-        "room's best moment was the NCAA numbers in",
-        "claim one — credit where it's due. But",
-        "overall? She walked into a 20-on-1 and",
-        "walked out with the two most viral clips of",
-        "the week. THAT'S a win. Now I need YOUR",
-        "verdict — the poll is up on the Community",
-        "tab: Should trans women compete in women's",
-        "sports? Yes, no, separate league, or only",
-        "after full transition. Vote, then argue",
-        "about it in the comments like you mean it.",
-        "If you rock with real debates, hit subscribe",
-        "— we're on the road to the Partner Program",
-        "and every sub counts. It's Showtime, Let Me",
-        "Address This TV. I'll see y'all in the next",
-        "one."
-      ]
-    },
-    {
-      "video": "It's Complicated",
-      "runtime": "61:25",
-      "lines": [
-        "(read aloud in one pass)",
-        "Showtime — this is written to be read",
-        "straight through. [PAUSE] marks are where",
-        "you stop the video and talk. Everything",
-        "else, let it play and react live.",
-        "",
-        "COLD OPEN (before you press play, straight",
-        "to camera)",
-        "\"Hold on, hold on. Before we get into",
-        "anything — I need y'all to hear two",
-        "questions. Same situation. Same alcohol. Two",
-        "different answers… and the answers are gonna",
-        "tell you everything about where we are right",
-        "now. Watch this.\"",
-        "",
-        "INTRO (right after your intro sting)",
-        "\"Welcome back to Let Me Address This TV,",
-        "it's your boy Showtime, and today — oh,",
-        "today is a good one. This is from It's",
-        "Complicated, the street interview series, a",
-        "video called Drunk Sex that has been tearing",
-        "the internet UP — millions of views, and",
-        "it's still going. They went out and asked",
-        "women the simplest pair of questions I've",
-        "ever heard. Question one: if a girl is super",
-        "drunk and a sober guy has sex with her, is",
-        "that rape? Everybody says yes. Immediately.",
-        "No hesitation. Question two: if your",
-        "boyfriend gets super drunk and has sex with",
-        "a sober girl — was he raped… or did he",
-        "cheat? …Y'all. The way the answer CHANGED.",
-        "Same drunk. Same act. But now he's not a",
-        "victim — he's a cheater who should've known",
-        "better. We're gonna watch the whole thing —",
-        "not just the viral clip, the whole",
-        "conversation — plus three more interviews",
-        "where they keep digging: what is consent,",
-        "should we believe all women, and that 'not",
-        "all men' phrase. By the end, YOU tell ME: is",
-        "this a double standard, or is there",
-        "something I'm missing? Let's get into it.\"",
-        "",
-        "SEGMENT 1 — DRUNK SEX (cut 00:00–17:24)",
-        "Opening beat (first interview, the cold",
-        "open): \"First thing out the gate — did y'all",
-        "hear what she just said? The laws give women",
-        "leeway to LIE about this. That's one of",
-        "THEIR side saying the quiet part out loud.",
-        "Remember that, because it frames this whole",
-        "video.\"",
-        "Casino beat (~00:22 in the cut): \"Now THIS",
-        "is a smart question. You lose ten thousand",
-        "dollars in a casino drunk — can you withdraw",
-        "consent and get your money back? Everybody",
-        "knows that's YOUR responsibility. So why is",
-        "sex the only place consent can be withdrawn",
-        "AFTER the fact? Watch how they wrestle with",
-        "that one.\"",
-        "[PAUSE — THE VIRAL EXCHANGE, cut ~05:33]",
-        "\"STOP. Stop the video. This is the clip that",
-        "broke the internet, so let's do it slow.",
-        "Teal hair — question one: super drunk girl,",
-        "sober guy. 'YES. That's rape.' Not a blink.",
-        "Now flip it. Her boyfriend, super drunk,",
-        "sober girl — was he raped or did he cheat?",
-        "…'He CHEATED. He's NOT a victim. Why are you",
-        "drunk in public? You should be drunk with",
-        "me.' MA'AM. If he can't consent, he can't",
-        "cheat! Cheating is a CHOICE. You just told",
-        "me five seconds ago a drunk person can't",
-        "make that choice! Which is it?!\"",
-        "[PAUSE — braids woman, cut ~05:50–06:19]",
-        "\"And then Strip girl takes it FURTHER. 'He",
-        "bought all five of those drinks, he KNEW he",
-        "was gonna get tore up, he was trying to do",
-        "the do — he didn't get raped, NO.' So let me",
-        "make sure I understand the rule: when SHE",
-        "drinks five drinks, she's a victim who",
-        "couldn't consent. When HE drinks five",
-        "drinks, he's a man with a PLAN. The drinks",
-        "are evidence FOR her and AGAINST him. Same",
-        "five drinks! …Vegas, y'all. This is right",
-        "here on the Strip, Caesars right behind her.",
-        "This is my city producing this logic.\"",
-        "Both-drunk beat (~10:00 in the cut): \"Now",
-        "they ask the question that breaks the whole",
-        "thing: what if BOTH of them are drunk? One",
-        "of 'em actually says it — 'both graped.'",
-        "See, when you follow the logic all the way",
-        "down, even THEY land on equal. It's only",
-        "when it's him alone that the word changes.\"",
-        "Laws beat (~11:17 in the cut): \"Listen to",
-        "this part — 'certain laws are targeted",
-        "towards men.' That's not me saying it.",
-        "That's them. On camera.\"",
-        "Segment closer: \"That's part one. And notice",
-        "— nobody in that whole segment could keep",
-        "the rule the same for both sides for more",
-        "than one question. But maybe I'm being",
-        "unfair. Maybe when they really sit down and",
-        "define consent, it evens out. Let's find out",
-        "— this next one is called What Is Consent.\"",
-        "",
-        "TRANSITION INTO SEGMENT 2",
-        "\"Same channel, same streets. Now they gotta",
-        "define the word itself. Because everything",
-        "in part one hangs on one word — consent.",
-        "What is it? When can you take it back? And",
-        "does the rule move depending on who's",
-        "talking?\"",
-        "",
-        "SEGMENT 2 — WHAT IS CONSENT? (cut",
-        "17:24–34:19)",
-        "Opener beat: \"First question out the gate is",
-        "a trap and they know it — if consent can be",
-        "read through body language, why do some",
-        "encounters need a safe word? Watch the",
-        "wheels turn.\"",
-        "Passive-yes beat: \"'Is a passive yes",
-        "enough?' Y'all hear how unsure everybody",
-        "gets? Because in real life, everybody in",
-        "this video has lived the grey area they're",
-        "trying to legislate.\"",
-        "Withdrawal beat (mid-segment): [PAUSE]",
-        "\"Here's the one I need y'all locked in on:",
-        "can consent be withdrawn AFTER the fact —",
-        "after everything already happened, because",
-        "of regret? There's a difference between 'I",
-        "was too drunk to agree' and 'I agreed and I",
-        "regret it.' One is a crime. The other one is",
-        "a bad night. If we erase that line, every",
-        "man in America is one regret away from a",
-        "charge. And every woman in this video knows",
-        "somebody who'd use it — they said so in part",
-        "one, the leeway to lie. Connect those dots.\"",
-        "Segment closer: \"So consent can be body",
-        "language, or NOT body language. It can be",
-        "withdrawn, or NOT withdrawn. It depends. And",
-        "'it depends' always seems to depend on the",
-        "same thing — who's accused and who's",
-        "accusing. Which brings us to the slogan.",
-        "Should we believe ALL women?\"",
-        "",
-        "TRANSITION INTO SEGMENT 3",
-        "\"They asked it straight: if trust should be",
-        "EARNED — and everybody says trust is earned",
-        "— then why does 'believe all women' get a",
-        "pass? No earning. No evidence. Just believe.",
-        "Let's see who defends that and how.\"",
-        "",
-        "SEGMENT 3 — BELIEVE ALL WOMEN (cut",
-        "34:19–47:43)",
-        "Opener beat: \"Hear that first answer — 'I",
-        "would believe MOST women, but…' — that 'but'",
-        "is carrying the whole video. Most is not",
-        "all. The slogan says ALL.\"",
-        "Victims-vs-narrative beat (~mid-segment):",
-        "\"This is the real question of the whole",
-        "video: are we protecting victims, or are we",
-        "protecting a narrative? Because a real",
-        "victim deserves to be believed AND a real",
-        "accusation deserves evidence. Both things",
-        "can be true. The second a system says",
-        "'evidence is optional,' it stops protecting",
-        "victims and starts handing out weapons — and",
-        "part one already showed you women admitting",
-        "the weapon gets used.\"",
-        "Due-process beat (~11:00 into the segment):",
-        "[PAUSE] \"DUE PROCESS. There it is. Somebody",
-        "finally said it. That's the whole ballgame —",
-        "believe women enough to investigate EVERY",
-        "claim seriously, and believe in innocence",
-        "enough to prove it before you destroy a man.",
-        "That's not anti-woman. That's just… the law",
-        "working for everybody. Why is that",
-        "controversial?\"",
-        "Segment closer: \"Alright. So the rule bends",
-        "on consent, it bends on belief… there's one",
-        "phrase left. You've heard it a thousand",
-        "times: 'not all men, but always a man.' They",
-        "took THAT to the street too. Last one —",
-        "let's finish this.\"",
-        "",
-        "TRANSITION INTO SEGMENT 4",
-        "\"If men are the problem as a group, what",
-        "happens to the men who are victims",
-        "themselves? Where do THEY go? That's where",
-        "this one starts.\"",
-        "",
-        "SEGMENT 4 — NOT ALL MEN (cut 47:43–61:25)",
-        "Opener beat: \"'Not all men, but always a",
-        "man.' Okay — but when a man IS the victim,",
-        "like the drunk boyfriend in part one… he's a",
-        "cheater. When he's not the victim, he's the",
-        "suspect. When does a man get to just be a",
-        "PERSON in this system?\"",
-        "Male-victims beat (~mid-segment): [PAUSE]",
-        "\"Somebody asked it plain: where do male",
-        "victims of violence GO? No hotline with his",
-        "name on it, no slogan saying believe HIM,",
-        "and if he was drunk — y'all already saw it —",
-        "he planned it. A man gets hurt and the world",
-        "asks what he did to deserve it. A woman gets",
-        "hurt and the world asks who did it to her.",
-        "THAT. That right there is the whole video in",
-        "one sentence.\"",
-        "Closer beat (final answer): \"And after all",
-        "of that — listen to how it ends. 'Teaching",
-        "everybody to do the right thing, no matter",
-        "what.' EVERYBODY. Same rules, same",
-        "accountability, same protection. That's all",
-        "anybody's asking for. Took 'em four videos",
-        "to get there, but they got there.\"",
-        "",
-        "OUTRO / CTA",
-        "\"So let's tally it up. Drunk girl — victim.",
-        "Drunk boyfriend — cheater. Consent —",
-        "definable until it isn't. Believe all women",
-        "— until due process walks in. Not all men —",
-        "but a male victim still can't find the door.",
-        "Four interviews, one pattern: the rule is",
-        "never the rule. The rule is WHO.",
-        "Now I need YOUR verdict, because this is",
-        "what we do here. The poll is up on the",
-        "Community tab and I want it in the comments",
-        "too: if he's drunk — is it rape, or is it",
-        "cheating? Pick one and DEFEND it, because I",
-        "will be in those comments reading every",
-        "single one.",
-        "And family — this is not theoretical.",
-        "There's a real case, seven young men, the",
-        "Cornell 7, where this exact double standard",
-        "stopped being a street interview and became",
-        "real life. I already broke that whole thing",
-        "down — that video is linked right here and",
-        "in the pinned comment. Go watch it right",
-        "after this.",
-        "If you're new here, you know what to do —",
-        "hit that subscribe, ring the bell, because",
-        "we address it ALL over here, nothing is off",
-        "limits. This is Let Me Address This TV, I'm",
-        "Showtime… and fellas, apparently you should",
-        "only get drunk with your girl. Her words,",
-        "not mine. I'm out.\"",
-        "",
-        "POLL (Community tab, goes up with the video)",
-        "\"If he's drunk, is it rape or cheating?\" —",
-        "options: \"He was raped — he couldn't",
-        "consent\" / \"He cheated — he's responsible\" /",
-        "\"Depends how drunk he was\" / \"It's only rape",
-        "when it's her\"",
-        "",
-        ""
-      ]
-    }
-  ],
-  "stocks": {
-    "asOf": "Fri Nov 27 intraday",
-    "items": [
-      {
-        "symbol": "SNDK",
-        "name": "SanDisk",
-        "price": 83.06,
-        "change": "+12.84%",
-        "catalyst": "NAND demand + memory rebound"
-      },
-      {
-        "symbol": "COHR",
-        "name": "Coherent",
-        "price": 219.18,
-        "change": "+11.72%",
-        "catalyst": "$250M rev target + optical rebound"
-      },
-      {
-        "symbol": "AXON",
-        "name": "Axon Enterprise",
-        "price": 369.89,
-        "change": "+7.82%",
-        "catalyst": "Counter-drone Dedrone expansion"
-      },
-      {
-        "symbol": "ANET",
-        "name": "Arista Networks",
-        "price": 174.96,
-        "change": "+6.69%",
-        "catalyst": "Momentum pick (Barron's/Yahoo)"
-      },
-      {
-        "symbol": "RKLB",
-        "name": "Rocket Lab",
-        "price": 50.1,
-        "change": "+6.55%",
-        "catalyst": "Demand tailwinds"
-      },
-      {
-        "symbol": "IONQ",
-        "name": "IonQ",
-        "price": 25.06,
-        "change": "+6.46%",
-        "catalyst": "QKD passed IDEMIA validation"
-      },
-      {
-        "symbol": "DELL",
-        "name": "Dell Technologies",
-        "price": 315.56,
-        "change": "+6.23%",
-        "catalyst": "Record Q3 + raised outlook + buyback"
-      }
-    ]
-  },
-  "team": {
-    "brain": [
-      "1 AM builds + prep packs in Drive",
-      "Packaging after King's upload",
-      "Publer + IG distribution",
-      "Glasses feed refresh"
-    ],
-    "jaline": [
-      "Editor - hired",
-      "Start call: Sun Nov 29, 5 PM PT",
-      "Invite awaiting King's approval",
-      "Phase 1: Descript edits + tracker"
-    ],
-    "king": [
-      "Film 2 long-forms - office, 10 AM",
-      "Upload recordings to Descript, ~7 PM",
-      "Approve thumbnails"
-    ]
-  },
-  "tiktok": {
-    "comments": 115,
-    "followers": 20,
-    "forYouShare": "97.8%",
-    "handle": "@showtimelv26",
-    "likes": 664,
-    "profileViews": 134,
-    "rewards": "$0.00",
-    "shares": 17,
-    "videoViews60d": "27K"
-  },
-  "today": [
-    "1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM",
-    "2. Profile share ⏳ pending - 11:00 AM",
-    "3. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
-  ],
-  "traction": [
-    {
-      "title": "Chrisean / Adam22 (all)",
-      "views": 801
-    },
-    {
-      "title": "Keith Lee vs 2 Chainz",
-      "views": 203
-    },
-    {
-      "title": "Pearl vs Suzannah/Shannon",
-      "views": 154
-    },
-    {
-      "title": "Kevin Langue",
-      "views": 60
-    },
-    {
-      "title": "Kendra G - Veronica",
-      "views": 47
-    },
-    {
-      "title": "GTA 6 - Lucia",
-      "views": 42
-    }
-  ],
-  "updatedBy": "Brain",
-  "version": 180,
-  "waiting": [
-    "Was Men vs Women filmed Nov 25?",
-    "Jaline invite — approve or pick a time",
-    "2-Step Verification for Partner Program",
-    "Carlo time's-up message — send or drop",
-    "Friends-list re-check (tonight's wipe)"
-  ],
-  "youtube": {
-    "channel": "Let Me Address This TV",
-    "deadline": "Feb 1, 2027",
-    "handle": "@letmeaddressthis",
-    "hoursGap": 3540.5,
-    "started": "Oct 23, 2026",
-    "subsGained365d": 60,
-    "subsGap": 924,
-    "subscriberGoal": 1000,
-    "subscribers": 76,
-    "top48h": [
-      {
-        "title": "She Spoils Her Man...",
-        "views": 244
-      },
-      {
-        "title": "Eboni K. Williams Says...",
-        "views": 135
-      },
-      {
-        "title": "Woman Gets HUMBLED...",
-        "views": 120
-      }
-    ],
-    "views365d": 42203,
-    "viewsLast48h": 1168,
-    "watchHours": 459.5,
-    "watchHoursGoal": 4000
+  {
+   "video": "It's Complicated",
+   "runtime": "61:25",
+   "debate": "If she's drunk it's rape - if he's drunk, was he raped or did he cheat?",
+   "inside": [
+    "Built - film today (Video 2)",
+    "DRUNK SEX - viral exchange ~05:33",
+    "WHAT IS CONSENT?",
+    "BELIEVE ALL WOMEN",
+    "NOT ALL MEN",
+    "Cross-promo: Cornell 7"
+   ],
+   "poll": "If he's drunk, is it rape or cheating?",
+   "traction": "Drunk Sex clip ~5M views on X week of Nov 14; still reposting Nov 22-23",
+   "source": {
+    "channel": "It's Complicated",
+    "title": "Was He Raped or Did He Cheat? (4 original interviews)",
+    "url": "https://www.youtube.com/watch?v=6tPOpRwW-Po"
+   }
   }
+ ],
+ "calendar": {
+  "date": "Fri Nov 27, 2026",
+  "items": [
+   {
+    "time": "10:00 AM",
+    "title": "LMAT Shoot: Video 1 + Video 2 (office)"
+   },
+   {
+    "time": "11:00 AM",
+    "title": "Profile share ⏳ pending"
+   },
+   {
+    "time": "7:00 PM",
+    "title": "LMAT Home: Descript edit + YouTube upload"
+   }
+  ],
+  "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
+ },
+ "checklist": [
+  "## KING",
+  "Film Jubilee - Blaire White",
+  "Film It's Complicated",
+  "Upload recordings to Descript",
+  "Edit + upload to YouTube",
+  "Approve thumbnails",
+  "## ASSISTANT",
+  "Start call Sun Nov 29, 5 PM",
+  "Phase 1: Descript edits",
+  "Daily tracker updates",
+  "## BRAIN",
+  "1 AM builds + prep packs",
+  "Packaging after upload",
+  "Publer + IG distribution",
+  "Glasses feed refresh",
+  "Check Jaline's finished work"
+ ],
+ "countdowns": [
+  {
+   "date": "2027-02-01",
+   "label": "Race Day - bar doubles"
+  },
+  {
+   "date": "2026-12-31",
+   "label": "Apply-early target"
+  },
+  {
+   "date": "2026-11-29",
+   "label": "Jaline start call"
+  },
+  {
+   "date": "2026-12-01",
+   "label": "Shorts pace-trial review"
+  },
+  {
+   "date": "2026-12-26",
+   "label": "OpusClip payment"
+  },
+  {
+   "date": "2027-11-07",
+   "label": "Publer renewal"
+  }
+ ],
+ "dataDate": "2026-11-27",
+ "digest": [
+  "Jubilee + It's Complicated builds ready today",
+  "Pearl vs Shannon published Nov 27 — full stack done",
+  "Keith Lee clips rolling on all 4 platforms",
+  "Instagram captions repaired on 24 Reels",
+  "Daily profile share is now automatic (11 AM)"
+ ],
+ "distribution": {
+  "facebook": 7,
+  "failed": 0,
+  "instagram": 3,
+  "pinsOwed": 34,
+  "tiktok": 7,
+  "youtube": 5
+ },
+ "facebook": {
+  "engagement": 170,
+  "followers": 93,
+  "follows28d": 70,
+  "nonFollowersShare": "99.5%",
+  "oneMinuteViews": 12,
+  "page": "Let Me Address This TV",
+  "period": "Oct 22 - Nov 18, 2026",
+  "reelsShare": "99.9%",
+  "threeSecondViews": 7600,
+  "views28d": 32645,
+  "personal": {
+   "name": "James Dillard (Showtime)",
+   "friends": 4816,
+   "todayShare": "Chrisean shirt-rip share live"
+  }
+ },
+ "gmail": {
+  "items": [
+   {
+    "from": "OnlineJobs.ph",
+    "subject": "How to Revolutionize Hiring with Small Paid Tests"
+   },
+   {
+    "from": "Even Realities",
+    "subject": "Black Friday is Here — Our Biggest Sale of the Year"
+   },
+   {
+    "from": "vidIQ",
+    "subject": "How a $20 GTA 6 question got 196K views"
+   },
+   {
+    "from": "Publer",
+    "subject": "Your post didn't get published"
+   }
+  ],
+  "unreadCount": 201
+ },
+ "heatSeek": [
+  {
+   "age": "Nov 24-27",
+   "signal": "Thanksgiving call + TMZ/Kick spread in 48h; no long-form source yet",
+   "story": "Chrisean / Blueface - new developments"
+  },
+  {
+   "age": "Nov 24-27",
+   "signal": "228 comments on 9.6K views; FB clip 17K likes - family court",
+   "source": "Digital Social Hour",
+   "story": "Pearl Davis vs Madeline - Family Court"
+  },
+  {
+   "age": "Nov 23",
+   "signal": "236K views, growth slowed ~300/hr; cooling",
+   "source": "Whatever Podcast",
+   "story": "Whatever Podcast Dating Talk 322"
+  },
+  {
+   "age": "Nov 24-25",
+   "signal": "No new development Nov 27; cooling - segment/Short only",
+   "story": "Cooking with Kya pregnancy reveal"
+  }
+ ],
+ "ideas": {
+  "asOf": "Nov 7, 2026",
+  "items": [
+   {
+    "source": "Latino Slant",
+    "title": "Ramayana EPIC REACTION!",
+    "views": "308K"
+   },
+   {
+    "source": "K&J React",
+    "title": "XG DEPENDS MV Reaction",
+    "views": "31K"
+   },
+   {
+    "source": "Neel Desai",
+    "title": "GATE Ep 15-16 REACTION!",
+    "views": "18K"
+   }
+  ],
+  "keywords": [
+   {
+    "growth": "+39%",
+    "keyword": "how to make reaction videos",
+    "short": "make reaction videos",
+    "volume": "27K/mo"
+   },
+   {
+    "growth": "",
+    "keyword": "how to record reaction videos",
+    "short": "record reaction vids",
+    "volume": "3.8K/mo"
+   }
+  ]
+ },
+ "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
+ "opsWallet": {
+  "lines": [
+   "OpusClip Pro: $87/mo",
+   "Credits: 548",
+   "Next payment: Dec 26, 2026",
+   "Publer Business: Active",
+   "Publer renews: Nov 7, 2027",
+   "Drive free: ~11 GB"
+  ]
+ },
+ "pipeline": [
+  {
+   "video": "Jubilee - Blaire White",
+   "stage": "Built",
+   "note": "Film today - Video 1"
+  },
+  {
+   "video": "It's Complicated",
+   "stage": "Built",
+   "note": "Film today - Video 2"
+  },
+  {
+   "note": "Nov 27, 2026",
+   "stage": "Published",
+   "video": "Pearl vs Shannon"
+  },
+  {
+   "note": "Awaiting filming",
+   "stage": "Built",
+   "video": "Cornell 7"
+  },
+  {
+   "stage": "Built",
+   "video": "Pop The Balloon Ep 131"
+  },
+  {
+   "note": "Clips rolling",
+   "stage": "Done",
+   "video": "Keith Lee vs 2 Chainz"
+  },
+  {
+   "note": "Clips rolling",
+   "stage": "Done",
+   "video": "Kevin Langue"
+  }
+ ],
+ "scripts": [
+  {
+   "video": "Jubilee - Blaire White",
+   "runtime": "70:00",
+   "lines": [
+    "INTRO (before the video starts)",
+    "Welcome back to Let Me Address This TV. It's",
+    "your man Showtime, and today — oh, today we",
+    "got a FIGHT. Jubilee sat ONE trans woman",
+    "down in a circle with TWENTY trans",
+    "activists, and told everybody: defend your",
+    "position. Blaire White — conservative,",
+    "trans, and she did NOT come to make friends.",
+    "Her first claim? Trans women should NOT",
+    "compete in women's sports. Twenty people who",
+    "disagree with everything she stands for, one",
+    "chair, and a red flag system where the room",
+    "can vote you out when they're tired of you.",
+    "Two million people have watched this in five",
+    "days and the comments are a WAR. So we're",
+    "gonna watch the three biggest claims —",
+    "sports, kids and medical transition, and the",
+    "locker room fight that broke the internet —",
+    "and I'm gonna tell you who actually won.",
+    "Let's get into it.",
+    "",
+    "BEAT 1 — Claim 1: Sports (cut 0:00–24:06)",
+    "[Watch the Blossom exchange fully, then",
+    "pause after the \"evidence\" fight]",
+    "Stop right there. Did y'all catch that?",
+    "Blaire came with studies — printed out, in",
+    "her hand — and the answer she kept getting",
+    "was 'I need data.' She GOT data in her lap!",
+    "Now look, I'm not saying every number she",
+    "quotes is gospel, but in a DEBATE, the",
+    "person asking for receipts can't refuse to",
+    "read the receipts when they show up. That's",
+    "round one energy right there.",
+    "[After the NCAA \"less than 10 athletes\"",
+    "exchange, ~cut 21:00]",
+    "Now THAT was a point for the room. Less than",
+    "ten trans athletes in the whole NCAA —",
+    "Blaire's answer is 'sports is bigger than",
+    "college,' and she's right that it is, but if",
+    "we're keeping score, the room landed that",
+    "one. Write it down: room 1, Blaire 1. This",
+    "is a real fight, that's why two million",
+    "people watched it.",
+    "[After the claim closes]",
+    "Claim one is in the books. And notice —",
+    "nobody got voted out for being boring. Every",
+    "single person in that chair came with smoke.",
+    "Claim two is where it gets PERSONAL. Medical",
+    "transition for minors. Watch what happens",
+    "when the person sitting across from Blaire…",
+    "is living proof of her argument.",
+    "",
+    "BEAT 2 — Claim 2: Minors & medical",
+    "transition (cut 24:06–43:20)",
+    "[After Maebe's puberty-blocker defense]",
+    "So Maebe's argument is: blockers are",
+    "reversible, they're a pause button. Blaire's",
+    "argument is the Cass Review — the biggest",
+    "review ever done on this — said the evidence",
+    "is WEAK. Two people, two completely",
+    "different relationships with the word",
+    "'evidence.' Y'all tell me in the comments",
+    "which standard we're using, because we can't",
+    "use both.",
+    "[The detransitioner exchange, cut ~34:00 —",
+    "let it play COMPLETELY, then:]",
+    "…Wow. Did y'all just see what I saw? Blaire",
+    "tells the room most kids with gender",
+    "dysphoria grow out of it if you leave them",
+    "alone — and the person arguing with her says",
+    "'that didn't happen to me'… while sitting",
+    "there NOT on hormones, NOT identifying as",
+    "trans anymore. The host had to step in",
+    "because the room felt it. She proved",
+    "Blaire's point BY ACCIDENT, in real time, on",
+    "camera. That's the moment this whole video",
+    "is gonna be remembered for. I don't care",
+    "what side you're on — that's incredible",
+    "television and an incredible argument",
+    "moment.",
+    "[Claim close]",
+    "Two claims down. Now the one that produced",
+    "the clip your cousin already sent you.",
+    "Locker rooms. Predatory behavior. And a",
+    "nineteen-year-old who says the words 'it's",
+    "just a penis' to a room full of adults. Roll",
+    "it.",
+    "",
+    "BEAT 3 — Claim 4: Predatory behavior &",
+    "locker rooms (cut 43:20–70:00)",
+    "[After \"I'm a trans woman, I'm MALE,\" cut",
+    "~46:36]",
+    "THAT'S the line. A trans woman, on Jubilee,",
+    "telling twenty activists 'trans women are",
+    "MALE, I am male' — and meaning it as a",
+    "BIOLOGY statement, not an identity one. Half",
+    "the room's whole argument depends on NOT",
+    "saying that sentence. She just said it in",
+    "the first three minutes of the claim. Watch",
+    "their faces.",
+    "[Locker-room exchange, cut ~64:19 — let it",
+    "play COMPLETELY, then:]",
+    "'It's just a penis.' 'NO ONE IS TALKING",
+    "ABOUT YOUR GRANDMA!' [laugh] Y'all. Y'all.",
+    "The activist's argument is 'it doesn't",
+    "bother ME' — Blaire's argument is 'you don't",
+    "get to decide what every woman in that",
+    "locker room has to accept.' That's the whole",
+    "debate in one exchange: is the standard the",
+    "person who's comfortable, or the person who",
+    "ISN'T? Put your answer in the comments, and",
+    "be honest, because your daughter, your mama,",
+    "your grandma uses that locker room too.",
+    "[Final moments]",
+    "And that is how it ends. Twenty activists,",
+    "one Blaire, and I gotta keep it a buck with",
+    "y'all…",
+    "",
+    "OUTRO / CTA",
+    "My verdict: Blaire White won the sports",
+    "claim on evidence, she won the minors claim",
+    "on that detransitioner moment, and the",
+    "locker room claim wasn't even close. The",
+    "room's best moment was the NCAA numbers in",
+    "claim one — credit where it's due. But",
+    "overall? She walked into a 20-on-1 and",
+    "walked out with the two most viral clips of",
+    "the week. THAT'S a win. Now I need YOUR",
+    "verdict — the poll is up on the Community",
+    "tab: Should trans women compete in women's",
+    "sports? Yes, no, separate league, or only",
+    "after full transition. Vote, then argue",
+    "about it in the comments like you mean it.",
+    "If you rock with real debates, hit subscribe",
+    "— we're on the road to the Partner Program",
+    "and every sub counts. It's Showtime, Let Me",
+    "Address This TV. I'll see y'all in the next",
+    "one."
+   ]
+  },
+  {
+   "video": "It's Complicated",
+   "runtime": "61:25",
+   "lines": [
+    "(read aloud in one pass)",
+    "Showtime — this is written to be read",
+    "straight through. [PAUSE] marks are where",
+    "you stop the video and talk. Everything",
+    "else, let it play and react live.",
+    "",
+    "COLD OPEN (before you press play, straight",
+    "to camera)",
+    "\"Hold on, hold on. Before we get into",
+    "anything — I need y'all to hear two",
+    "questions. Same situation. Same alcohol. Two",
+    "different answers… and the answers are gonna",
+    "tell you everything about where we are right",
+    "now. Watch this.\"",
+    "",
+    "INTRO (right after your intro sting)",
+    "\"Welcome back to Let Me Address This TV,",
+    "it's your boy Showtime, and today — oh,",
+    "today is a good one. This is from It's",
+    "Complicated, the street interview series, a",
+    "video called Drunk Sex that has been tearing",
+    "the internet UP — millions of views, and",
+    "it's still going. They went out and asked",
+    "women the simplest pair of questions I've",
+    "ever heard. Question one: if a girl is super",
+    "drunk and a sober guy has sex with her, is",
+    "that rape? Everybody says yes. Immediately.",
+    "No hesitation. Question two: if your",
+    "boyfriend gets super drunk and has sex with",
+    "a sober girl — was he raped… or did he",
+    "cheat? …Y'all. The way the answer CHANGED.",
+    "Same drunk. Same act. But now he's not a",
+    "victim — he's a cheater who should've known",
+    "better. We're gonna watch the whole thing —",
+    "not just the viral clip, the whole",
+    "conversation — plus three more interviews",
+    "where they keep digging: what is consent,",
+    "should we believe all women, and that 'not",
+    "all men' phrase. By the end, YOU tell ME: is",
+    "this a double standard, or is there",
+    "something I'm missing? Let's get into it.\"",
+    "",
+    "SEGMENT 1 — DRUNK SEX (cut 00:00–17:24)",
+    "Opening beat (first interview, the cold",
+    "open): \"First thing out the gate — did y'all",
+    "hear what she just said? The laws give women",
+    "leeway to LIE about this. That's one of",
+    "THEIR side saying the quiet part out loud.",
+    "Remember that, because it frames this whole",
+    "video.\"",
+    "Casino beat (~00:22 in the cut): \"Now THIS",
+    "is a smart question. You lose ten thousand",
+    "dollars in a casino drunk — can you withdraw",
+    "consent and get your money back? Everybody",
+    "knows that's YOUR responsibility. So why is",
+    "sex the only place consent can be withdrawn",
+    "AFTER the fact? Watch how they wrestle with",
+    "that one.\"",
+    "[PAUSE — THE VIRAL EXCHANGE, cut ~05:33]",
+    "\"STOP. Stop the video. This is the clip that",
+    "broke the internet, so let's do it slow.",
+    "Teal hair — question one: super drunk girl,",
+    "sober guy. 'YES. That's rape.' Not a blink.",
+    "Now flip it. Her boyfriend, super drunk,",
+    "sober girl — was he raped or did he cheat?",
+    "…'He CHEATED. He's NOT a victim. Why are you",
+    "drunk in public? You should be drunk with",
+    "me.' MA'AM. If he can't consent, he can't",
+    "cheat! Cheating is a CHOICE. You just told",
+    "me five seconds ago a drunk person can't",
+    "make that choice! Which is it?!\"",
+    "[PAUSE — braids woman, cut ~05:50–06:19]",
+    "\"And then Strip girl takes it FURTHER. 'He",
+    "bought all five of those drinks, he KNEW he",
+    "was gonna get tore up, he was trying to do",
+    "the do — he didn't get raped, NO.' So let me",
+    "make sure I understand the rule: when SHE",
+    "drinks five drinks, she's a victim who",
+    "couldn't consent. When HE drinks five",
+    "drinks, he's a man with a PLAN. The drinks",
+    "are evidence FOR her and AGAINST him. Same",
+    "five drinks! …Vegas, y'all. This is right",
+    "here on the Strip, Caesars right behind her.",
+    "This is my city producing this logic.\"",
+    "Both-drunk beat (~10:00 in the cut): \"Now",
+    "they ask the question that breaks the whole",
+    "thing: what if BOTH of them are drunk? One",
+    "of 'em actually says it — 'both graped.'",
+    "See, when you follow the logic all the way",
+    "down, even THEY land on equal. It's only",
+    "when it's him alone that the word changes.\"",
+    "Laws beat (~11:17 in the cut): \"Listen to",
+    "this part — 'certain laws are targeted",
+    "towards men.' That's not me saying it.",
+    "That's them. On camera.\"",
+    "Segment closer: \"That's part one. And notice",
+    "— nobody in that whole segment could keep",
+    "the rule the same for both sides for more",
+    "than one question. But maybe I'm being",
+    "unfair. Maybe when they really sit down and",
+    "define consent, it evens out. Let's find out",
+    "— this next one is called What Is Consent.\"",
+    "",
+    "TRANSITION INTO SEGMENT 2",
+    "\"Same channel, same streets. Now they gotta",
+    "define the word itself. Because everything",
+    "in part one hangs on one word — consent.",
+    "What is it? When can you take it back? And",
+    "does the rule move depending on who's",
+    "talking?\"",
+    "",
+    "SEGMENT 2 — WHAT IS CONSENT? (cut",
+    "17:24–34:19)",
+    "Opener beat: \"First question out the gate is",
+    "a trap and they know it — if consent can be",
+    "read through body language, why do some",
+    "encounters need a safe word? Watch the",
+    "wheels turn.\"",
+    "Passive-yes beat: \"'Is a passive yes",
+    "enough?' Y'all hear how unsure everybody",
+    "gets? Because in real life, everybody in",
+    "this video has lived the grey area they're",
+    "trying to legislate.\"",
+    "Withdrawal beat (mid-segment): [PAUSE]",
+    "\"Here's the one I need y'all locked in on:",
+    "can consent be withdrawn AFTER the fact —",
+    "after everything already happened, because",
+    "of regret? There's a difference between 'I",
+    "was too drunk to agree' and 'I agreed and I",
+    "regret it.' One is a crime. The other one is",
+    "a bad night. If we erase that line, every",
+    "man in America is one regret away from a",
+    "charge. And every woman in this video knows",
+    "somebody who'd use it — they said so in part",
+    "one, the leeway to lie. Connect those dots.\"",
+    "Segment closer: \"So consent can be body",
+    "language, or NOT body language. It can be",
+    "withdrawn, or NOT withdrawn. It depends. And",
+    "'it depends' always seems to depend on the",
+    "same thing — who's accused and who's",
+    "accusing. Which brings us to the slogan.",
+    "Should we believe ALL women?\"",
+    "",
+    "TRANSITION INTO SEGMENT 3",
+    "\"They asked it straight: if trust should be",
+    "EARNED — and everybody says trust is earned",
+    "— then why does 'believe all women' get a",
+    "pass? No earning. No evidence. Just believe.",
+    "Let's see who defends that and how.\"",
+    "",
+    "SEGMENT 3 — BELIEVE ALL WOMEN (cut",
+    "34:19–47:43)",
+    "Opener beat: \"Hear that first answer — 'I",
+    "would believe MOST women, but…' — that 'but'",
+    "is carrying the whole video. Most is not",
+    "all. The slogan says ALL.\"",
+    "Victims-vs-narrative beat (~mid-segment):",
+    "\"This is the real question of the whole",
+    "video: are we protecting victims, or are we",
+    "protecting a narrative? Because a real",
+    "victim deserves to be believed AND a real",
+    "accusation deserves evidence. Both things",
+    "can be true. The second a system says",
+    "'evidence is optional,' it stops protecting",
+    "victims and starts handing out weapons — and",
+    "part one already showed you women admitting",
+    "the weapon gets used.\"",
+    "Due-process beat (~11:00 into the segment):",
+    "[PAUSE] \"DUE PROCESS. There it is. Somebody",
+    "finally said it. That's the whole ballgame —",
+    "believe women enough to investigate EVERY",
+    "claim seriously, and believe in innocence",
+    "enough to prove it before you destroy a man.",
+    "That's not anti-woman. That's just… the law",
+    "working for everybody. Why is that",
+    "controversial?\"",
+    "Segment closer: \"Alright. So the rule bends",
+    "on consent, it bends on belief… there's one",
+    "phrase left. You've heard it a thousand",
+    "times: 'not all men, but always a man.' They",
+    "took THAT to the street too. Last one —",
+    "let's finish this.\"",
+    "",
+    "TRANSITION INTO SEGMENT 4",
+    "\"If men are the problem as a group, what",
+    "happens to the men who are victims",
+    "themselves? Where do THEY go? That's where",
+    "this one starts.\"",
+    "",
+    "SEGMENT 4 — NOT ALL MEN (cut 47:43–61:25)",
+    "Opener beat: \"'Not all men, but always a",
+    "man.' Okay — but when a man IS the victim,",
+    "like the drunk boyfriend in part one… he's a",
+    "cheater. When he's not the victim, he's the",
+    "suspect. When does a man get to just be a",
+    "PERSON in this system?\"",
+    "Male-victims beat (~mid-segment): [PAUSE]",
+    "\"Somebody asked it plain: where do male",
+    "victims of violence GO? No hotline with his",
+    "name on it, no slogan saying believe HIM,",
+    "and if he was drunk — y'all already saw it —",
+    "he planned it. A man gets hurt and the world",
+    "asks what he did to deserve it. A woman gets",
+    "hurt and the world asks who did it to her.",
+    "THAT. That right there is the whole video in",
+    "one sentence.\"",
+    "Closer beat (final answer): \"And after all",
+    "of that — listen to how it ends. 'Teaching",
+    "everybody to do the right thing, no matter",
+    "what.' EVERYBODY. Same rules, same",
+    "accountability, same protection. That's all",
+    "anybody's asking for. Took 'em four videos",
+    "to get there, but they got there.\"",
+    "",
+    "OUTRO / CTA",
+    "\"So let's tally it up. Drunk girl — victim.",
+    "Drunk boyfriend — cheater. Consent —",
+    "definable until it isn't. Believe all women",
+    "— until due process walks in. Not all men —",
+    "but a male victim still can't find the door.",
+    "Four interviews, one pattern: the rule is",
+    "never the rule. The rule is WHO.",
+    "Now I need YOUR verdict, because this is",
+    "what we do here. The poll is up on the",
+    "Community tab and I want it in the comments",
+    "too: if he's drunk — is it rape, or is it",
+    "cheating? Pick one and DEFEND it, because I",
+    "will be in those comments reading every",
+    "single one.",
+    "And family — this is not theoretical.",
+    "There's a real case, seven young men, the",
+    "Cornell 7, where this exact double standard",
+    "stopped being a street interview and became",
+    "real life. I already broke that whole thing",
+    "down — that video is linked right here and",
+    "in the pinned comment. Go watch it right",
+    "after this.",
+    "If you're new here, you know what to do —",
+    "hit that subscribe, ring the bell, because",
+    "we address it ALL over here, nothing is off",
+    "limits. This is Let Me Address This TV, I'm",
+    "Showtime… and fellas, apparently you should",
+    "only get drunk with your girl. Her words,",
+    "not mine. I'm out.\"",
+    "",
+    "POLL (Community tab, goes up with the video)",
+    "\"If he's drunk, is it rape or cheating?\" —",
+    "options: \"He was raped — he couldn't",
+    "consent\" / \"He cheated — he's responsible\" /",
+    "\"Depends how drunk he was\" / \"It's only rape",
+    "when it's her\"",
+    "",
+    ""
+   ]
+  }
+ ],
+ "stocks": {
+  "asOf": "Fri Nov 27 intraday",
+  "items": [
+   {
+    "symbol": "SNDK",
+    "name": "SanDisk",
+    "price": 83.06,
+    "change": "+12.84%",
+    "catalyst": "NAND demand + memory rebound"
+   },
+   {
+    "symbol": "COHR",
+    "name": "Coherent",
+    "price": 219.18,
+    "change": "+11.72%",
+    "catalyst": "$250M rev target + optical rebound"
+   },
+   {
+    "symbol": "AXON",
+    "name": "Axon Enterprise",
+    "price": 369.89,
+    "change": "+7.82%",
+    "catalyst": "Counter-drone Dedrone expansion"
+   },
+   {
+    "symbol": "ANET",
+    "name": "Arista Networks",
+    "price": 174.96,
+    "change": "+6.69%",
+    "catalyst": "Momentum pick (Barron's/Yahoo)"
+   },
+   {
+    "symbol": "RKLB",
+    "name": "Rocket Lab",
+    "price": 50.1,
+    "change": "+6.55%",
+    "catalyst": "Demand tailwinds"
+   },
+   {
+    "symbol": "IONQ",
+    "name": "IonQ",
+    "price": 25.06,
+    "change": "+6.46%",
+    "catalyst": "QKD passed IDEMIA validation"
+   },
+   {
+    "symbol": "DELL",
+    "name": "Dell Technologies",
+    "price": 315.56,
+    "change": "+6.23%",
+    "catalyst": "Record Q3 + raised outlook + buyback"
+   }
+  ]
+ },
+ "team": {
+  "brain": [
+   "1 AM builds + prep packs in Drive",
+   "Packaging after King's upload",
+   "Publer + IG distribution",
+   "Glasses feed refresh"
+  ],
+  "jaline": [
+   "Editor - hired",
+   "Start call: Sun Nov 29, 5 PM PT",
+   "Invite awaiting King's approval",
+   "Phase 1: Descript edits + tracker"
+  ],
+  "king": [
+   "Film 2 long-forms - office, 10 AM",
+   "Upload recordings to Descript, ~7 PM",
+   "Approve thumbnails"
+  ]
+ },
+ "tiktok": {
+  "comments": 115,
+  "followers": 20,
+  "forYouShare": "97.8%",
+  "handle": "@showtimelv26",
+  "likes": 664,
+  "profileViews": 134,
+  "rewards": "$0.00",
+  "shares": 17,
+  "videoViews60d": "27K"
+ },
+ "today": [
+  "1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM",
+  "2. Profile share ⏳ pending - 11:00 AM",
+  "3. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
+ ],
+ "traction": [
+  {
+   "title": "Chrisean / Adam22 (all)",
+   "views": 801
+  },
+  {
+   "title": "Keith Lee vs 2 Chainz",
+   "views": 203
+  },
+  {
+   "title": "Pearl vs Suzannah/Shannon",
+   "views": 154
+  },
+  {
+   "title": "Kevin Langue",
+   "views": 60
+  },
+  {
+   "title": "Kendra G - Veronica",
+   "views": 47
+  },
+  {
+   "title": "GTA 6 - Lucia",
+   "views": 42
+  }
+ ],
+ "updatedBy": "Brain",
+ "version": 181,
+ "waiting": [
+  "Was Men vs Women filmed Nov 25?",
+  "Jaline invite — approve or pick a time",
+  "2-Step Verification for Partner Program",
+  "Carlo time's-up message — send or drop",
+  "Friends-list re-check (tonight's wipe)"
+ ],
+ "youtube": {
+  "channel": "Let Me Address This TV",
+  "deadline": "Feb 1, 2027",
+  "handle": "@letmeaddressthis",
+  "hoursGap": 3540.5,
+  "started": "Oct 23, 2026",
+  "subsGained365d": 60,
+  "subsGap": 924,
+  "subscriberGoal": 1000,
+  "subscribers": 76,
+  "top48h": [
+   {
+    "title": "She Spoils Her Man...",
+    "views": 244
+   },
+   {
+    "title": "Eboni K. Williams Says...",
+    "views": 135
+   },
+   {
+    "title": "Woman Gets HUMBLED...",
+    "views": 120
+   }
+  ],
+  "views365d": 42203,
+  "viewsLast48h": 1168,
+  "watchHours": 459.5,
+  "watchHoursGoal": 4000
+ },
+ "instagram": {
+  "handle": "@1kingshowtime",
+  "followers": 960,
+  "posts": 13
+ },
+ "statsAsOf": {
+  "youtube": "2026-11-27",
+  "facebook": "2026-11-27",
+  "personal": "2026-11-27",
+  "tiktok": "2026-11-26",
+  "instagram": "2026-11-27"
+ }
 }
