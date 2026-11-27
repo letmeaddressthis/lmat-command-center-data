@@ -37,19 +37,19 @@
         "items": [
             {
                 "from": "OnlineJobs.ph",
-                "subject": "7 interview questions that quickly separate strong candidates"
+                "subject": "How to Revolutionize Hiring with Small Paid Tests"
             },
             {
                 "from": "Even Realities",
                 "subject": "Own Your Look This Season with Even G2 New Frame"
             },
             {
-                "from": "Publer",
-                "subject": "Your post didn't get published"
+                "from": "vidIQ",
+                "subject": "How a $20 GTA 6 question got 196K views"
             },
             {
-                "from": "vidIQ",
-                "subject": "You reached 65,000 views"
+                "from": "Publer",
+                "subject": "Your post didn't get published"
             }
         ],
         "unreadCount": 201
@@ -88,7 +88,7 @@
             }
         ]
     },
-    "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+    "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
     "stocks": {
         "asOf": "Wed Nov 25 close",
         "items": [
@@ -159,7 +159,7 @@
         "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
     ],
     "updatedBy": "Brain",
-    "version": 174,
+    "version": 175,
     "youtube": {
         "channel": "Let Me Address This TV",
         "deadline": "Feb 1, 2027",
