@@ -44,12 +44,12 @@
                 "subject": "Own Your Look This Season with Even G2 New Frame"
             },
             {
-                "from": "vidIQ",
-                "subject": "You reached 65,000 views"
-            },
-            {
                 "from": "Publer",
                 "subject": "Your post didn't get published"
+            },
+            {
+                "from": "vidIQ",
+                "subject": "You reached 65,000 views"
             }
         ],
         "unreadCount": 201
@@ -159,7 +159,7 @@
         "2. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
     ],
     "updatedBy": "Brain",
-    "version": 173,
+    "version": 174,
     "youtube": {
         "channel": "Let Me Address This TV",
         "deadline": "Feb 1, 2027",
