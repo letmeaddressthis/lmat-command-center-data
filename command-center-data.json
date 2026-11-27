@@ -676,56 +676,56 @@
   }
  ],
  "stocks": {
-  "asOf": "Fri Nov 27 intraday",
+  "asOf": "Fri Nov 27 close",
   "items": [
    {
     "symbol": "SNDK",
     "name": "SanDisk",
-    "price": 83.06,
-    "change": "+12.84%",
-    "catalyst": "NAND demand + memory rebound"
+    "price": 85.36,
+    "change": "+15.96%",
+    "catalyst": "Memory rebound + tech rally"
    },
    {
     "symbol": "COHR",
     "name": "Coherent",
-    "price": 219.18,
-    "change": "+11.72%",
+    "price": 223.79,
+    "change": "+14.07%",
     "catalyst": "$250M rev target + optical rebound"
-   },
-   {
-    "symbol": "AXON",
-    "name": "Axon Enterprise",
-    "price": 369.89,
-    "change": "+7.82%",
-    "catalyst": "Counter-drone Dedrone expansion"
-   },
-   {
-    "symbol": "ANET",
-    "name": "Arista Networks",
-    "price": 174.96,
-    "change": "+6.69%",
-    "catalyst": "Momentum pick (Barron's/Yahoo)"
    },
    {
     "symbol": "RKLB",
     "name": "Rocket Lab",
-    "price": 50.1,
-    "change": "+6.55%",
+    "price": 50.88,
+    "change": "+8.21%",
     "catalyst": "Demand tailwinds"
    },
    {
-    "symbol": "IONQ",
-    "name": "IonQ",
-    "price": 25.06,
-    "change": "+6.46%",
-    "catalyst": "QKD passed IDEMIA validation"
+    "symbol": "MU",
+    "name": "Micron",
+    "price": 646.95,
+    "change": "+7.60%",
+    "catalyst": "AI / chip rebound buying"
    },
    {
     "symbol": "DELL",
     "name": "Dell Technologies",
-    "price": 315.56,
-    "change": "+6.23%",
+    "price": 316.96,
+    "change": "+6.70%",
     "catalyst": "Record Q3 + raised outlook + buyback"
+   },
+   {
+    "symbol": "ANET",
+    "name": "Arista Networks",
+    "price": 174.73,
+    "change": "+6.55%",
+    "catalyst": "Momentum pick (Barron's/Yahoo)"
+   },
+   {
+    "symbol": "IONQ",
+    "name": "IonQ",
+    "price": 24.97,
+    "change": "+6.07%",
+    "catalyst": "QKD passed IDEMIA validation"
    }
   ]
  },
@@ -753,7 +753,7 @@
   "followers": 34,
   "forYouShare": "97.8%",
   "handle": "@showtimelv26",
-  "likes": 955,
+  "likes": 956,
   "profileViews": 134,
   "rewards": "$0.00",
   "shares": 17,
@@ -791,7 +791,7 @@
   }
  ],
  "updatedBy": "Brain",
- "version": 183,
+ "version": 184,
  "waiting": [
   "Was Men vs Women filmed Nov 25?",
   "Get Jaline's email on Sun call (Drive share)",
@@ -831,7 +831,7 @@
  "instagram": {
   "handle": "@1kingshowtime",
   "followers": 960,
-  "posts": 13
+  "posts": 16
  },
  "statsAsOf": {
   "youtube": "2026-11-27",
