@@ -1,197 +1,648 @@
 {
-    "assistant": {
-        "note": "$25 test payout sent Nov 24 via Western Union; MTCN relayed to Jaline Nov 25 - King to contact her after Thanksgiving to start",
-        "status": "Editor: Jaline Ramos",
-        "tasks": [
-            "1. King to contact Jaline after Thanksgiving to start work"
-        ]
+  "assistant": {
+    "note": "$25 test payout sent Nov 24 via Western Union; MTCN relayed to Jaline Nov 25 - King to contact her after Thanksgiving to start",
+    "status": "Editor: Jaline Ramos",
+    "tasks": [
+      "1. King to contact Jaline after Thanksgiving to start work"
+    ]
+  },
+  "briefings": [
+    {
+      "debate": "Are modern women expecting too much? Is marriage a bad deal for men? Should cheating end a marriage? Child custody",
+      "inside": [
+        "PUBLISHED Nov 27: King's reaction (1:23:10)",
+        "youtu.be/3pQuYiMIqOg",
+        "Nurturing + child abuse stats",
+        "Custody + Shannon's co-parenting story",
+        "Is marriage a bad deal for men?",
+        "Gender roles + feminism",
+        "Dating preferences + dad bods",
+        "Should cheating end a marriage?",
+        "Final arguments + closings"
+      ],
+      "poll": "Are modern women expecting too much from men?",
+      "runtime": "65:51",
+      "source": {
+        "channel": "Digital Social Hour (Sean Kelly)",
+        "title": "Pearl Davis vs. Shannon: Are Modern Women Expecting Too Much From Men?",
+        "url": "https://www.youtube.com/watch?v=YGDHWPwxKsk"
+      },
+      "traction": "Original premiered Nov 25 eve: 4,970 views at 1:05 AM Nov 26, 6,050 an hour later",
+      "video": "Pearl vs Shannon"
     },
-    "calendar": {
-        "date": "Thu Nov 26, 2026",
-        "items": [
-            {
-                "time": "10:00 AM",
-                "title": "LMAT Shoot: Video 1 + Video 2 (office)"
-            },
-            {
-                "time": "11:00 AM",
-                "title": "Profile share ⏳ pending"
-            },
-            {
-                "time": "7:00 PM",
-                "title": "LMAT Home: Descript edit + YouTube upload"
-            }
-        ],
-        "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
-    },
-    "dataDate": "2026-11-26",
-    "facebook": {
-        "engagement": 170,
-        "followers": 93,
-        "follows28d": 77,
-        "nonFollowersShare": "99.5%",
-        "oneMinuteViews": 12,
-        "page": "Let Me Address This TV",
-        "period": "Oct 22 - Nov 18, 2026",
-        "reelsShare": "99.9%",
-        "threeSecondViews": 7600,
-        "views28d": 32967
-    },
-    "gmail": {
-        "items": [
-            {
-                "from": "OnlineJobs.ph",
-                "subject": "How to Revolutionize Hiring with Small Paid Tests"
-            },
-            {
-                "from": "Even Realities",
-                "subject": "Own Your Look This Season with Even G2 New Frame"
-            },
-            {
-                "from": "vidIQ",
-                "subject": "How a $20 GTA 6 question got 196K views"
-            },
-            {
-                "from": "Publer",
-                "subject": "Your post didn't get published"
-            }
-        ],
-        "unreadCount": 201
-    },
-    "ideas": {
-        "asOf": "Nov 7, 2026",
-        "items": [
-            {
-                "source": "Latino Slant",
-                "title": "Ramayana EPIC REACTION!",
-                "views": "308K"
-            },
-            {
-                "source": "K&J React",
-                "title": "XG DEPENDS MV Reaction",
-                "views": "31K"
-            },
-            {
-                "source": "Neel Desai",
-                "title": "GATE Ep 15-16 REACTION!",
-                "views": "18K"
-            }
-        ],
-        "keywords": [
-            {
-                "growth": "+39%",
-                "keyword": "how to make reaction videos",
-                "short": "make reaction videos",
-                "volume": "27K/mo"
-            },
-            {
-                "growth": "",
-                "keyword": "how to record reaction videos",
-                "short": "record reaction vids",
-                "volume": "3.8K/mo"
-            }
-        ]
-    },
-    "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY — never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers — leave a field as null / '?' if unknown.",
-    "stocks": {
-        "asOf": "Wed Nov 25 close",
-        "items": [
-            {
-                "catalyst": "Q3 EPS beat + $500M buyback",
-                "change": "+12.56%",
-                "name": "Kanzhun",
-                "price": 14.34,
-                "symbol": "BZ"
-            },
-            {
-                "catalyst": "Q4 EPS beat + raised guidance",
-                "change": "+11.49%",
-                "name": "HP Inc.",
-                "price": 31.15,
-                "symbol": "HPQ"
-            },
-            {
-                "catalyst": "Q3 earnings beat + positive FCF",
-                "change": "+11.03%",
-                "name": "Li Auto",
-                "price": 11.88,
-                "symbol": "LI"
-            },
-            {
-                "catalyst": "Director $1M+ insider buy",
-                "change": "+10.25%",
-                "name": "AST SpaceMobile",
-                "price": 26.02,
-                "symbol": "ASTS"
-            },
-            {
-                "catalyst": "FDA approval for EKITNA",
-                "change": "+9.30%",
-                "name": "Cogent Biosciences",
-                "price": 36.08,
-                "symbol": "COGT"
-            },
-            {
-                "catalyst": "Q3 EPS beat $1.17 vs $1.13",
-                "change": "+7.48%",
-                "name": "Semtech",
-                "price": 92.93,
-                "symbol": "SMTC"
-            },
-            {
-                "catalyst": "Police partnership + earnings momentum",
-                "change": "+7.43%",
-                "name": "Axon Enterprise",
-                "price": 343.05,
-                "symbol": "AXON"
-            }
-        ]
-    },
-    "tiktok": {
-        "comments": 115,
-        "followers": 20,
-        "forYouShare": "97.8%",
-        "handle": "@showtimelv26",
-        "likes": 664,
-        "profileViews": 134,
-        "rewards": "$0.00",
-        "shares": 17,
-        "videoViews60d": "27K"
-    },
-    "today": [
-        "1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM",
-        "2. Profile share ⏳ pending - 11:00 AM",
-        "3. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
-    ],
-    "updatedBy": "Brain",
-    "version": 176,
-    "youtube": {
-        "channel": "Let Me Address This TV",
-        "deadline": "Feb 1, 2027",
-        "handle": "@letmeaddressthis",
-        "hoursGap": 3540.5,
-        "started": "Oct 23, 2026",
-        "subsGained365d": 60,
-        "subsGap": 925,
-        "subscriberGoal": 1000,
-        "subscribers": 75,
-        "top48h": [
-            {
-                "title": "She Spoils Her Man...",
-                "views": 244
-            },
-            {
-                "title": "Eboni K. Williams Says...",
-                "views": 135
-            },
-            {
-                "title": "Woman Gets HUMBLED...",
-                "views": 120
-            }
-        ],
-        "views365d": 42203,
-        "viewsLast48h": 1168,
-        "watchHours": 459.5,
-        "watchHoursGoal": 4000
+    {
+      "debate": "Which document do you believe: her signed statement, or her police interview?",
+      "inside": [
+        "Built - awaiting filming",
+        "Oct 19-20, 2024: Chi Phi house, Cornell",
+        "Civil complaint filed Sept 2026",
+        "NO criminal charges filed",
+        "DA declined: signed statement said voluntary, conscious, consensual",
+        "Interview transcript: 'completely and totally incapacitated'",
+        "Her texts, both directions",
+        "Cornell panel: 2 expelled, 2 suspended, 1 barred",
+        "AG Letitia James reviewing"
+      ],
+      "poll": "Cornell 7 - which document do you believe: her signed statement, or her police interview?",
+      "runtime": "42:09",
+      "source": {
+        "channel": "ABC News (investigation spine)",
+        "title": "Cornell Chi Phi case - signed statement vs police interview",
+        "url": ""
+      },
+      "traction": "Evergreen backlog build - live contested case, no charges",
+      "video": "Cornell 7"
     }
+  ],
+  "calendar": {
+    "date": "Thu Nov 26, 2026",
+    "items": [
+      {
+        "time": "10:00 AM",
+        "title": "LMAT Shoot: Video 1 + Video 2 (office)"
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Profile share \u23f3 pending"
+      },
+      {
+        "time": "7:00 PM",
+        "title": "LMAT Home: Descript edit + YouTube upload"
+      }
+    ],
+    "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
+  },
+  "checklist": [
+    "Film Pearl follow-up",
+    "Film Cornell 7",
+    "Upload recordings to Descript",
+    "Edit + upload to YouTube",
+    "Approve Pearl thumbnails"
+  ],
+  "countdowns": [
+    {
+      "date": "2027-02-01",
+      "label": "Race Day - bar doubles"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Apply-early target"
+    },
+    {
+      "date": "2026-11-29",
+      "label": "Jaline start call"
+    },
+    {
+      "date": "2026-12-01",
+      "label": "Shorts pace-trial review"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "OpusClip payment"
+    },
+    {
+      "date": "2027-11-07",
+      "label": "Publer renewal"
+    }
+  ],
+  "dataDate": "2026-11-27",
+  "digest": [
+    "Pearl vs Shannon published Nov 27 \u2014 full stack done",
+    "Keith Lee clips rolling on all 4 platforms",
+    "Instagram captions repaired on 24 Reels",
+    "Daily profile share is now automatic (11 AM)",
+    "Glasses plugin v2 built \u2014 install next"
+  ],
+  "distribution": {
+    "facebook": 7,
+    "failed": 0,
+    "instagram": 3,
+    "pinsOwed": 34,
+    "tiktok": 7,
+    "youtube": 5
+  },
+  "facebook": {
+    "engagement": 170,
+    "followers": 93,
+    "follows28d": 77,
+    "nonFollowersShare": "99.5%",
+    "oneMinuteViews": 12,
+    "page": "Let Me Address This TV",
+    "period": "Oct 22 - Nov 18, 2026",
+    "reelsShare": "99.9%",
+    "threeSecondViews": 7600,
+    "views28d": 32967
+  },
+  "gmail": {
+    "items": [
+      {
+        "from": "OnlineJobs.ph",
+        "subject": "How to Revolutionize Hiring with Small Paid Tests"
+      },
+      {
+        "from": "Even Realities",
+        "subject": "Own Your Look This Season with Even G2 New Frame"
+      },
+      {
+        "from": "vidIQ",
+        "subject": "How a $20 GTA 6 question got 196K views"
+      },
+      {
+        "from": "Publer",
+        "subject": "Your post didn't get published"
+      }
+    ],
+    "unreadCount": 201
+  },
+  "heatSeek": [
+    {
+      "age": "Nov 24-25",
+      "signal": "Gossip-page spread within 24h; comments polarized. Not long-form buildable - segment/Short material",
+      "story": "Cooking with Kya pregnancy reveal"
+    },
+    {
+      "age": "Nov 24-25",
+      "signal": "Shade Room IG ~45K likes / 21K comments in hours. Kick/IG clips only - buildable when a long-form source drops",
+      "story": "Chrisean / Blueface / Wack100"
+    },
+    {
+      "age": "Nov 23",
+      "signal": "221,540 views in ~2 days (~3,750/hr); fully buildable 8h49m VOD",
+      "source": "Whatever Podcast",
+      "story": "Whatever Podcast Dating Talk 322"
+    }
+  ],
+  "ideas": {
+    "asOf": "Nov 7, 2026",
+    "items": [
+      {
+        "source": "Latino Slant",
+        "title": "Ramayana EPIC REACTION!",
+        "views": "308K"
+      },
+      {
+        "source": "K&J React",
+        "title": "XG DEPENDS MV Reaction",
+        "views": "31K"
+      },
+      {
+        "source": "Neel Desai",
+        "title": "GATE Ep 15-16 REACTION!",
+        "views": "18K"
+      }
+    ],
+    "keywords": [
+      {
+        "growth": "+39%",
+        "keyword": "how to make reaction videos",
+        "short": "make reaction videos",
+        "volume": "27K/mo"
+      },
+      {
+        "growth": "",
+        "keyword": "how to record reaction videos",
+        "short": "record reaction vids",
+        "volume": "3.8K/mo"
+      }
+    ]
+  },
+  "note": "LMAT Command Center data feed. Refreshed every 2 hours (7 AM-10 PM HST). YouTube totals from vidIQ (reads a little lower than YouTube Studio, lags ~1 day). 48h detail from YouTube Studio screenshots Nov 7. Facebook from the Page connector. TikTok from King's screenshots only. Stocks: top 7 movers with a real catalyst, picked fresh each refresh. Ideas: vidIQ trending reactions + keyword research (frozen - 0 vidIQ credits until Dec 5). YouTube watch hours also frozen until Dec 5. Calendar: Google Calendar today. Gmail: newest unread first from hiring (OnlineJobs.ph), Even Realities, and creator tools (vidIQ, Publer, OpusClip, Descript), sender + subject ONLY \u2014 never include verification codes, password resets, financial or personal mail, and never include message bodies. Assistant: editor hiring status + task board, updated only from King's instructions. Do not invent numbers \u2014 leave a field as null / '?' if unknown.",
+  "opsWallet": {
+    "lines": [
+      "OpusClip Pro: $87/mo",
+      "Credits: 548",
+      "Next payment: Dec 26, 2026",
+      "Publer Business: Active",
+      "Publer renews: Nov 7, 2027",
+      "Drive free: ~11 GB"
+    ]
+  },
+  "pipeline": [
+    {
+      "note": "Nov 27, 2026",
+      "stage": "Published",
+      "video": "Pearl vs Shannon"
+    },
+    {
+      "note": "Awaiting filming",
+      "stage": "Built",
+      "video": "Cornell 7"
+    },
+    {
+      "stage": "Built",
+      "video": "Pop The Balloon Ep 131"
+    },
+    {
+      "note": "Backlog",
+      "stage": "Built",
+      "video": "It's Complicated"
+    },
+    {
+      "note": "Clips rolling",
+      "stage": "Done",
+      "video": "Keith Lee vs 2 Chainz"
+    },
+    {
+      "note": "Clips rolling",
+      "stage": "Done",
+      "video": "Kevin Langue"
+    }
+  ],
+  "scripts": [
+    {
+      "lines": [
+        "INTRO",
+        "Welcome back to Let Me Address This TV \u2014 I'm",
+        "Showtime, let me address this. Pearl Davis",
+        "is back on Digital Social Hour, and this",
+        "time it's one-on-one \u2014 Pearl versus Shannon",
+        "\u2014 and the question on the table is one I",
+        "want every man watching to answer with me",
+        "tonight: are modern women expecting TOO much",
+        "from men? Now Shannon is not a pushover.",
+        "She's a mother, she's been through the",
+        "family court system herself, and she's gonna",
+        "tell her own co-parenting story on camera \u2014",
+        "the money, the 50/50, all of it. Pearl says",
+        "women never take accountability. Shannon",
+        "says watch me. Somebody's walking out of",
+        "this debate with their whole argument in",
+        "pieces, and we're gonna find out who \u2014",
+        "together, from the original debate, no",
+        "commentary, no spin. If you're new here,",
+        "subscribe \u2014 we're racing to the Partner",
+        "Program and every single sub moves us. Let's",
+        "get into it.",
+        "",
+        "BEAT 1 \u2014 OPENING + NURTURING + ABUSE",
+        "STATISTICS (cut 0:00\u2013~9:38)",
+        "They don't waste one second. Four debate",
+        "topics on the table, and the first one is",
+        "whether women are naturally nurturing.",
+        "Listen to how Pearl frames it, and then",
+        "watch Shannon \u2014 she's not debating theory,",
+        "she's debating her LIFE. When the child",
+        "abuse statistics come up, pay attention to",
+        "who's arguing numbers and who's arguing",
+        "accountability, because that split runs",
+        "through this whole video.",
+        "",
+        "BEAT 2 \u2014 CUSTODY + SHANNON'S CO-PARENTING",
+        "STORY (cut ~9:38\u201325:08)",
+        "This is the heart of the whole debate.",
+        "Family court, custody \u2014 and then Shannon",
+        "tells her own story: two hundred dollars a",
+        "month, a 50/50 she says she did NOT fight,",
+        "and she's about to cancel the support",
+        "altogether. And Pearl does what Pearl does \u2014",
+        "she looks her dead in the eye and asks,",
+        "'What did YOU do wrong?' Fellas, this is the",
+        "part where the debate stops being a podcast",
+        "and starts being real life. And watch what",
+        "Shannon says next, because she does the one",
+        "thing Pearl swears women never do.",
+        "",
+        "BEAT 3 \u2014 IS MARRIAGE A BAD DEAL FOR MEN?",
+        "(cut 25:08\u201337:33)",
+        "Topic two, and it's the title of the whole",
+        "video: is marriage a bad deal for men? Pearl",
+        "lays out the case \u2014 the courts, the custody,",
+        "the risk. Shannon's answer is coming from a",
+        "woman who actually lived the divorce side of",
+        "it, so her pushback has weight. I want you",
+        "thinking about your own answer the whole",
+        "time, because I'm asking you officially in",
+        "the poll after this.",
+        "",
+        "BEAT 4 \u2014 GENDER ROLES AND FEMINISM (cut",
+        "37:33\u201345:44)",
+        "Gender roles. Who's supposed to do what, and",
+        "did feminism change the deal or break it?",
+        "This is the chapter where they actually",
+        "agree on more than either of them wants to",
+        "admit \u2014 see if you catch it before they do.",
+        "",
+        "BEAT 5 \u2014 DATING PREFERENCES AND DAD BODS",
+        "(cut 45:44\u201350:35)",
+        "Quick breather, and it's the funniest",
+        "stretch in the video \u2014 dating preferences",
+        "and the dad bod question. Don't let the",
+        "laughs fool you, though: what people say",
+        "they can joke about here is exactly what",
+        "they fight about in the serious chapters.",
+        "Standards are standards, whether it's a",
+        "courtroom or a dating app.",
+        "",
+        "BEAT 6 \u2014 SHOULD CHEATING END A MARRIAGE?",
+        "(cut 50:35\u201364:27)",
+        "Now the closer, and it's the one that's",
+        "gonna blow up my comments: should cheating",
+        "end a marriage \u2014 yes or no, full stop?",
+        "Pearl's position, Shannon's position, and",
+        "they do NOT land in the same place. There's",
+        "a moment in here where the fact that men",
+        "cheat becomes the whole argument. Fellas \u2014 I",
+        "already know where most of you stand. The",
+        "question is whether Shannon moves anybody",
+        "tonight.",
+        "",
+        "BEAT 7 \u2014 FINAL ARGUMENTS (cut 64:27\u201365:51)",
+        "Closing statements. Ninety seconds each to",
+        "leave it all on the table. Judge them on",
+        "everything you've seen \u2014 the custody story,",
+        "the marriage argument, the cheating debate \u2014",
+        "not just the last word.",
+        "",
+        "OUTRO / CTA + POLL",
+        "So here's my verdict, and then I want yours.",
+        "Pearl came in with the system argument \u2014",
+        "courts, custody, expectations. Shannon came",
+        "in with a LIFE \u2014 and she did the one thing",
+        "Pearl said women never do: she admitted her",
+        "part, on camera, with receipts. That doesn't",
+        "settle the title question, and you know it",
+        "doesn't. So the poll is LIVE on the",
+        "Community tab right now: 'Are modern women",
+        "expecting too much from men?' \u2014 expecting",
+        "too much, men need to step up, both sides,",
+        "or marriage itself is the bad deal. Go vote,",
+        "then come back and argue it in these",
+        "comments like you mean it. If this debate",
+        "earned it, subscribe to Let Me Address This",
+        "TV and hit the bell \u2014 long-form reactions",
+        "like this are how we get to the Partner",
+        "Program. I'm Showtime \u2014 let me address this,",
+        "and I'll see you on the next one."
+      ],
+      "runtime": "65:51",
+      "video": "Pearl vs Shannon"
+    },
+    {
+      "lines": [
+        "Read aloud in one pass \u2014 Showtime voice.",
+        "Guardrail throughout: no charges filed, the",
+        "accused deny wrongdoing, react to the",
+        "documents \u2014 do NOT declare the legal answer.",
+        "",
+        "INTRO (read before the cut rolls)",
+        "Welcome back to Let Me Address This TV \u2014 I'm",
+        "Showtime, let me address this. One night at",
+        "a Cornell fraternity house. Seven men",
+        "accused. No criminal charges. And the whole",
+        "case turns on two documents that do NOT tell",
+        "the same story \u2014 her signed statement says",
+        "one thing, her police interview says",
+        "another. Cornell has now put EVERY",
+        "fraternity and sorority on campus under",
+        "review, a former acting US Attorney General",
+        "is running an independent investigation, and",
+        "the Attorney General is fighting in court",
+        "just to stay on the case. Tonight we're",
+        "going through the actual files, in order \u2014",
+        "the footage from inside the house, her",
+        "statements, the texts in both directions,",
+        "the recorded phone calls, and both attorneys",
+        "on the record. You watch the receipts with",
+        "me, and YOU tell me what the truth is.",
+        "Subscribe if you're new \u2014 we're on the road",
+        "to the Partner Program and every sub counts.",
+        "Let's get into it.",
+        "",
+        "BEAT 1 \u2014 THE NIGHT / INSIDE THE HOUSE (cut",
+        "~0:00\u20133:13)",
+        "Start right here. This is footage from",
+        "INSIDE the Chi Phi house that night. Don't",
+        "listen to me, don't listen to the internet \u2014",
+        "watch what's actually on camera and remember",
+        "it, because everything after this is people",
+        "describing this night two different ways.",
+        "",
+        "BEAT 2 \u2014 HER STATEMENTS (cut ~3:13\u20138:04)",
+        "Now her words \u2014 and pay attention, because",
+        "there are TWO versions. Her statement to",
+        "police, and her statement to campus police",
+        "that ABC obtained. She uses the word",
+        "coercion. Hold that word. Because later",
+        "you're gonna see a signed statement, and I",
+        "need you to notice with your own eyes",
+        "whether those two documents match \u2014 that's",
+        "the whole case.",
+        "",
+        "BEAT 3 \u2014 THE TEXTS, BOTH DIRECTIONS (cut",
+        "~8:04\u201312:07)",
+        "Here come the texts \u2014 and I'm dating them on",
+        "purpose, because the dates ARE the story.",
+        "One message says 'our body our choice.'",
+        "Weeks apart, another line says '90% not",
+        "consensual.' Both of those are HERS. Weeks",
+        "apart. I'm not telling you which one to",
+        "believe \u2014 I'm asking how a jury is supposed",
+        "to read both of those at the same time.",
+        "",
+        "BEAT 4 \u2014 THE PHONE CALLS (cut ~12:07\u201323:31)",
+        "Now the recorded calls \u2014 her on the phone",
+        "with the brothers themselves. This is why I",
+        "do these videos from the original reporting",
+        "only: no commentary, no spin, just voices on",
+        "tape. Listen to what's said, listen to",
+        "what's NOT denied, and listen to the apology",
+        "call when it comes \u2014 then you decide what it",
+        "means.",
+        "",
+        "BEAT 5 \u2014 BOTH ATTORNEYS, ON THE RECORD (cut",
+        "~23:31\u201333:25)",
+        "Both sides' lawyers, on camera. Her attorney",
+        "makes her case, the accused men's lawyer",
+        "answers \u2014 including the fight over the",
+        "special counsel. Notice: nobody on either",
+        "side is talking like this case is over. And",
+        "as of today \u2014 say it with me \u2014 NO criminal",
+        "charges have been filed against any of the",
+        "seven, and the men deny wrongdoing. That's",
+        "not me taking a side, that's the record.",
+        "",
+        "BEAT 6 \u2014 THE LEGAL FIGHT / CLOSER (cut",
+        "~33:25\u201342:09)",
+        "Last piece: the full legal fight \u2014 the DA",
+        "declined on the signed statement, then moved",
+        "toward a grand jury after the lawsuit",
+        "surfaced new material. The AG appointed the",
+        "prosecutor who ran the Diddy case. Five of",
+        "the seven are trying to get the AG REMOVED.",
+        "Cornell's own faculty voted no confidence,",
+        "75 to 50. This case is live, it's contested,",
+        "and it is nowhere near finished.",
+        "",
+        "OUTRO / CTA + POLL",
+        "So here's where I land: two documents, two",
+        "stories, and a university that just put all",
+        "of Greek life under review. I showed you the",
+        "files \u2014 now I want YOUR verdict in the",
+        "comments. Tonight's poll is up on the",
+        "Community tab: 'Cornell 7 \u2014 which document",
+        "do you believe: her signed statement, or her",
+        "police interview?' Go vote, argue it out in",
+        "the comments \u2014 respectfully \u2014 and if this",
+        "breakdown earned it, subscribe to Let Me",
+        "Address This TV and turn the bell on. We do",
+        "the full story, from the original sources,",
+        "every time. I'm Showtime \u2014 let me address",
+        "this, and I'll see you on the next one."
+      ],
+      "runtime": "42:09",
+      "video": "Cornell 7"
+    }
+  ],
+  "stocks": {
+    "asOf": "Wed Nov 25 close",
+    "items": [
+      {
+        "catalyst": "Q3 EPS beat + $500M buyback",
+        "change": "+12.56%",
+        "name": "Kanzhun",
+        "price": 14.34,
+        "symbol": "BZ"
+      },
+      {
+        "catalyst": "Q4 EPS beat + raised guidance",
+        "change": "+11.49%",
+        "name": "HP Inc.",
+        "price": 31.15,
+        "symbol": "HPQ"
+      },
+      {
+        "catalyst": "Q3 earnings beat + positive FCF",
+        "change": "+11.03%",
+        "name": "Li Auto",
+        "price": 11.88,
+        "symbol": "LI"
+      },
+      {
+        "catalyst": "Director $1M+ insider buy",
+        "change": "+10.25%",
+        "name": "AST SpaceMobile",
+        "price": 26.02,
+        "symbol": "ASTS"
+      },
+      {
+        "catalyst": "FDA approval for EKITNA",
+        "change": "+9.30%",
+        "name": "Cogent Biosciences",
+        "price": 36.08,
+        "symbol": "COGT"
+      },
+      {
+        "catalyst": "Q3 EPS beat $1.17 vs $1.13",
+        "change": "+7.48%",
+        "name": "Semtech",
+        "price": 92.93,
+        "symbol": "SMTC"
+      },
+      {
+        "catalyst": "Police partnership + earnings momentum",
+        "change": "+7.43%",
+        "name": "Axon Enterprise",
+        "price": 343.05,
+        "symbol": "AXON"
+      }
+    ]
+  },
+  "team": {
+    "brain": [
+      "1 AM builds + prep packs in Drive",
+      "Packaging after King's upload",
+      "Publer + IG distribution",
+      "Glasses feed refresh"
+    ],
+    "jaline": [
+      "Editor - hired",
+      "Start call: Sun Nov 29, 5 PM PT",
+      "Invite awaiting King's approval",
+      "Phase 1: Descript edits + tracker"
+    ],
+    "king": [
+      "Film 2 long-forms - office, 10 AM",
+      "Upload recordings to Descript, ~7 PM",
+      "Approve thumbnails"
+    ]
+  },
+  "tiktok": {
+    "comments": 115,
+    "followers": 20,
+    "forYouShare": "97.8%",
+    "handle": "@showtimelv26",
+    "likes": 664,
+    "profileViews": 134,
+    "rewards": "$0.00",
+    "shares": 17,
+    "videoViews60d": "27K"
+  },
+  "today": [
+    "1. LMAT Shoot: Video 1 + Video 2 (office) - 10:00 AM",
+    "2. Profile share \u23f3 pending - 11:00 AM",
+    "3. LMAT Home: Descript edit + YouTube upload - 7:00 PM"
+  ],
+  "traction": [
+    {
+      "title": "Chrisean / Adam22 (all)",
+      "views": 833
+    },
+    {
+      "title": "Keith Lee vs 2 Chainz",
+      "views": 224
+    },
+    {
+      "title": "Pearl vs Suzannah",
+      "views": 160
+    },
+    {
+      "title": "Kendra G - Veronica",
+      "views": 59
+    },
+    {
+      "title": "GTA 6 - Lucia",
+      "views": 42
+    },
+    {
+      "title": "Prince Treatment",
+      "views": 29
+    }
+  ],
+  "updatedBy": "Brain",
+  "version": 177,
+  "waiting": [
+    "Jaline invite \u2014 approve or pick a time",
+    "2-Step Verification for Partner Program",
+    "Carlo time's-up message \u2014 send or drop",
+    "Friends-list re-check (tonight's wipe)"
+  ],
+  "youtube": {
+    "channel": "Let Me Address This TV",
+    "deadline": "Feb 1, 2027",
+    "handle": "@letmeaddressthis",
+    "hoursGap": 3540.5,
+    "started": "Oct 23, 2026",
+    "subsGained365d": 60,
+    "subsGap": 925,
+    "subscriberGoal": 1000,
+    "subscribers": 75,
+    "top48h": [
+      {
+        "title": "She Spoils Her Man...",
+        "views": 244
+      },
+      {
+        "title": "Eboni K. Williams Says...",
+        "views": 135
+      },
+      {
+        "title": "Woman Gets HUMBLED...",
+        "views": 120
+      }
+    ],
+    "views365d": 42203,
+    "viewsLast48h": 1168,
+    "watchHours": 459.5,
+    "watchHoursGoal": 4000
+  }
 }
