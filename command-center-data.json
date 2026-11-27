@@ -73,17 +73,22 @@
     "tomorrow": "LMAT Shoot: Video 1 + Video 2 (office)"
   },
   "checklist": [
-    "KING: Film Pearl follow-up",
-    "KING: Film Cornell 7",
-    "KING: Upload to Descript",
-    "KING: Edit + upload",
-    "KING: Approve Pearl thumbs",
-    "BRAIN: 1 AM builds + packs",
-    "BRAIN: Packaging after upload",
-    "BRAIN: Publer + IG posts",
-    "BRAIN: Glasses feed refresh",
-    "JALINE: Start call Sun 5 PM",
-    "JALINE: Phase 1 edits+tracker"
+    "## KING",
+    "Film Pearl follow-up",
+    "Film Cornell 7",
+    "Upload recordings to Descript",
+    "Edit + upload to YouTube",
+    "Approve Pearl thumbnails",
+    "## ASSISTANT",
+    "Start call Sun Nov 29, 5 PM",
+    "Phase 1: Descript edits",
+    "Daily tracker updates",
+    "## BRAIN",
+    "1 AM builds + prep packs",
+    "Packaging after upload",
+    "Publer + IG distribution",
+    "Glasses feed refresh",
+    "Check Jaline's finished work"
   ],
   "countdowns": [
     {
@@ -615,7 +620,7 @@
     }
   ],
   "updatedBy": "Brain",
-  "version": 178,
+  "version": 179,
   "waiting": [
     "Jaline invite — approve or pick a time",
     "2-Step Verification for Partner Program",
